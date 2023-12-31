@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://nemediano.github.io/canalREH/sitemap.xml
