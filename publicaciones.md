@@ -14,7 +14,8 @@ seo_description: Publicaciones del Dr. Jorge Antonio García Galicia. Mis áreas
 last_modified_at: 2023-12-22
 ---
 
-
+## Artículos
 
 ## Tesis
 
+## Catálogos
