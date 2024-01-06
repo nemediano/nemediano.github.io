@@ -7,15 +7,24 @@
 #
 layout: home
 
-excerpt: El baúl de Howard trata de hacer análisis en español de la vida y obra de Robert E. Howard. Creador de Conan el bárbaro.
+excerpt: Jorge Antonio García Galicia’s personal website. Stuff about me, including my projects, curriculum vitae and publications.
 
-seo_title: El baúl de Howard análisis en español de la vida y obra de Robert E. Howard.
+seo_title: Nemediano - Jorge Antonio García Galicia’s personal website.
 
-seo_description: El baúl de Howard trata de hacer análisis en español de la vida y obra de Robert E. Howard. Creador de Conan el bárbaro.
+seo_description: Stuff about me, including my projects, curriculum vitae and publications.
 
-last_modified_at: 2023-12-22
+last_modified_at: 2024-01-04
 ---
 
 ![Dr. Jorge García]({{ site.baseurl }}/static/images/nemediano.jpg "Dr. Jorge García")
 
-Soy el Dr. Jorge Antonio García Galicia (a.k.a. nemediano), bienvenido a mi sitio personal.
+Hi, I am Jorge Antonio García Galicia (a.k.a nemediano). This is my personal site where you can find stuff about me, like my projects, resume and publications.
+My professional interests are twofold: as a mathematician I like Geometry (analytic, modern computational, algebraic), and as a computer scientist I love Computer Graphics.
+
+I have a PhD from Purdue University, but I consider UNAM as my alma mater. Currently, I work at Google as a Software Engineer. My [Erdos number]({{ site.baseurl }}/static/pdf/ErdosNumber.pdf){:target="_blank" rel="noreferrer noopener"} is four.
+
+Even Though my professional background is technical, I come from a family of artists which contributed to my development of a great appreciation for art and the humanities.
+
+More personally, I am a geek in all the good senses. I enjoy comics (specially, non-superhero ones), novels, math, art, video games, tv shows, sports, music and cartoons.
+I was born and raised in Mexico city, but now I live with my wife and our two cats in Silicon valley.
+

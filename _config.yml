@@ -1,12 +1,12 @@
 title: Nemediano
 author:
-  name: Dr. Jorge Antonio García Galicia
+  name: Jorge A. García Galicia
   email: jorgeantonio49@gmail.com
 
 # The `>` after `description:` means to ignore line-breaks until next key.
 # If you want to omit the line-break after the end of text, use `>-` instead.
 description: >
-  Sitio personal del Dr. Jorge Antonio García Galicia. Información sobre mis proyectos, mis publicaciones y mi curriculum vitae.
+  Jorge Antonio García Galicia’s personal website. Stuff about me, including: my projects, curriculum vitae and publications.
 
 # Build settings
 
@@ -25,7 +25,7 @@ plugins:
 
 # Theme-specific settings
 
-locale: es_MX
+locale: en_US
 
 timezone: America/Los_Angeles
 
@@ -42,9 +42,9 @@ defaults:
 # If you want to link only specific pages in your header, use this and add the path to the pages
 # in order as they should show up.
 header_pages:
-  - proyectos.md
-  - cv.md
-  - publicaciones.md
+  - projects.md
+  - resume.md
+  - publications.md
 
 # Set to `true` to show excerpts on the homepage.
 #show_excerpts: false
@@ -64,7 +64,7 @@ minima:
   # Minima date format.
   # The default value is "%b %d, %Y" (e.g. Nov 14, 2023) 
   # Refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this.
-  date_format: "%d %b, %Y"
+  date_format: "%b %d, %Y"
 
   # Generate social links in footer.
   social_links:
