@@ -130,8 +130,8 @@ Once the segments are printed, they need to be assembled.
     number   = {6},
     pages    = {322-332},
     keywords = {Digital Geometry Processing, Geometric Modeling, Computational Geometry Modeling,
-                   Categories and Subject Descriptors I.3.5 Computer Graphics: Computational Geometry and
-                   Object Modelling, I.3.8 Computer Graphics: Applications},
+                   Categories and Subject Descriptors I.3.5 Computer Graphics: Computational
+                   Geometry and Object Modelling, I.3.8 Computer Graphics: Applications},
     doi      = {https://doi.org/10.1111/cgf.12353},
     url      = {https://onlinelibrary.wiley.com/doi/abs/10.1111/cgf.12353},
     eprint   = {https://onlinelibrary.wiley.com/doi/pdf/10.1111/cgf.12353},
@@ -342,14 +342,14 @@ Geode is a collaborative effort to fuse public sculpture, soundscape and visual 
 
 * [Permanent link](https://doi.org/10.1145/2810177.2810183){:target="_blank" rel="noreferrer noopener"}
 
-* [Article]({{ site.baseurl }}/static/pdf/articulos/ArtGalleryCatalog.pdf){:target="_blank" rel="noreferrer noopener"}
+* [Article]({{ site.baseurl }}/static/pdf/ArtGalleryCatalog.pdf){:target="_blank" rel="noreferrer noopener"}
 
 
 #### Citation
 
 ```
 @article{VIS-2016-2017Arts,
-    author   = {Groß, Benedikt and Reimann, Raphael and Schmitt, Philipp and Bravo, Esteban Garcia and Carlson, Maxwell and Zernack, Aaron and Garcia, Jorge and Han, Yoon Chung and Tiwari, Shankar and Nagel, Till and Pietsch, Christopher and Stock, Mark J. and Shi, Weili and Westbrook, Jessica Parris and Trowbridge, Adam and Richison, Mike and Goodwin, Mitch and Fay, Clement and Lay, Sebastian and Vermeulen, Jo and Perin, Charles and Donovan, Eric and Dachselt, Raimund and Carpendale, Sheelagh and Heinicker, Paul and Offenhuber, Dietmar and Clark, Duncan and Houston, Robin and Smith, Tristan and Jenik, Adriene and Ribeiro, Clarissa and Lorusso, Mick and Rocha, Herbert and So, Wonyoung and Martino, Mauro and Strobelt, Hendrik and Cornec, Owen and Huang, Scottie Chih-Chieh and Huang, Yu-Chun and Lee, Inhye and Kim, Hyomin and Amelot, Pierre and Hwong, John and McManus, Kate and McGee, Ryan and Neubauer, Mary Bates},
+    author  = {Groß, Benedikt and Reimann, Raphael and Schmitt, Philipp and Bravo, Esteban Garcia and Carlson, Maxwell and Zernack, Aaron and Garcia, Jorge and Han, Yoon Chung and Tiwari, Shankar and Nagel, Till and Pietsch, Christopher and Stock, Mark J. and Shi, Weili and Westbrook, Jessica Parris and Trowbridge, Adam and Richison, Mike and Goodwin, Mitch and Fay, Clement and Lay, Sebastian and Vermeulen, Jo and Perin, Charles and Donovan, Eric and Dachselt, Raimund and Carpendale, Sheelagh and Heinicker, Paul and Offenhuber, Dietmar and Clark, Duncan and Houston, Robin and Smith, Tristan and Jenik, Adriene and Ribeiro, Clarissa and Lorusso, Mick and Rocha, Herbert and So, Wonyoung and Martino, Mauro and Strobelt, Hendrik and Cornec, Owen and Huang, Scottie Chih-Chieh and Huang, Yu-Chun and Lee, Inhye and Kim, Hyomin and Amelot, Pierre and Hwong, John and McManus, Kate and McGee, Ryan and Neubauer, Mary Bates},
     title   = "{IEEE VIS 2016 and 2017 Arts Program Gallery}",
     journal = {Leonardo},
     volume  = {53},
@@ -376,7 +376,7 @@ When a presence is no longer sensed, the shapes are autonomously restored with a
 
 * [Permanent link](https://www.scienceopen.com/hosted-document?doi=10.14236/ewic/eva2015.46){:target="_blank" rel="noreferrer noopener"}
 
-* [Article]({{ site.baseurl }}/static/pdf/articulos/XVReactiveSpaces.pdf){:target="_blank" rel="noreferrer noopener"}
+* [Article]({{ site.baseurl }}/static/pdf/XVReactiveSpaces.pdf){:target="_blank" rel="noreferrer noopener"}
 
 
 #### Citation
