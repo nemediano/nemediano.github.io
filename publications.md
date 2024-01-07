@@ -35,18 +35,18 @@ Our solution reduced printing time by an average of 29.4% (ranging from 13.9% to
 #### Citation
 ```
 @article{Vanek2014a,
-author = {Vanek, J. and Galicia, J. A. G. and Benes, B.},
-title = {Clever Support: Efficient Support Structure Generation for Digital Fabrication},
-journal = {Computer Graphics Forum},
-volume = {33},
-number = {5},
-pages = {117-125},
-keywords = {I.3.5 Computer Graphics: Computational Geometry and Object Modeling—,
-    I.3.8 Computer Graphics: Applications},
-doi = {https://doi.org/10.1111/cgf.12437},
-url = {https://onlinelibrary.wiley.com/doi/abs/10.1111/cgf.12437},
-eprint = {https://onlinelibrary.wiley.com/doi/pdf/10.1111/cgf.12437},
-year = {2014}
+    author   = {Vanek, J. and Galicia, J. A. G. and Benes, B.},
+    title    = {Clever Support: Efficient Support Structure Generation for Digital Fabrication},
+    journal  = {Computer Graphics Forum},
+    volume   = {33},
+    number   = {5},
+    pages    = {117-125},
+    keywords = {I.3.5 Computer Graphics: Computational Geometry and Object Modeling—,
+                    I.3.8 Computer Graphics: Applications},
+    doi      = {https://doi.org/10.1111/cgf.12437},
+    url      = {https://onlinelibrary.wiley.com/doi/abs/10.1111/cgf.12437},
+    eprint   = {https://onlinelibrary.wiley.com/doi/pdf/10.1111/cgf.12437},
+    year     = {2014}
 }
 ```
 
@@ -72,26 +72,26 @@ The result is a globally continuous curve. We demonstrate that printing 2D layer
 
 ```
 @article{Zhao2016,
-  author = {Zhao, Haisen and Gu, Fanglin and Huang, Qi-Xing and Garcia, Jorge
-    and Chen, Yong and Tu, Changhe and Benes, Bedrich and Zhang, Hao
-    and Cohen-Or, Daniel and Chen, Baoquan},
-  title = {Connected Fermat Spirals for Layered Fabrication},
-  journal = {ACM Trans. Graph.},
-  issue_date = {July 2016},
-  volume = {35},
-  number = {4},
-  month = jul,
-  year = {2016},
-  issn = {0730-0301},
-  pages = {100:1--100:10},
-  articleno = {100},
-  numpages = {10},
-  url = {http://doi.acm.org/10.1145/2897824.2925958},
-  doi = {10.1145/2897824.2925958},
-  acmid = {2925958},
-  publisher = {ACM},
-  address = {New York, NY, USA},
-  link = {https://youtu.be/Kh-41evJVjs}
+    author     = {Zhao, Haisen and Gu, Fanglin and Huang, Qi-Xing and Garcia, Jorge
+                     and Chen, Yong and Tu, Changhe and Benes, Bedrich and Zhang, Hao
+                     and Cohen-Or, Daniel and Chen, Baoquan},
+    title      = {Connected Fermat Spirals for Layered Fabrication},
+    journal    = {ACM Trans. Graph.},
+    issue_date = {July 2016},
+    volume     = {35},
+    number     = {4},
+    month      = {jul},
+    year       = {2016},
+    issn       = {0730-0301},
+    pages      = {100:1--100:10},
+    articleno  = {100},
+    numpages   = {10},
+    url        = {http://doi.acm.org/10.1145/2897824.2925958},
+    doi        = {10.1145/2897824.2925958},
+    acmid      = {2925958},
+    publisher  = {ACM},
+    address    = {New York, NY, USA},
+    link       = {https://youtu.be/Kh-41evJVjs}
 }
 
 ```
@@ -122,20 +122,20 @@ Once the segments are printed, they need to be assembled.
 
 ```
 @article{Vanek2014b,
-author = {Vanek, J. and Galicia, J. A. Garcia and Benes, B. and Měch, R.
-     and Carr, N. and Stava, O. and Miller, G. S.},
-title = {PackMerger: A 3D Print Volume Optimizer},
-journal = {Computer Graphics Forum},
-volume = {33},
-number = {6},
-pages = {322-332},
-keywords = {Digital Geometry Processing, Geometric Modeling, Computational Geometry Modeling,
- Categories and Subject Descriptors I.3.5 Computer Graphics: Computational Geometry and
- Object Modelling, I.3.8 Computer Graphics: Applications},
-doi = {https://doi.org/10.1111/cgf.12353},
-url = {https://onlinelibrary.wiley.com/doi/abs/10.1111/cgf.12353},
-eprint = {https://onlinelibrary.wiley.com/doi/pdf/10.1111/cgf.12353},
-year = {2014}
+    author   = {Vanek, J. and Galicia, J. A. Garcia and Benes, B. and Měch, R.
+                    and Carr, N. and Stava, O. and Miller, G. S.},
+    title    = {PackMerger: A 3D Print Volume Optimizer},
+    journal  = {Computer Graphics Forum},
+    volume   = {33},
+    number   = {6},
+    pages    = {322-332},
+    keywords = {Digital Geometry Processing, Geometric Modeling, Computational Geometry Modeling,
+                   Categories and Subject Descriptors I.3.5 Computer Graphics: Computational Geometry and
+                   Object Modelling, I.3.8 Computer Graphics: Applications},
+    doi      = {https://doi.org/10.1111/cgf.12353},
+    url      = {https://onlinelibrary.wiley.com/doi/abs/10.1111/cgf.12353},
+    eprint   = {https://onlinelibrary.wiley.com/doi/pdf/10.1111/cgf.12353},
+    year     = {2014}
 }
 
 ```
@@ -159,17 +159,17 @@ Our novel algorithm considers all four criteria, each weighted according to prin
 
 ```
 @article{Garcia2018,
-title = {Improving printing orientation for Fused Deposition Modeling printers by
- analyzing connected components},
-journal = {Additive Manufacturing},
-volume = {22},
-pages = {720-728},
-year = {2018},
-issn = {2214-8604},
-doi = {https://doi.org/10.1016/j.addma.2018.06.007},
-url = {https://www.sciencedirect.com/science/article/pii/S2214860417302555},
-author = {Jorge A. {García Galicia} and Bedrich Benes},
-keywords = {Additive manufacturing, Optimization, Printing path planning},
+    title    = {Improving printing orientation for Fused Deposition Modeling printers by
+                    analyzing connected components},
+    journal  = {Additive Manufacturing},
+    volume   = {22},
+    pages    = {720-728},
+    year     = {2018},
+    issn     = {2214-8604},
+    doi      = {https://doi.org/10.1016/j.addma.2018.06.007},
+    url      = {https://www.sciencedirect.com/science/article/pii/S2214860417302555},
+    author   = {Jorge A. {García Galicia} and Bedrich Benes},
+    keywords = {Additive manufacturing, Optimization, Printing path planning},
 }
 
 ```
@@ -195,21 +195,21 @@ Graph learning is reasonably fast; in our implementation, learning of a road net
 
 ```
 @inproceedings{Fiser2016,
-  author = {Fi\v{s}er, Marek and Benes, Bedrich and Galicia, Jorge Garcia and
-  Abdul-Massih, Michel and Aliaga, Daniel G and Krs, Vojtech},
-  title = {Learning Geometric Graph Grammars},
-  booktitle = {Proceedings of the 32Nd Spring Conference on Computer Graphics},
-  series = {SCCG '16},
-  year = {2016},
-  isbn = {978-1-4503-4436-4},
-  location = {Slomenice, Slovakia},
-  pages = {7--15},
-  numpages = {9},
-  url = {http://doi.acm.org/10.1145/2948628.2948635},
-  doi = {10.1145/2948628.2948635},
-  acmid = {2948635},
-  publisher = {ACM},
-  address = {New York, NY, USA},
+    author    = {Fi\v{s}er, Marek and Benes, Bedrich and Galicia, Jorge Garcia and
+                     Abdul-Massih, Michel and Aliaga, Daniel G and Krs, Vojtech},
+    title     = {Learning Geometric Graph Grammars},
+    booktitle = {Proceedings of the 32Nd Spring Conference on Computer Graphics},
+    series    = {SCCG '16},
+    year      = {2016},
+    isbn      = {978-1-4503-4436-4},
+    location  = {Slomenice, Slovakia},
+    pages     = {7--15},
+    numpages  = {9},
+    url       = {http://doi.acm.org/10.1145/2948628.2948635},
+    doi       = {10.1145/2948628.2948635},
+    acmid     = {2948635},
+    publisher = {ACM},
+    address   = {New York, NY, USA},
 }
 
 ```
@@ -233,19 +233,19 @@ The authors' goal is to further understand Yturralde's contribution by developin
 
 ```
 @inproceedings{Bravo2015,
-author = {Bravo, Esteban Garc\'{\i}a and Garc\'{\i}a, Jorge A.},
-title = {Yturralde: Impossible Figure Generator},
-year = {2015},
-isbn = {9781450333238},
-publisher = {Association for Computing Machinery},
-address = {New York, NY, USA},
-url = {https://doi.org/10.1145/2810177.2810183},
-doi = {10.1145/2810177.2810183},
-booktitle = {ACM SIGGRAPH Art Papers},
-pages = {366–374},
-numpages = {9},
-location = {Los Angeles, California},
-series = {SIGGRAPH '15}
+    author    = {Bravo, Esteban Garc\'{\i}a and Garc\'{\i}a, Jorge A.},
+    title     = {Yturralde: Impossible Figure Generator},
+    year      = {2015},
+    isbn      = {9781450333238},
+    publisher = {Association for Computing Machinery},
+    address   = {New York, NY, USA},
+    url       = {https://doi.org/10.1145/2810177.2810183},
+    doi       = {10.1145/2810177.2810183},
+    booktitle = {ACM SIGGRAPH Art Papers},
+    pages     = {366–374},
+    numpages  = {9},
+    location  = {Los Angeles, California},
+    series    = {SIGGRAPH '15}
 }
 
 ```
@@ -270,14 +270,14 @@ Printing speeds in our trial are improved by up to 45% by adding the criterion o
 #### Citation
 ```
 @phdthesis{Garcia2017,
-    title        = {3D Printing Speed Optimization by Minimizing Void Paths},
-    author       = {Jorge A. {García Galicia}},
-    year         = {2017},
-    month        = {Augost},
-    address      = {West Lafayette, IN},
-    note         = {Available at \url{https://docs.lib.purdue.edu/dissertations/AAI10615432/}},
-    school       = {Purdue Univeristy},
-    type         = {PhD thesis}
+    title   = {3D Printing Speed Optimization by Minimizing Void Paths},
+    author  = {Jorge A. {García Galicia}},
+    year    = {2017},
+    month   = {Augost},
+    address = {West Lafayette, IN},
+    note    = {Available at \url{https://docs.lib.purdue.edu/dissertations/AAI10615432/}},
+    school  = {Purdue Univeristy},
+    type    = {PhD thesis}
 }
 ```
 
@@ -292,15 +292,15 @@ Printing speeds in our trial are improved by up to 45% by adding the criterion o
 #### Citation
 ```
 @phdthesis{Garcia2012,
-    title        = {Visualización suavizada de superfícies obtenidas por rastreo
-                    de fronteras aplicado a volúmenes discretizados},
-    author       = {Jorge A. {García Galicia}},
-    year         = {2012},
-    month        = {February},
-    address      = {Coyoacan, DF, México},
-    note         = {Available at \url{https://repositorio.unam.mx/contenidos/292221}},
-    school       = {Universidad Nacional Autónoma de México},
-    type         = {Master thesis}
+    title   = {Visualización suavizada de superfícies obtenidas por rastreo
+                 de fronteras aplicado a volúmenes discretizados},
+    author  = {Jorge A. {García Galicia}},
+    year    = {2012},
+    month   = {February},
+    address = {Coyoacan, DF, México},
+    note    = {Available at \url{https://repositorio.unam.mx/contenidos/292221}},
+    school  = {Universidad Nacional Autónoma de México},
+    type    = {Master thesis}
 }
 ```
 
@@ -315,15 +315,15 @@ Printing speeds in our trial are improved by up to 45% by adding the criterion o
 #### Citation
 ```
 @phdthesis{Garcia2008,
-    title        = {Modelado Gráfico de un Cuerpo Neumático con OpenGL
-                    a Base de Ecuaciones Diferenciales},
-    author       = {Jorge A. {García Galicia}},
-    year         = {2008},
-    month        = {Augost},
-    address      = {Acatlán, Edo de Mex, México},
-    note         = {Available at \url{https://repositorio.unam.mx/contenidos/343984}},
-    school       = {Facultad de Estudios Superiores Acatlán, UNAM},
-    type         = {Bacheor thesis}
+    title   = {Modelado Gráfico de un Cuerpo Neumático con OpenGL
+                  a Base de Ecuaciones Diferenciales},
+    author  = {Jorge A. {García Galicia}},
+    year    = {2008},
+    month   = {Augost},
+    address = {Acatlán, Edo de Mex, México},
+    note    = {Available at \url{https://repositorio.unam.mx/contenidos/343984}},
+    school  = {Facultad de Estudios Superiores Acatlán, UNAM},
+    type    = {Bacheor thesis}
 }
 ```
 
@@ -349,18 +349,18 @@ Geode is a collaborative effort to fuse public sculpture, soundscape and visual 
 
 ```
 @article{VIS-2016-2017Arts,
-    author = {Groß, Benedikt and Reimann, Raphael and Schmitt, Philipp and Bravo, Esteban Garcia and Carlson, Maxwell and Zernack, Aaron and Garcia, Jorge and Han, Yoon Chung and Tiwari, Shankar and Nagel, Till and Pietsch, Christopher and Stock, Mark J. and Shi, Weili and Westbrook, Jessica Parris and Trowbridge, Adam and Richison, Mike and Goodwin, Mitch and Fay, Clement and Lay, Sebastian and Vermeulen, Jo and Perin, Charles and Donovan, Eric and Dachselt, Raimund and Carpendale, Sheelagh and Heinicker, Paul and Offenhuber, Dietmar and Clark, Duncan and Houston, Robin and Smith, Tristan and Jenik, Adriene and Ribeiro, Clarissa and Lorusso, Mick and Rocha, Herbert and So, Wonyoung and Martino, Mauro and Strobelt, Hendrik and Cornec, Owen and Huang, Scottie Chih-Chieh and Huang, Yu-Chun and Lee, Inhye and Kim, Hyomin and Amelot, Pierre and Hwong, John and McManus, Kate and McGee, Ryan and Neubauer, Mary Bates},
-    title = "{IEEE VIS 2016 and 2017 Arts Program Gallery}",
+    author   = {Groß, Benedikt and Reimann, Raphael and Schmitt, Philipp and Bravo, Esteban Garcia and Carlson, Maxwell and Zernack, Aaron and Garcia, Jorge and Han, Yoon Chung and Tiwari, Shankar and Nagel, Till and Pietsch, Christopher and Stock, Mark J. and Shi, Weili and Westbrook, Jessica Parris and Trowbridge, Adam and Richison, Mike and Goodwin, Mitch and Fay, Clement and Lay, Sebastian and Vermeulen, Jo and Perin, Charles and Donovan, Eric and Dachselt, Raimund and Carpendale, Sheelagh and Heinicker, Paul and Offenhuber, Dietmar and Clark, Duncan and Houston, Robin and Smith, Tristan and Jenik, Adriene and Ribeiro, Clarissa and Lorusso, Mick and Rocha, Herbert and So, Wonyoung and Martino, Mauro and Strobelt, Hendrik and Cornec, Owen and Huang, Scottie Chih-Chieh and Huang, Yu-Chun and Lee, Inhye and Kim, Hyomin and Amelot, Pierre and Hwong, John and McManus, Kate and McGee, Ryan and Neubauer, Mary Bates},
+    title   = "{IEEE VIS 2016 and 2017 Arts Program Gallery}",
     journal = {Leonardo},
-    volume = {53},
-    number = {1},
-    pages = {6-24},
-    year = {2020},
-    month = {02},
-    issn = {0024-094X},
-    doi = {10.1162/leon_a_01837},
-    url = {https://doi.org/10.1162/leon\_a\_01837},
-    eprint = {https://direct.mit.edu/leon/article-pdf/53/1/6/1579585/leon\_a\_01837.pdf},
+    volume  = {53},
+    number  = {1},
+    pages   = {6-24},
+    year    = {2020},
+    month   = {02},
+    issn    = {0024-094X},
+    doi     = {10.1162/leon_a_01837},
+    url     = {https://doi.org/10.1162/leon\_a\_01837},
+    eprint  = {https://direct.mit.edu/leon/article-pdf/53/1/6/1579585/leon\_a\_01837.pdf},
 }
 ```
 
@@ -383,14 +383,13 @@ When a presence is no longer sensed, the shapes are autonomously restored with a
 
 ```
 @inproceedings{inproceedings,
-author = {Garcia Bravo, Esteban and Garcia Galicia, Jorge and Zernack, Aaron},
-year = {2015},
-month = {07},
-publisher = {Association for Computing Machinery},
-pages = {},
-booktitle = {Electronic Visualisation and the Arts 2015},
-title = {XV: Reactive Spaces},
-doi = {10.14236/ewic/eva2015.46}
+    author    = {Garcia Bravo, Esteban and Garcia Galicia, Jorge and Zernack, Aaron},
+    year      = {2015},
+    month     = {07},
+    publisher = {Association for Computing Machinery},
+    booktitle = {Electronic Visualisation and the Arts 2015},
+    title     = {XV: Reactive Spaces},
+    doi       = {10.14236/ewic/eva2015.46}
 }
 
 ```
