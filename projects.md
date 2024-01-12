@@ -36,14 +36,14 @@ These are some of the events where they have invited me to talk. The actual talk
 
 ## Touring with Pixels
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kgyVrOzmpf0?si=P8x_QKCuRiTa03Qf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen> </iframe>
+{% include youtube.html id='kgyVrOzmpf0' %}
 
 This is a “my journey” presentation, about me. I detail how the early interest in video games in my childhood took me into a journey into math and computer science, that included doing a PhD and working at Google.
 The talk was presented at [FES Acatlan](https://acatlan.unam.mx/){:target="_blank" rel="noreferrer noopener"}, as part of the [40th anniversary](https://mac.acatlan.unam.mx/micrositios/40anios/principal.html){:target="_blank" rel="noreferrer noopener"} of the bachelors program in [Applied Mathematics and Computer Science](https://mac.acatlan.unam.mx/){:target="_blank" rel="noreferrer noopener"}. It was presented on march 1st of 2023
 
 ## Interview about Robert E. Howard
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kqdjA88cibk?si=1t_vnPTM3Gbb8XUH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen> </iframe>
+{% include youtube.html id='kqdjA88cibk' %}
 
 My wife has her own [youtube channel](https://www.youtube.com/@eleutherialekona), where she has a seccion where she interviews guests. She invited me to talk about one of my personal favorite subjects: life and work of the American writer Rober E. Howard, the creator of Conan.
 
