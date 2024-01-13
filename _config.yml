@@ -43,7 +43,7 @@ defaults:
         width: 256
         alt: Dr. Jorge Antonio García Galicia, profile picture
 
-# google_analytics: G-S75126STF6
+google_analytics: G-BYZ69NLT7L
 
 # If you want to link only specific pages in your header, use this and add the path to the pages
 # in order as they should show up.

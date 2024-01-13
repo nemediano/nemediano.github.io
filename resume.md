@@ -87,9 +87,11 @@ Later, they switched me to the 3D graphics driver for the mobile team, where I d
 ![WTC Mexico]({{ site.baseurl }}/static/images/places/tsc.jpg "WTC Mexico")
 
 After finishing my bachelor's courses in 2008, I joined [Tecnologia en Sistemas de Computo](https://mx.linkedin.com/company/tecnologia-en-sistemas-de-computotsc){:target="_blank" rel="noreferrer noopener"} which is software consulting company in CDMX.
-I started woking there _before_ getting my bachelors diploma (a desition I regret until today).
-On the bright side, this was my first professional experience, were I started as an intern and then move to a QA role.
-I worked on migrating a system from Insterbase and PoweHouse to Java and Oracle
+
+I started woking at TSC _before_ getting my bachelors diploma (a desition I regret until today).
+On the bright side, this was my first professional experience.
+I started as an intern and then move to a QA role.
+I worked on migrating a system from Insterbase and PoweHouse to Java and Oracle.
 
 ## Internships
 
@@ -168,7 +170,9 @@ Since most of my professional life I have been a software engineer.
 I have extensive experience programming. Nowadays I feel more comfortable using C++, including most of the C++11 features and some of the C++20.
 Having said that I am a competent developer in similar languages like C#, Java or C (as in the C19 standar).
 
-I have also spent most of my professional life working in POSIX operating systems and I feel most comfortable on GNU/Linux.
+I also have experience using programming languages with large frameworks behind them, like Python, Matlab, Qt (with C++) and R.
+
+I have spent most of my professional life working in POSIX operating systems and I feel most comfortable on GNU/Linux.
 Again, I am a competent developer in a Windows environment too.
 
 As a shader language I have always preferred GLSL (either with OpenGL or Vulkan).
@@ -177,15 +181,20 @@ However I do know enough HLSL (with DX11 or DX12) to accomplish most graphics ta
 ### Frameworks and APIs
 
 My focus has been as a graphics programmer and I usually use [GLTF](https://www.glfw.org/){:target="_blank" rel="noreferrer noopener"} as a windows manager and different libraries (recently I have been a huge fan of [Dear imgui](https://github.com/ocornut/imgui){:target="_blank" rel="noreferrer noopener"}) to do UI for graphics apps.
+
 I also have experience using higher level game engines like Unity and Unreal, but I am not an expert on those (yet!).
 
-I also have experience using programming languages with large frameworks behind them, like Python, Matlab, Qt (with C++) and R.
 
 Finally, I have moderate experience as a web developer using PHP and ASP.NET MVC, at the backend with some knowledge of Javascript, HTML and CSS for the front end.
 
-### Software engineering general skills
+### General software engineering skills
 
 I have experience working with SVN, but right now I am only using either git (my favorite) or P4.
 I usually develop using the Android approach, which includes [Gerrit](https://www.gerritcodereview.com/){:target="_blank" rel="noreferrer noopener"}. However, I like using Github for my personal projects.
 
-I am used to work in small teams that use spring based development and track their progress on regular meetings.
+I usually work in small teams that do sprint based development, track their progress SW tools and on regular meetings.
+I am used to writing unit tests, doing code reviews and to present my work on meetings.
+
+I am also used to working either from the office or from home. This means that I am able to keep constant communication with my team by chat, VC If any of us is remote.
+If we are in the office, I like to chat and go for lunch with my teammates.
+
