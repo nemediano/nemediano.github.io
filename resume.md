@@ -11,11 +11,16 @@ seo_title: Resume - Dr. Jorge Antonio García Galicia.
 
 seo_description: A lengthy version of my resume and link to download the brief pdf version of it.
 
-last_modified_at: 2024-01-04
+last_modified_at: 2024-01-13
 ---
 
 This is a rather verbose and lengthy version of my resume since I don't have any space/format constraints here. However, if you are looking for a quick and brief version, you can download the [pdf version]({{ site.baseurl }}/static/pdf/JorgeGarciaResume.pdf){:target="_blank" rel="noreferrer noopener"} or visit my [LinkedIN](https://www.linkedin.com/in/jorgegarciagalicia/){:target="_blank" rel="noreferrer noopener"} profile.
 
+
+<h3>Table of Contents</h3>
+
+* TOC
+{:toc}
 
 ## Education
 
@@ -23,11 +28,14 @@ This is a rather verbose and lengthy version of my resume since I don't have any
 
 ![Purdue University]({{ site.baseurl }}/static/images/places/purdue2.jpg "Purdue University")
 
-I studied [PhD in Technology](https://polytechnic.purdue.edu/degrees/phd-technology){:target="_blank" rel="noreferrer noopener"} at [Purdue University](https://www.purdue.edu/){:target="_blank" rel="noreferrer noopener"}, which is imparted at the [Purdue Polytechnic Institute](https://polytechnic.purdue.edu/){:target="_blank" rel="noreferrer noopener"} (formerly known as the College of Technology) which is in the main campus in West Lafayette (Indiana, USA).
+I studied [PhD in Technology](https://polytechnic.purdue.edu/degrees/phd-technology){:target="_blank" rel="noreferrer noopener"} at [Purdue University](https://www.purdue.edu/){:target="_blank" rel="noreferrer noopener"}, that is imparted at the [Purdue Polytechnic Institute](https://polytechnic.purdue.edu/){:target="_blank" rel="noreferrer noopener"} (formerly known as the College of Technology) which is in the main campus at West Lafayette (Indiana, USA).
 
-Each PhD student belongs to a department. I was in the department of [Computer Graphics Technology](https://polytechnic.purdue.edu/departments/computer-graphics-technology){:target="_blank" rel="noreferrer noopener"}. The curriculum for the PhD requires taking statistics, and methodology of research courses. In addition I took courses in Computer Graphics, since it was my field requirements and on Computer Science and Mathematics for my optional courses.
+Each PhD student belongs to a department. I was in the department of [Computer Graphics Technology](https://polytechnic.purdue.edu/departments/computer-graphics-technology){:target="_blank" rel="noreferrer noopener"}.
+The curriculum for the PhD requires taking statistics, and methodology of research courses.
+In addition, I took courses in Computer Graphics, since it was my area of research and on Computer Science and Mathematics for my optional courses.
 
-During my PhD, my supervisor and mentor was [Dr. Bedrich Benes](https://cs.purdue.edu/homes/bbenes/){:target="_blank" rel="noreferrer noopener"}. I was part of the HPCG lab (now part of Computer Science ) where I conducted research on Computer Graphics and Additive Manufacturing (a. k. a. 3D printing), that culminated in several [publications]({{ site.baseurl }}/publications/).
+During my PhD, my supervisor and mentor was [Dr. Bedrich Benes](https://cs.purdue.edu/homes/bbenes/){:target="_blank" rel="noreferrer noopener"}.
+I was part of the HPCG lab (now part of Computer Science ) where I conducted research on Computer Graphics and Additive Manufacturing (a. k. a. 3D printing), that culminated in several [publications]({{ site.baseurl }}/publications/).
 
 ### Master degree
 
@@ -58,7 +66,10 @@ I decided to get my degree by doing a thesis. My thesis supervisor was [Dr. Mari
 
 ![Googleplex]({{ site.baseurl }}/static/images/places/google1.jpg "Googleplex")
 
-I joined [Google](https://about.google/){:target="_blank" rel="noreferrer noopener"} on March of 2021 as a Technical Solutions Engineer in [Stadia](https://stadia.google.com/gg/){:target="_blank" rel="noreferrer noopener"}. My main job was helping partners bring their content (video games) to the platform. My focus was computer graphics, so I provided support for DX11, DX12 and Vulkan.
+I joined [Google](https://about.google/){:target="_blank" rel="noreferrer noopener"} on March of 2021 as a Technical Solutions Engineer in [Stadia](https://stadia.google.com/gg/){:target="_blank" rel="noreferrer noopener"}.
+My main job was helping partners bring their content (video games) to the platform.
+My focus was computer graphics, so I provided support for DX11, DX12 and Vulkan.
+I also contributed with backend and samples to [Big Wheels](https://github.com/google/bigwheels){:target="_blank" rel="noreferrer noopener"}, a graphics framework that later became open source.
 
 Stadia was shut down on January of 2023, and after being jumping on several projects I switched to a Software Engineer position and become part of the Platforms and Ecosystems organization, where I contribute to shape Google’s [vision on XR](https://arvr.google.com/){:target="_blank" rel="noreferrer noopener"}.
 
@@ -75,7 +86,10 @@ Later, they switched me to the 3D graphics driver for the mobile team, where I d
 
 ![WTC Mexico]({{ site.baseurl }}/static/images/places/tsc.jpg "WTC Mexico")
 
-After finishing my bachelor's courses in 2008, I joined [Tecnologia en Sistemas de Computo](https://mx.linkedin.com/company/tecnologia-en-sistemas-de-computotsc){:target="_blank" rel="noreferrer noopener"} which is software consulting company in CDMX. I started woking there before getting my bachelors diploma (a dessition I regret until today). On the bright side, this was my first professional experience, were I started as an intern and then move to a QA role. I worked on migrating a system from Insterbase and PoweHouse to Java and Oracle
+After finishing my bachelor's courses in 2008, I joined [Tecnologia en Sistemas de Computo](https://mx.linkedin.com/company/tecnologia-en-sistemas-de-computotsc){:target="_blank" rel="noreferrer noopener"} which is software consulting company in CDMX.
+I started woking there _before_ getting my bachelors diploma (a desition I regret until today).
+On the bright side, this was my first professional experience, were I started as an intern and then move to a QA role.
+I worked on migrating a system from Insterbase and PoweHouse to Java and Oracle
 
 ## Internships
 
@@ -95,11 +109,13 @@ This was by far the more interesting internship I had. I implemented some classi
 
 ![Nvidia HQ]({{ site.baseurl }}/static/images/places/nvidia1.jpg "Nvidia HQ")
 
-During the summer of 2015 I did a _second_ internship at [Nvidia](https://www.nvidia.com/){:target="_blank" rel="noreferrer noopener"}, and again in the driver team. However, this time I was at the OpenGL driver team. Where I did work was to expose some OpenGL extensions in the driver and to fix some bugs in the OpenGL debug extension.
+My first internship with Nvidia was in 2014 at the [headquarters](https://nvidianews.nvidia.com/multimedia/santa-clara-headquarters){:target="_blank" rel="noreferrer noopener"}.
+I worked in the DirectX driver team, where I implemented some video format encoding in the GPU via their own assembly language.
+This was my first professional opportunity to work as a Software Engineer in Silicon Valley.
 
-***
-
-My first internship with Nvidia was in 2014 at the [headquarters](https://nvidianews.nvidia.com/multimedia/santa-clara-headquarters){:target="_blank" rel="noreferrer noopener"}. I worked in the DirectX driver team, where I implemented some video format encoding in the GPU via their own assembly language. This was my first professional opportunity to work as a Software Engineer in Silicon Valley.
+During the summer of 2015 I did a _second_ internship at [Nvidia](https://www.nvidia.com/){:target="_blank" rel="noreferrer noopener"}, and again in the graphics driver.
+However, this time I was at the OpenGL driver team.
+Where I did work to expose some OpenGL extensions in the driver and to fix some bugs in the OpenGL debug extension.
 
 ## Experience in the academy
 
@@ -170,6 +186,6 @@ Finally, I have moderate experience as a web developer using PHP and ASP.NET MVC
 ### Software engineering general skills
 
 I have experience working with SVN, but right now I am only using either git (my favorite) or P4.
-I usually do the Android approach, which includes [Gerrit](https://www.gerritcodereview.com/){:target="_blank" rel="noreferrer noopener"} for work; and I like playing in Github for my personal projects.
+I usually develop using the Android approach, which includes [Gerrit](https://www.gerritcodereview.com/){:target="_blank" rel="noreferrer noopener"}. However, I like using Github for my personal projects.
 
-I am used to working in small teams that usually work on spring based development and track their progress in regular meetings.
+I am used to work in small teams that use spring based development and track their progress on regular meetings.

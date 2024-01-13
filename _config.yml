@@ -31,11 +31,17 @@ timezone: America/Los_Angeles
 
 permalink: /:title
 
+# Default front matter to use Openg Graph previews
+
 defaults:
   - scope:
       path: ""
     values:
-      image: /assets/images/default-card.png
+      image:
+        path: /static/images/nemediano.jpg
+        height: 256
+        width: 256
+        alt: Dr. Jorge Antonio García Galicia, profile picture
 
 # google_analytics: G-S75126STF6
 

@@ -11,8 +11,13 @@ seo_title: Publicactions - Dr. Jorge Antonio García Galicia.
 
 seo_description: Jorge Antonio García Galicia’s personal website. In this section you will find my publications in journals, my dissertations and the times my work has been featured in an art catalog.
 
-last_modified_at: 2024-01-07
+last_modified_at: 2024-01-13
 ---
+
+1. TOC
+{:toc}
+
+## Research papers
 
 ### Clever support: Efficient support structure generation for digital fabrication
 
@@ -32,7 +37,6 @@ Our solution reduced printing time by an average of 29.4% (ranging from 13.9% to
 * [Article]({{ site.baseurl }}/static/pdf/articulos/CleverSupport.pdf){:target="_blank" rel="noreferrer noopener"}
 
 
-#### Citation
 ```
 @article{Vanek2014a,
     author   = {Vanek, J. and Galicia, J. A. G. and Benes, B.},
@@ -68,7 +72,9 @@ The result is a globally continuous curve. We demonstrate that printing 2D layer
 * [Article]({{ site.baseurl }}/static/pdf/articulos/FermatSpirals.pdf){:target="_blank" rel="noreferrer noopener"}
 
 
-#### Citation
+* [Haisen Zhao](https://haisenzhao.github.io/){:target="_blank" rel="noreferrer noopener"} which is the principal author, has a very compensive [page](https://haisenzhao.github.io/CFS/index.html){:target="_blank" rel="noreferrer noopener"} about this paper.
+
+* This paper was [featured](https://www.youtube.com/watch?v=6rNcAVr-U4s){:target="_blank" rel="noreferrer noopener"} in the youtube chanel: [Two minute papers](https://www.youtube.com/@TwoMinutePapers){:target="_blank" rel="noreferrer noopener"}.
 
 ```
 @article{Zhao2016,
@@ -117,8 +123,7 @@ Once the segments are printed, they need to be assembled.
 
 * [Article]({{ site.baseurl }}/static/pdf/articulos/PackMerger.pdf){:target="_blank" rel="noreferrer noopener"}
 
-
-#### Citation
+* This paper also has a [video](https://www.youtube.com/watch?v=sBgSr7JItmo){:target="_blank" rel="noreferrer noopener"}.
 
 ```
 @article{Vanek2014b,
@@ -155,8 +160,6 @@ Our novel algorithm considers all four criteria, each weighted according to prin
 * [Article]({{ site.baseurl }}/static/pdf/articulos/printingOrientation.pdf){:target="_blank" rel="noreferrer noopener"}
 
 
-#### Citation
-
 ```
 @article{Garcia2018,
     title    = {Improving printing orientation for Fused Deposition Modeling printers by
@@ -190,8 +193,6 @@ Graph learning is reasonably fast; in our implementation, learning of a road net
 
 * [Article]({{ site.baseurl }}/static/pdf/articulos/GraphGrammars.pdf){:target="_blank" rel="noreferrer noopener"}
 
-
-#### Citation
 
 ```
 @inproceedings{Fiser2016,
@@ -229,8 +230,6 @@ The authors' goal is to further understand Yturralde's contribution by developin
 * [Article]({{ site.baseurl }}/static/pdf/articulos/ImpossibleFigures.pdf){:target="_blank" rel="noreferrer noopener"}
 
 
-#### Citation
-
 ```
 @inproceedings{Bravo2015,
     author    = {Bravo, Esteban Garc\'{\i}a and Garc\'{\i}a, Jorge A.},
@@ -267,7 +266,7 @@ Printing speeds in our trial are improved by up to 45% by adding the criterion o
 
 * [Full text]({{ site.baseurl }}/static/pdf/tesis/thesisPHD.pdf){:target="_blank" rel="noreferrer noopener"}
 
-#### Citation
+
 ```
 @phdthesis{Garcia2017,
     title   = {3D Printing Speed Optimization by Minimizing Void Paths},
@@ -281,15 +280,16 @@ Printing speeds in our trial are improved by up to 45% by adding the criterion o
 }
 ```
 
-### Visualización suavizada de superfícies obtenidas por rastreo de fronteras aplicado a volúmenes discretizados
+### Visualization of smoothed surfaces obtained by applying boundary tracking to discretized volumes.
 
 ![ Master thesis ]({{ site.baseurl }}/static/images/master_thesis.jpg "Master thesis image")
 
 * [Permanent link](https://repositorio.unam.mx/contenidos/292221){:target="_blank" rel="noreferrer noopener"}
 
-* [Full text]({{ site.baseurl }}/static/pdf/tesis/tesisMaestria.pdf){:target="_blank" rel="noreferrer noopener"}
+* [Full text]({{ site.baseurl }}/static/pdf/tesis/tesisMaestria.pdf){:target="_blank" rel="noreferrer noopener"} in Spanish.
 
-#### Citation
+* The title in Spanish is: "Visualización suavizada de superfícies obtenidas por rastreo de fronteras aplicado a volúmenes discretizados"
+
 ```
 @phdthesis{Garcia2012,
     title   = {Visualización suavizada de superfícies obtenidas por rastreo
@@ -304,15 +304,19 @@ Printing speeds in our trial are improved by up to 45% by adding the criterion o
 }
 ```
 
-### Modelado Gráfico de un Cuerpo Neumático con OpenGL a Base de Ecuaciones Diferenciales
+### Graphic Modeling of a Pneumatic Body with OpenGL using Differential Equations
 
 ![ Bachelor thesis ]({{ site.baseurl }}/static/images/bachelor_thesis.jpg "Bachelor thesis image")
 
-* [Permanent link](https://repositorio.unam.mx/contenidos/343984){:target="_blank" rel="noreferrer noopener"}
+* The original thesis was presented in 2008. However, in 2019 I decided to do a new edition using only free software and modern OpenGL and rewriting some of the text, which resulted in a [full repository](https://github.com/nemediano/TesisLicenciatura){:target="_blank" rel="noreferrer noopener"} for this work.
 
-* [Full text]({{ site.baseurl }}/static/pdf/tesis/tesisLicenciatura.pdf){:target="_blank" rel="noreferrer noopener"}
+* [Permanent link](https://repositorio.unam.mx/contenidos/343984){:target="_blank" rel="noreferrer noopener"} to the original text in Spanish.
 
-#### Citation
+* [Full text]({{ site.baseurl }}/static/pdf/tesis/tesisLicenciatura.pdf){:target="_blank" rel="noreferrer noopener"} of the new version, also in Spanish.
+
+
+* The title in Spanish is: "Modelado Gráfico de un Cuerpo Neumático con OpenGL a Base de Ecuaciones Diferenciales"
+
 ```
 @phdthesis{Garcia2008,
     title   = {Modelado Gráfico de un Cuerpo Neumático con OpenGL
@@ -345,8 +349,6 @@ Geode is a collaborative effort to fuse public sculpture, soundscape and visual 
 * [Article]({{ site.baseurl }}/static/pdf/ArtGalleryCatalog.pdf){:target="_blank" rel="noreferrer noopener"}
 
 
-#### Citation
-
 ```
 @article{VIS-2016-2017Arts,
     author  = {Groß, Benedikt and Reimann, Raphael and Schmitt, Philipp and Bravo, Esteban Garcia and Carlson, Maxwell and Zernack, Aaron and Garcia, Jorge and Han, Yoon Chung and Tiwari, Shankar and Nagel, Till and Pietsch, Christopher and Stock, Mark J. and Shi, Weili and Westbrook, Jessica Parris and Trowbridge, Adam and Richison, Mike and Goodwin, Mitch and Fay, Clement and Lay, Sebastian and Vermeulen, Jo and Perin, Charles and Donovan, Eric and Dachselt, Raimund and Carpendale, Sheelagh and Heinicker, Paul and Offenhuber, Dietmar and Clark, Duncan and Houston, Robin and Smith, Tristan and Jenik, Adriene and Ribeiro, Clarissa and Lorusso, Mick and Rocha, Herbert and So, Wonyoung and Martino, Mauro and Strobelt, Hendrik and Cornec, Owen and Huang, Scottie Chih-Chieh and Huang, Yu-Chun and Lee, Inhye and Kim, Hyomin and Amelot, Pierre and Hwong, John and McManus, Kate and McGee, Ryan and Neubauer, Mary Bates},
@@ -378,8 +380,6 @@ When a presence is no longer sensed, the shapes are autonomously restored with a
 
 * [Article]({{ site.baseurl }}/static/pdf/XVReactiveSpaces.pdf){:target="_blank" rel="noreferrer noopener"}
 
-
-#### Citation
 
 ```
 @inproceedings{inproceedings,
