@@ -47,8 +47,10 @@ The talk was presented at [FES Acatlan](https://acatlan.unam.mx/){:target="_blan
 
 My wife has her own [youtube channel](https://www.youtube.com/@eleutherialekona), where she has a seccion where she interviews guests. She invited me to talk about one of my personal favorite subjects: life and work of the American writer Rober E. Howard, the creator of Conan.
 
-## Round table on Free Software at Beware of science
+## Round table on Myths of Free Software at Beware of science
 
+<div class="youtube-wrapper">
 <iframe src="https://www.facebook.com/plugins/video.php?height=315&href=https%3A%2F%2Fwww.facebook.com%2Faguasconlaciencia%2Fvideos%2F949258865582873%2F&show_text=false&width=560&t=0" width="560" height="315" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"> </iframe>
+</div>
 
 [Beware of science](https://www.facebook.com/aguasconlaciencia){:target="_blank" rel="noreferrer noopener"} is a weekly show on FB about science. They invited me, along with other experts; to [a round table](https://fb.watch/ppsZG28yYs/){:target="_blank" rel="noreferrer noopener"} about another of my personal interests: Free Software.

@@ -125,16 +125,19 @@ Where I did work to expose some OpenGL extensions in the driver and to fix some 
 
 ![Knoy Hall Purdue]({{ site.baseurl }}/static/images/places/purdue1.jpg "Knoy Hall Purdue")
 
-While doing my PhD, I had to work, first as a research assistant (RA) and later as a teaching assistant (TA) both at Purdue Polytechnic Institute. As an RA I spend my time working on research at the [HPCG lab](https://polytechnic.purdue.edu/facilities/high-performance-computer-graphics-lab){:target="_blank" rel="noreferrer noopener"}, which resulted in my publications.
+While doing my PhD, I had to work, first as a research assistant (RA) and later as a teaching assistant (TA) both at Purdue Polytechnic Institute. As an RA I spend my time working on research at the [HPCG lab](https://polytechnic.purdue.edu/facilities/high-performance-computer-graphics-lab){:target="_blank" rel="noreferrer noopener"}, which resulted in [my publications]({{ site.baseurl }}/publications/).
 
 As a TA I assisted in teaching Graphics and programming courses for the [CGT major](https://polytechnic.purdue.edu/departments/computer-graphics-technology){:target="_blank" rel="noreferrer noopener"}.
 I worked in designing quizzes and grading for courses in web development (both front end and back end) and in Computer Graphics programming, which was always my favorite, because we teached OpenGL and GLSL.
+
+Finally, I was also part of the [Computational Arts Circle](https://boilerlink.purdue.edu/organization/cac){:target="_blank" rel="noreferrer noopener"}, where I had the chance of colaborating with [Dr Esteban García Bravo](https://polytechnic.purdue.edu/profile/garcia0){:target="_blank" rel="noreferrer noopener"} (a.k.a [snebtor](https://snebtor.org/){:target="_blank" rel="noreferrer noopener"}).
+Some of these colaborations also culminted in [publications]({{ site.baseurl }}/publications/).
 
 ### National Autonomous University of Mexico
 
 At UNAM I had the chance of being a teacher assistant at the Science school and lecturer at FES Acatlan and a research assistant at IIMAS and Science school.
 
-### FES Acatlan
+#### FES Acatlan
 
 ![FES Acatlan UNAM]({{ site.baseurl }}/static/images/places/acatlan1.jpg "FES Acatlan UNAM")
 
@@ -143,7 +146,7 @@ I taught two courses: Computer Graphics, which is my personal favorite and [Grap
 At FESA I tried to do my best to help and participate in every possible activity.
 Among others I was a technical council member, contributed to design M@'s plan of study and advised freshman students as a mentor.
 
-### Science School
+#### Science School
 
 ![Facultad de ciencias UNAM]({{ site.baseurl }}/static/images/places/ciencias1.jpg "Facultad de ciencias UNAM")
 
@@ -152,14 +155,14 @@ The first: Advanced Programming was about Object Oriented Programming.
 The second: Modern Geometry was about doing geometry using only a ruler and a pair of compasses.
 Modern Geometry it's a funny name since it is the way geometry was studied in ancient Greece.
 
-Before that I was also working in a laboratory assistant as part of one of the Macropoject at UNAM (I was located also at Science school) for a few months in 2006-2007.
+Before that, I also worked as a laboratory assistant as part of one of the Macropojects at UNAM (which was located also at Science school) for a few months in 2006-2007.
 There I was in charge of maintaining our SVN repositories and created a website using a LAMP suite.
 
-### Institute of Research in Applied Mathematics and Systems
+#### Institute of Research in Applied Mathematics and Systems
 
 ![IIMAS UNAM]({{ site.baseurl }}/static/images/places/iimas2.jpg "IIMAS UNAM")
 
-Right after finishing my masters, the [Department of Computer Science](https://www.iimas.unam.mx/ciencias-de-la-computacion/){:target="_blank" rel="noreferrer noopener"} of [IIMAS](https://www.iimas.unam.mx/){:target="_blank" rel="noreferrer noopener"} gave me a temporary position as a research assistant for Dr Maria Elena Martinez where I contributed in a research about segmenting blood vessels from retina images obtained by a fundus camera, which was a very fun and difficult project.
+Right after finishing my masters, the [Department of Computer Science](https://www.iimas.unam.mx/ciencias-de-la-computacion/){:target="_blank" rel="noreferrer noopener"} of [IIMAS](https://www.iimas.unam.mx/){:target="_blank" rel="noreferrer noopener"} gave me a temporary position as a research assistant for [Dr Maria Elena Martinez Perez](http://www.pcic.unam.mx/~elena/){:target="_blank" rel="noreferrer noopener"} where I contributed in a research about segmenting blood vessels from retina images obtained by a fundus camera, which was a very fun and difficult project.
 
 
 ## Computer skills
