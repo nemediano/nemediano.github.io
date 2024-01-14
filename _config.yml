@@ -6,7 +6,7 @@ author:
 # The `>` after `description:` means to ignore line-breaks until next key.
 # If you want to omit the line-break after the end of text, use `>-` instead.
 description: >
-  I'm Jorge Antonio García Galicia, this is my website. You can find info about me, like projects, curriculum vitae and publications.
+  I'm Jorge Antonio García Galicia, here you can find info about me, like projects, curriculum vitae and publications.
 
 # Build settings
 

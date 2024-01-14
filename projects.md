@@ -5,11 +5,11 @@ title: Personal projects
 
 permalink: /projects/
 
-excerpt: A non comprehensive list of Jorge Antonio García Galicia projects and talks.
+excerpt: A non comprehensive list of my personal projects and the events that I have been invited to talk.
 
 seo_title: Personal projects - Jorge Antonio García Galicia.
 
-seo_description: This is a non comprehensive list of my personal projects and the events that I have been invited to talk.
+seo_description: A non comprehensive list of my personal projects and the events that I have been invited to talk.
 
 last_modified_at: 2024-01-06
 ---

@@ -28,7 +28,7 @@ This is a rather verbose and lengthy version of my resume since I don't have any
 
 ![Purdue University]({{ site.baseurl }}/static/images/places/purdue2.jpg "Purdue University")
 
-I studied [PhD in Technology](https://polytechnic.purdue.edu/degrees/phd-technology){:target="_blank" rel="noreferrer noopener"} at [Purdue University](https://www.purdue.edu/){:target="_blank" rel="noreferrer noopener"}, that is imparted at the [Purdue Polytechnic Institute](https://polytechnic.purdue.edu/){:target="_blank" rel="noreferrer noopener"} (formerly known as the College of Technology) which is in the main campus at West Lafayette (Indiana, USA).
+I studied a [PhD in Technology](https://polytechnic.purdue.edu/degrees/phd-technology){:target="_blank" rel="noreferrer noopener"} at [Purdue University](https://www.purdue.edu/){:target="_blank" rel="noreferrer noopener"}, that is imparted at the [Purdue Polytechnic Institute](https://polytechnic.purdue.edu/){:target="_blank" rel="noreferrer noopener"} (formerly known as the College of Technology) which is in the main campus at West Lafayette (Indiana, USA).
 
 Each PhD student belongs to a department. I was in the department of [Computer Graphics Technology](https://polytechnic.purdue.edu/departments/computer-graphics-technology){:target="_blank" rel="noreferrer noopener"}.
 The curriculum for the PhD requires taking statistics, and methodology of research courses.
@@ -42,7 +42,8 @@ I was part of the HPCG lab (now part of Computer Science ) where I conducted res
 ![IIMAS UNAM]({{ site.baseurl }}/static/images/places/iimas1.jpg "IIMAS UNAM")
 
 I studied a [Master's degree in Computer Science](http://www.mcc.unam.mx/){:target="_blank" rel="noreferrer noopener"} at the [National Autonomous University of Mexico](https://www.unam.mx/){:target="_blank" rel="noreferrer noopener"} (UNAM).
-The master program, has several locations, I spent most on my time at the [Institute of Research in Applied Mathematics and Systems](https://www.iimas.unam.mx/){:target="_blank" rel="noreferrer noopener"} (IIMAS), in the main campus of Ciudad Universitaria (CDMX, Mexico).
+The master program, has several locations.
+I spent most on my time at the [Institute of Research in Applied Mathematics and Systems](https://www.iimas.unam.mx/){:target="_blank" rel="noreferrer noopener"} (IIMAS), in the main campus of Ciudad Universitaria (CDMX, Mexico).
 
 After finishing the core courses, each student chooses a research area to focus on. I decided to go to [Signals, Images and Virtual Environments](http://www.mcc.unam.mx/SIAV.php){:target="_blank" rel="noreferrer noopener"}, where I took several courses in Digital Image Processing and Computer Graphics.
 
@@ -52,13 +53,13 @@ My thesis supervisor was [Dr. Edgar Garduno Angeles](https://turing.iimas.unam.m
 
 ![FES Acatlan UNAM]({{ site.baseurl }}/static/images/places/acatlan2.jpg "FES Acatlan UNAM")
 
-I did my bachelor's studies at [FES Acatlan](https://www.acatlan.unam.mx/){:target="_blank" rel="noreferrer noopener"}, which is one the satellite campi of UNAM. I study a rather unique bachelors degree: [Applied Mathematics and Computer Science](https://mac.acatlan.unam.mx/){:target="_blank" rel="noreferrer noopener"} (or M@ as we like to call it).
+I did my bachelor's studies at [FES Acatlan](https://www.acatlan.unam.mx/){:target="_blank" rel="noreferrer noopener"}, which is one the satellite campi of UNAM. I study a rather unique bachelor's degree: [Applied Mathematics and Computer Science](https://mac.acatlan.unam.mx/){:target="_blank" rel="noreferrer noopener"} (or M@ as we like to call it).
 
 At that time after the core courses (six semesters), you went to a pre-speciality path (for the last three semesters).
 I took the "Simulation and Decision Making" path, which was studying [Operation Research](https://en.wikipedia.org/wiki/Operations_research){:target="_blank" rel="noreferrer noopener"}.
 Nowadays you could almost call it Data Science (but I just don’t like that term).
 
-I decided to get my degree by doing a thesis. My thesis supervisor was [Dr. Maria del Carmen Villar Patino](https://cadit.anahuac.mx/n/claustro/dra-maria-del-carmen-villar-patino){:target="_blank" rel="noreferrer noopener"} and I did a work about Physically Based Simulation and Computer Graphics.
+I decided to get my degree by doing a thesis. My thesis supervisor was [Dr. Maria del Carmen Villar Patino](https://cadit.anahuac.mx/n/claustro/dra-maria-del-carmen-villar-patino){:target="_blank" rel="noreferrer noopener"} and I did a thesis about about Physically Based Simulation and Computer Graphics.
 
 ## Experience in the industry
 
@@ -66,12 +67,12 @@ I decided to get my degree by doing a thesis. My thesis supervisor was [Dr. Mari
 
 ![Googleplex]({{ site.baseurl }}/static/images/places/google1.jpg "Googleplex")
 
-I joined [Google](https://about.google/){:target="_blank" rel="noreferrer noopener"} on March of 2021 as a Technical Solutions Engineer in [Stadia](https://stadia.google.com/gg/){:target="_blank" rel="noreferrer noopener"}.
+I joined [Google](https://about.google/){:target="_blank" rel="noreferrer noopener"} in March of 2021 as a Technical Solutions Engineer in [Stadia](https://stadia.google.com/gg/){:target="_blank" rel="noreferrer noopener"}.
 My main job was helping partners bring their content (video games) to the platform.
 My focus was computer graphics, so I provided support for DX11, DX12 and Vulkan.
 I also contributed with backend and samples to [Big Wheels](https://github.com/google/bigwheels){:target="_blank" rel="noreferrer noopener"}, a graphics framework that later became open source.
 
-Stadia was shut down on January of 2023, and after being jumping on several projects I switched to a Software Engineer position and become part of the Platforms and Ecosystems organization, where I contribute to shape Google’s [vision on XR](https://arvr.google.com/){:target="_blank" rel="noreferrer noopener"}.
+Stadia was shut down in January of 2023, and after jumping on several projects I switched to a Software Engineer position and became part of the Platforms and Ecosystems organization, where I contribute to shape Google’s [vision on XR](https://arvr.google.com/){:target="_blank" rel="noreferrer noopener"}.
 
 ### Nvidia
 
@@ -86,12 +87,12 @@ Later, they switched me to the 3D graphics driver for the mobile team, where I d
 
 ![WTC Mexico]({{ site.baseurl }}/static/images/places/tsc.jpg "WTC Mexico")
 
-After finishing my bachelor's courses in 2008, I joined [Tecnologia en Sistemas de Computo](https://mx.linkedin.com/company/tecnologia-en-sistemas-de-computotsc){:target="_blank" rel="noreferrer noopener"} which is software consulting company in CDMX.
+After finishing my bachelor's courses in 2008, I joined [Tecnologia en Sistemas de Computo](https://mx.linkedin.com/company/tecnologia-en-sistemas-de-computotsc){:target="_blank" rel="noreferrer noopener"} which is a software consulting company in CDMX.
 
-I started woking at TSC _before_ getting my bachelors diploma (a desition I regret until today).
+I started working at TSC _before_ getting my bachelors diploma (a decision I regret until today).
 On the bright side, this was my first professional experience.
-I started as an intern and then move to a QA role.
-I worked on migrating a system from Insterbase and PoweHouse to Java and Oracle.
+I started as an intern and then moved to a QA role.
+I worked on migrating a system from Interbase and PowerHouse to Java and Oracle.
 
 ## Internships
 
@@ -130,8 +131,8 @@ While doing my PhD, I had to work, first as a research assistant (RA) and later 
 As a TA I assisted in teaching Graphics and programming courses for the [CGT major](https://polytechnic.purdue.edu/departments/computer-graphics-technology){:target="_blank" rel="noreferrer noopener"}.
 I worked in designing quizzes and grading for courses in web development (both front end and back end) and in Computer Graphics programming, which was always my favorite, because we teached OpenGL and GLSL.
 
-Finally, I was also part of the [Computational Arts Circle](https://boilerlink.purdue.edu/organization/cac){:target="_blank" rel="noreferrer noopener"}, where I had the chance of colaborating with [Dr Esteban García Bravo](https://polytechnic.purdue.edu/profile/garcia0){:target="_blank" rel="noreferrer noopener"} (a.k.a [snebtor](https://snebtor.org/){:target="_blank" rel="noreferrer noopener"}).
-Some of these colaborations also culminted in [publications]({{ site.baseurl }}/publications/).
+Finally, I was also part of the [Computational Arts Circle](https://boilerlink.purdue.edu/organization/cac){:target="_blank" rel="noreferrer noopener"}, where I had the chance of collaborating with [Dr Esteban García Bravo](https://polytechnic.purdue.edu/profile/garcia0){:target="_blank" rel="noreferrer noopener"} (a.k.a [snebtor](https://snebtor.org/){:target="_blank" rel="noreferrer noopener"}).
+Some of these collaborations also culminated in [publications]({{ site.baseurl }}/publications/).
 
 ### National Autonomous University of Mexico
 
@@ -144,13 +145,13 @@ At UNAM I had the chance of being a teacher assistant at the Science school and 
 I taught two courses: Computer Graphics, which is my personal favorite and [Graph Theory](https://mac.acatlan.unam.mx/media/temarios/1644/1310.pdf){:target="_blank" rel="noreferrer noopener"}. I also designed [the syllabus](https://mac.acatlan.unam.mx/media/temarios/1644/1055.pdf){:target="_blank" rel="noreferrer noopener"} for the computer graphics course.
 
 At FESA I tried to do my best to help and participate in every possible activity.
-Among others I was a technical council member, contributed to design M@'s plan of study and advised freshman students as a mentor.
+Among others I was a [technical council](https://consejotecnico.acatlan.unam.mx/){:target="_blank" rel="noreferrer noopener"} member, contributed to design M@’s plan of study and advised freshman students as a mentor.
 
 #### Science School
 
 ![Facultad de ciencias UNAM]({{ site.baseurl }}/static/images/places/ciencias1.jpg "Facultad de ciencias UNAM")
 
-During my masters degree, I was a teaching assistant at [Science School](https://www.fciencias.unam.mx/){:target="_blank" rel="noreferrer noopener"}  in [two clases](https://archive.fciencias.unam.mx/directorio/63922){:target="_blank" rel="noreferrer noopener"}.
+During my masters degree, I was a teaching assistant at [Science School](https://www.fciencias.unam.mx/){:target="_blank" rel="noreferrer noopener"}  in [two courses](https://archive.fciencias.unam.mx/directorio/63922){:target="_blank" rel="noreferrer noopener"}.
 The first: Advanced Programming was about Object Oriented Programming.
 The second: Modern Geometry was about doing geometry using only a ruler and a pair of compasses.
 Modern Geometry it's a funny name since it is the way geometry was studied in ancient Greece.
@@ -162,7 +163,7 @@ There I was in charge of maintaining our SVN repositories and created a website 
 
 ![IIMAS UNAM]({{ site.baseurl }}/static/images/places/iimas2.jpg "IIMAS UNAM")
 
-Right after finishing my masters, the [Department of Computer Science](https://www.iimas.unam.mx/ciencias-de-la-computacion/){:target="_blank" rel="noreferrer noopener"} of [IIMAS](https://www.iimas.unam.mx/){:target="_blank" rel="noreferrer noopener"} gave me a temporary position as a research assistant for [Dr Maria Elena Martinez Perez](http://www.pcic.unam.mx/~elena/){:target="_blank" rel="noreferrer noopener"} where I contributed in a research about segmenting blood vessels from retina images obtained by a fundus camera, which was a very fun and difficult project.
+Right after finishing my masters, the [Department of Computer Science](https://www.iimas.unam.mx/ciencias-de-la-computacion/){:target="_blank" rel="noreferrer noopener"} of [IIMAS](https://www.iimas.unam.mx/){:target="_blank" rel="noreferrer noopener"} gave me a temporary position as a research assistant for [Dr Maria Elena Martinez Perez](http://www.pcic.unam.mx/~elena/){:target="_blank" rel="noreferrer noopener"} where I contributed to a research about segmenting blood vessels from retina images obtained by a fundus camera, which was a very fun and difficult project.
 
 
 ## Computer skills

@@ -5,11 +5,11 @@ title: Publications
 
 permalink: /publications/
 
-excerpt: Jorge Antonio García Galicia’s personal website. In this section you will find my publications in journals, my dissertations and the times my work has been featured in an art catalog.
+excerpt: Publications in journals, my dissertations and the times my work has been featured in an art catalog.
 
 seo_title: Publicactions - Dr. Jorge Antonio García Galicia.
 
-seo_description: Jorge Antonio García Galicia’s personal website. In this section you will find my publications in journals, my dissertations and the times my work has been featured in an art catalog.
+seo_description: Publications in journals, my dissertations and the times my work has been featured in an art catalog.
 
 last_modified_at: 2024-01-13
 ---
@@ -72,9 +72,9 @@ The result is a globally continuous curve. We demonstrate that printing 2D layer
 * [Article]({{ site.baseurl }}/static/pdf/articulos/FermatSpirals.pdf){:target="_blank" rel="noreferrer noopener"}
 
 
-* [Haisen Zhao](https://haisenzhao.github.io/){:target="_blank" rel="noreferrer noopener"} which is the principal author, has a very compensive [page](https://haisenzhao.github.io/CFS/index.html){:target="_blank" rel="noreferrer noopener"} about this paper.
+* [Haisen Zhao](https://haisenzhao.github.io/){:target="_blank" rel="noreferrer noopener"} who is the principal author, has a very comprehensive [page](https://haisenzhao.github.io/CFS/index.html){:target="_blank" rel="noreferrer noopener"} about this paper.
 
-* This paper was [featured](https://www.youtube.com/watch?v=6rNcAVr-U4s){:target="_blank" rel="noreferrer noopener"} in the youtube chanel: [Two minute papers](https://www.youtube.com/@TwoMinutePapers){:target="_blank" rel="noreferrer noopener"}.
+* This paper was [featured](https://www.youtube.com/watch?v=6rNcAVr-U4s){:target="_blank" rel="noreferrer noopener"} in the youtube channel: [Two minute papers](https://www.youtube.com/@TwoMinutePapers){:target="_blank" rel="noreferrer noopener"}.
 
 ```
 @article{Zhao2016,
