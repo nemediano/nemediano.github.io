@@ -171,16 +171,17 @@ Right after finishing my masters, the [Department of Computer Science](https://w
 ### Programming languages
 
 Since most of my professional life I have been a software engineer.
-I have extensive experience programming. Nowadays I feel more comfortable using C++, including most of the C++11 features and some of the C++20.
-Having said that I am a competent developer in similar languages like C#, Java or C (as in the C19 standar).
+I have extensive experience programming.
+Nowadays I feel more comfortable using C++, including most of the C++11 features and some of the C++20.
+Having said that, I am a competent developer in similar languages like C#, Java or C (as in the C19 standar).
 
-I also have experience using programming languages with large frameworks behind them, like Python, Matlab, Qt (with C++) and R.
+I also have experience using programming languages with large frameworks behind them like Python, Matlab, Qt (with C++) and R.
 
 I have spent most of my professional life working in POSIX operating systems and I feel most comfortable on GNU/Linux.
 Again, I am a competent developer in a Windows environment too.
 
 As a shader language I have always preferred GLSL (either with OpenGL or Vulkan).
-However I do know enough HLSL (with DX11 or DX12) to accomplish most graphics tasks.
+However, I do know enough HLSL (with DX11 or DX12) to accomplish most graphics tasks.
 
 ### Frameworks and APIs
 
@@ -193,12 +194,13 @@ Finally, I have moderate experience as a web developer using PHP and ASP.NET MVC
 
 ### General software engineering skills
 
-I have experience working with SVN, but right now I am only using either git (my favorite) or P4.
+For version control, I have experience working with svn but right now I am only using either git (my favorite) or P4.
 I usually develop using the Android approach, which includes [Gerrit](https://www.gerritcodereview.com/){:target="_blank" rel="noreferrer noopener"}. However, I like using Github for my personal projects.
 
-I usually work in small teams that do sprint based development, track their progress SW tools and on regular meetings.
+I usually work in small teams that do sprint based development, track their progress using SW tools and do regular meetings.
 I am used to writing unit tests, doing code reviews and to present my work on meetings.
 
-I am also used to working either from the office or from home. This means that I am able to keep constant communication with my team by chat, VC If any of us is remote.
-If we are in the office, I like to chat and go for lunch with my teammates.
+I am also used to working either from the office or from home.
+This means that I am able to keep constant communication with my team by chat and VC, If any of us is remote.
+If we are at the office, I like to chat (even when I am a little bit introverted) and go for lunch with my teammates.
 

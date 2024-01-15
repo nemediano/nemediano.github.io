@@ -24,7 +24,16 @@ Then, I realized that I needed [a blog](https://nemediano.github.io/canalREH/){:
 
 ### Templates for learning OpenGL
 
-While I gave a [Computer Graphics course](https://www.acatlan.unam.mx/files/PlanesDeEstudio/MAC/7/Graficacion_por_Computadora.pdf){:target="_blank" rel="noreferrer noopener"} at [FESA](https://www.acatlan.unam.mx/){:target="_blank" rel="noreferrer noopener"} (and later at Purdue as a TA), I found out that most students struggle to follow the programming assignments. I realized that, in part, this is due to the large number of required pieces that are needed in an [OpenGL](https://www.opengl.org/){:target="_blank" rel="noreferrer noopener"} program, but they are independent from the main task. Having that in mind, I decided to create [a set of templates](https://github.com/nemediano/OpenGLTemplates){:target="_blank" rel="noreferrer noopener"} to alleviate this work.
+While I gave a [Computer Graphics course](https://www.acatlan.unam.mx/files/PlanesDeEstudio/MAC/7/Graficacion_por_Computadora.pdf){:target="_blank" rel="noreferrer noopener"} at [FESA](https://www.acatlan.unam.mx/){:target="_blank" rel="noreferrer noopener"} (and later at Purdue as a TA), I found out that most students struggle to follow the programming assignments. I realized that, in part, this is due to the large number of required pieces that are needed in an [OpenGL](https://www.opengl.org/){:target="_blank" rel="noreferrer noopener"} program, but they are independent from the main graphic task. For example:
+
+* Loading model (that can include more than one mesh) data from a file.
+* Routines to write and read images to and from a file. To read texture data and save screenshoots.
+* Read and compile/debug a shader program from a text file.
+* Create a simple UI, where you can change parameters from various types (scalars, vectors, colors or orientations).
+* To do simple interaction with the program: respond to keyboard and mouse events.
+* Interact with the windows manager system: have a surface to render, create a view port, go into full screen mode.
+
+Just to name a few. Having that in mind, I decided to create [a set of templates](https://github.com/nemediano/OpenGLTemplates){:target="_blank" rel="noreferrer noopener"} to alleviate this work.
 
 ### LaTeX templates for academic use (UNAM focused)
 
@@ -45,7 +54,7 @@ The talk was presented at [FES Acatlan](https://acatlan.unam.mx/){:target="_blan
 
 {% include youtube.html id='kqdjA88cibk' %}
 
-My wife has her own [youtube channel](https://www.youtube.com/@eleutherialekona), where she has a seccion where she interviews guests. She invited me to talk about one of my personal favorite subjects: life and work of the American writer Rober E. Howard, the creator of Conan.
+My wife has her own [youtube channel](https://www.youtube.com/@eleutherialekona), where she has a seccion where she interviews guests. She invited me to talk about one of my personal favorite subjects: life and work of the American writer Robert E. Howard, the creator of Conan.
 
 ## Round table on Myths of Free Software at Beware of science
 
