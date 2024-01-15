@@ -39,8 +39,8 @@ defaults:
     values:
       image:
         path: /static/images/defaultCard.jpg
-        height: 256
-        width: 256
+        height: 499
+        width: 946
         alt: Dr. Jorge Antonio García Galicia, personal website.
 
 google_analytics: G-BYZ69NLT7L

@@ -11,7 +11,7 @@ seo_title: Personal projects - Jorge Antonio García Galicia.
 
 seo_description: A non comprehensive list of my personal projects and the events that I have been invited to talk.
 
-last_modified_at: 2024-01-06
+last_modified_at: 2024-01-15
 ---
 
 This is a non comprehensive list of my personal projects. Most of them are hosted on [Github](https://github.com/nemediano){:target="_blank" rel="noreferrer noopener"}.
