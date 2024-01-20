@@ -55,11 +55,11 @@ My thesis supervisor was [Dr. Edgar Garduno Angeles](https://turing.iimas.unam.m
 
 I did my bachelor's studies at [FES Acatlan](https://www.acatlan.unam.mx/){:target="_blank" rel="noreferrer noopener"}, which is one the satellite campi of UNAM. I study a rather unique bachelor's degree: [Applied Mathematics and Computer Science](https://mac.acatlan.unam.mx/){:target="_blank" rel="noreferrer noopener"} (or M@ as we like to call it).
 
-At that time after the core courses (six semesters), you went to a pre-speciality path (for the last three semesters).
+At that time, after the core courses (six semesters) you went to a pre-speciality path (for the last three semesters).
 I took the "Simulation and Decision Making" path, which was studying [Operation Research](https://en.wikipedia.org/wiki/Operations_research){:target="_blank" rel="noreferrer noopener"}.
 Nowadays you could almost call it Data Science (but I just don’t like that term).
 
-I decided to get my degree by doing a thesis. My thesis supervisor was [Dr. Maria del Carmen Villar Patino](https://cadit.anahuac.mx/n/claustro/dra-maria-del-carmen-villar-patino){:target="_blank" rel="noreferrer noopener"} and I did a thesis about about Physically Based Simulation and Computer Graphics.
+I decided to get my degree by doing a thesis. My thesis supervisor was [Dr. Maria del Carmen Villar Patino](https://cadit.anahuac.mx/n/claustro/dra-maria-del-carmen-villar-patino){:target="_blank" rel="noreferrer noopener"} and I did a thesis about Physically Based Simulation and Computer Graphics.
 
 ## Experience in the industry
 
@@ -105,8 +105,8 @@ While I was enrolled on the PhD program, I took every opportunity to do internsh
 During the summer of 2016 I did an internship at [Adobe research](https://research.adobe.com/){:target="_blank" rel="noreferrer noopener"} with the Procedural Image lab (now part of the graphics research team).
 However, I sat at the [San Francisco office](https://learning.adobe.com/products-resources/contact-us/americas/san-francisco.html){:target="_blank" rel="noreferrer noopener"}.
 
-My internship was around a software for that simulated sculpting, where I was doing the rendering system.
-This was by far the more interesting internship I had. I implemented some classic graphics algorithms (Ambient Occlusion, Shadow mapping and PBR) using a deferred shading pipeline using C++, OpenGL and HLSL.
+My internship was around a software for modeling that simulated sculpting, where I was doing the rendering system.
+This was by far the most interesting internship I had. I implemented some classic graphics algorithms (Ambient Occlusion, Shadow Mapping and PBR) using a deferred shading pipeline using C++, OpenGL and HLSL.
 
 ### Nvidia
 
@@ -136,7 +136,7 @@ Some of these collaborations also culminated in [publications]({{ site.baseurl }
 
 ### National Autonomous University of Mexico
 
-At UNAM I had the chance of being a teacher assistant at the Science school and lecturer at FES Acatlan and a research assistant at IIMAS and Science school.
+At UNAM I had the chance of being a teacher assistant at the School of Sciences and lecturer at FES Acatlan and a research assistant at IIMAS and the School of Sciences.
 
 #### FES Acatlan
 
@@ -147,17 +147,17 @@ I taught two courses: Computer Graphics, which is my personal favorite and [Grap
 At FESA I tried to do my best to help and participate in every possible activity.
 Among others I was a [technical council](https://consejotecnico.acatlan.unam.mx/){:target="_blank" rel="noreferrer noopener"} member, contributed to design M@’s plan of study and advised freshman students as a mentor.
 
-#### Science School
+#### School of Sciences
 
 ![Facultad de ciencias UNAM]({{ site.baseurl }}/static/images/places/ciencias1.jpg "Facultad de ciencias UNAM")
 
-During my masters degree, I was a teaching assistant at [Science School](https://www.fciencias.unam.mx/){:target="_blank" rel="noreferrer noopener"}  in [two courses](https://archive.fciencias.unam.mx/directorio/63922){:target="_blank" rel="noreferrer noopener"}.
+During my masters degree, I was a teaching assistant at the [School of Sciences](https://www.fciencias.unam.mx/){:target="_blank" rel="noreferrer noopener"}  in [two courses](https://archive.fciencias.unam.mx/directorio/63922){:target="_blank" rel="noreferrer noopener"}.
 The first: Advanced Programming was about Object Oriented Programming.
 The second: Modern Geometry was about doing geometry using only a ruler and a pair of compasses.
 Modern Geometry it's a funny name since it is the way geometry was studied in ancient Greece.
 
-Before that, I also worked as a laboratory assistant as part of one of the Macropojects at UNAM (which was located also at Science school) for a few months in 2006-2007.
-There I was in charge of maintaining our SVN repositories and created a website using a LAMP suite.
+Before that, I also worked as a laboratory assistant as part of one of the Macropojects at UNAM (which was located also at the School of Sciences) for a few months in 2006-2007.
+There, I was in charge of maintaining our SVN repositories and created a website using a LAMP suite.
 
 #### Institute of Research in Applied Mathematics and Systems
 

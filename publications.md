@@ -284,6 +284,35 @@ Printing speeds in our trial are improved by up to 45% by adding the criterion o
 
 ![ Master thesis ]({{ site.baseurl }}/static/images/master_thesis.jpg "Master thesis image")
 
+This work is about how to visualize scalar fields that have passed through a digitalization process.
+Particularly, it uses a computer graphics technique known as surface rendering.
+
+It is assumed that you have a set of digital data that comes from a uniform sampling of the 3D space.
+We also assume that the sampling has been done in a rectangular grid and hence we have a digital image in 3D or volume.
+We make two assumptions about volume.
+First, that it is a good approximation of the scalar field, and second that we do not have any information about the method used to do the digitalization.
+
+At first we review two boundary tracking algorithms on volumes.
+The Marching Cubes algorithm, which is the most commonly used today and Artzy’s algorithm whose output has desirable characteristics from the topological point of view.
+Both algorithms produce a polygonal mesh approximating the surface of the original scalar field.
+
+The problem now is to correctly visualize these meshes.
+We include a review of some computer graphics techniques to visualize meshes.
+Particularly, we focus on Phong’s lighting model and the techniques based on maps: such as texture mapping and bump mapping.
+
+We also explain the creation of implicit surfaces or blobby models, commonly used in graphics to do organic modeling.
+We review some of the basis functions used with this model.
+We present the generalized Kaiser-Bessel functions, also known as blobs.
+The goal in this work is to find a way of improving the visualization of the mesh from Artzy’s algorithm and make it comparable to the Marching cubes one, without modifying the mesh and using only lighting effects.
+
+The principal contribution of this work is an algorithm to find the implicit surface made by blobs that wraps up the mesh from Artyz’s algorithm.
+With this surface, we calculate normal vectors, that we then place on the vertexes of the mesh, and we use them for lighting.
+
+Finally, we report the results of two experiments made with this technique.
+First, we made experiments in datasets obtained by biomedical imagery machines. These results are visual proof that the proposed solution works.
+At last,  we made experiments on a scalar field known as phantoms and we compared the normal obtained by our method against the analytical normals of the phantoms.
+In the last section of this work we report the conclusions and propose some future lines of research.
+
 * [Permanent link](https://repositorio.unam.mx/contenidos/292221){:target="_blank" rel="noreferrer noopener"}
 
 * [Full text]({{ site.baseurl }}/static/pdf/tesis/tesisMaestria.pdf){:target="_blank" rel="noreferrer noopener"} in Spanish.
@@ -307,6 +336,22 @@ Printing speeds in our trial are improved by up to 45% by adding the criterion o
 ### Graphic Modeling of a Pneumatic Body with OpenGL using Differential Equations
 
 ![ Bachelor thesis ]({{ site.baseurl }}/static/images/bachelor_thesis.jpg "Bachelor thesis image")
+
+This work is about how to make a graphics simulation of a soft body.
+The soft body is made -as it is usual in graphics- of a 3D mesh.
+Moreover, in this work we assume that the edges of the mesh are springs and that the soft body is air stuffed.
+
+To make a Physics based animation, we define a set of forces that act on the mesh vertex.
+Then, we use the accumulated force to integrate Newton’s equation and obtain the speed and positions of the vertex in the scene.
+
+The applied forces are: the gravity, the spring-dampers and the pressure forces.
+The last one is the result of using the ideal gas equation.
+
+We detail the development of a program that implements all these ideas to make an interactive animation.
+The implementation was made in C++ language with OpenGL as a library to render graphics.
+
+We made a set of tests to corroborate the correct qualitative behavior in the implementation.
+Finally, we made an analysis of the program’s performance; where we estimated which sections are the most computational expensive.
 
 * The original thesis was presented in 2008. However, in 2019 I decided to do a new edition using only free software and modern OpenGL and rewriting some of the text, which resulted in a [full repository](https://github.com/nemediano/TesisLicenciatura){:target="_blank" rel="noreferrer noopener"} for this work.
 
