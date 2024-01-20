@@ -42,6 +42,10 @@ defaults:
         height: 499
         width: 946
         alt: Dr. Jorge Antonio García Galicia, personal website.
+  - scope:
+      path:            "static/**/*.pdf"
+    values:
+      sitemap:         false
 
 google_analytics: G-BYZ69NLT7L
 
