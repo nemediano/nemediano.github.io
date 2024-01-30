@@ -43,20 +43,28 @@ During my life at the Academia, I used [LaTeX](https://www.latex-project.org/){:
 
 These are some of the events where they have invited me to talk. The actual talks are in Spanish.
 
-## Touring with Pixels
+### Reflections about my career
+
+{% include youtube.html id='dmROpzOdLrs' %}
+
+[Coder Bloom](https://coderbloom.org/){:target="_blank" rel="noreferrer noopener"} is a community to empower Latin American women to learn and work as programmers.
+They sponsor talks with industry professionals, hoping they can inspire students to pursue a career in technology.
+They invited me to give a talk, and I decided to make a presentation about my professional area (Computer Graphics), the differences between the industry and the academia and general tips for starting a career in tech.
+
+### Touring with Pixels
 
 {% include youtube.html id='kgyVrOzmpf0' %}
 
 This is a “my journey” presentation, about me. I detail how the early interest in video games in my childhood took me into a journey into math and computer science, that included doing a PhD and working at Google.
 The talk was presented at [FES Acatlan](https://acatlan.unam.mx/){:target="_blank" rel="noreferrer noopener"}, as part of the [40th anniversary](https://mac.acatlan.unam.mx/micrositios/40anios/principal.html){:target="_blank" rel="noreferrer noopener"} of the bachelors program in [Applied Mathematics and Computer Science](https://mac.acatlan.unam.mx/){:target="_blank" rel="noreferrer noopener"}. It was presented on march 1st of 2023
 
-## Interview about Robert E. Howard
+### Interview about Robert E. Howard
 
 {% include youtube.html id='kqdjA88cibk' %}
 
 My wife has her own [youtube channel](https://www.youtube.com/@eleutherialekona), where she has a seccion where she interviews guests. She invited me to talk about one of my personal favorite subjects: life and work of the American writer Robert E. Howard, the creator of Conan.
 
-## Round table on Myths of Free Software at Beware of science
+### Round table on Myths of Free Software at Beware of science
 
 <div class="youtube-wrapper">
 <iframe src="https://www.facebook.com/plugins/video.php?height=315&href=https%3A%2F%2Fwww.facebook.com%2Faguasconlaciencia%2Fvideos%2F949258865582873%2F&show_text=false&width=560&t=0" width="560" height="315" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"> </iframe>
