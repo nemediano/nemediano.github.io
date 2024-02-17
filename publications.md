@@ -11,6 +11,10 @@ seo_title: Publicactions - Dr. Jorge Antonio García Galicia.
 
 seo_description: Publications in journals, my dissertations and the times my work has been featured in an art catalog.
 
+lang: en
+
+page_id: publications
+
 last_modified_at: 2024-01-13
 ---
 

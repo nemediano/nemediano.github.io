@@ -22,6 +22,14 @@ plugins:
   - jekyll-feed
   - jekyll-seo-tag
   - jekyll-sitemap
+  - jekyll-polyglot
+
+# These are required for polyglot
+
+languages: ["en", "es"]
+default_lang: "en"
+exclude_from_localization: ["assets", "script", "static"]
+parallel_localization: true
 
 # Theme-specific settings
 
@@ -55,6 +63,9 @@ header_pages:
   - projects.md
   - resume.md
   - publications.md
+  - proyectos.md
+  - curriculum.md
+  - publicaciones.md
 
 # Set to `true` to show excerpts on the homepage.
 #show_excerpts: false

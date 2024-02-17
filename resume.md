@@ -11,6 +11,10 @@ seo_title: Resume - Dr. Jorge Antonio García Galicia.
 
 seo_description: A lengthy version of my resume and link to download the brief pdf version of it.
 
+lang: en
+
+page_id: resume
+
 last_modified_at: 2024-02-16
 ---
 
@@ -48,7 +52,7 @@ I spent most of my time at the [Institute of Research in Applied Mathematics and
 
 After finishing the core courses, each student chooses a research area to focus on. I decided to go to [Signals, Images and Virtual Environments](http://www.mcc.unam.mx/SIAV.php){:target="_blank" rel="noreferrer noopener"}, where I took several courses in Digital Image Processing and Computer Graphics.
 
-My thesis supervisor was [Dr. Edgar Garduno Angeles](https://turing.iimas.unam.mx/~egarduno/){:target="_blank" rel="noreferrer noopener"}, and I did a thesis which lies in the intersection of Digital Image Processing, Scientific Visualization and Computer Graphics.
+My thesis supervisor was [Dr. Edgar Garduño Ángeles](https://turing.iimas.unam.mx/~egarduno/){:target="_blank" rel="noreferrer noopener"}, and I did a thesis which lies in the intersection of Digital Image Processing, Scientific Visualization and Computer Graphics.
 
 ### Bachelor degree
 
@@ -61,7 +65,7 @@ At that time, after the core courses (six semesters) you went to a pre-specialit
 I took the "Simulation and Decision Analysis" path, which was about studying [Operations Research](https://en.wikipedia.org/wiki/Operations_research){:target="_blank" rel="noreferrer noopener"}.
 Nowadays you could almost call it Data Science (but I just don’t like that term).
 
-I decided to get my degree by doing a thesis. My thesis supervisor was [Dr. Maria del Carmen Villar Patino](https://cadit.anahuac.mx/n/claustro/dra-maria-del-carmen-villar-patino){:target="_blank" rel="noreferrer noopener"} and I did a thesis about Physically Based Simulation and Computer Graphics.
+I decided to get my degree by doing a thesis. My thesis supervisor was [Dr. María del Carmen Villar Patiño](https://cadit.anahuac.mx/n/claustro/dra-maria-del-carmen-villar-patino){:target="_blank" rel="noreferrer noopener"} and I did a thesis about Physically Based Simulation and Computer Graphics.
 
 ## Experience in the industry
 

@@ -11,6 +11,10 @@ seo_title: Personal projects - Jorge Antonio García Galicia.
 
 seo_description: A non comprehensive list of my personal projects and the events that I have been invited to talk.
 
+lang: en
+
+page_id: projects
+
 last_modified_at: 2024-02-16
 ---
 

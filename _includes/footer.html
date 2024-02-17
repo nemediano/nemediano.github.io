@@ -9,9 +9,9 @@
           <a href="{{ site.feed.path | default: 'feed.xml' | absolute_url }}">
             <svg class="svg-icon orange">
               <use xlink:href="{{ 'assets/minima-social-icons.svg#rss' | relative_url }}"></use>
-            </svg><span>Subscribe</span>
+            </svg><span>{{ site.data.l10n.subscribe }}</span>
           </a>
-          &nbsp;|&nbsp;<a href="{{ site.baseurl }}/sitemap.xml">Site map</a>
+          &nbsp;|&nbsp;<a href="{{ site.baseurl }}/sitemap.xml">{{ site.data.l10n.sitemap }}</a>
         </p>
       {%- if site.author %}
         <ul class="contact-list">
@@ -25,7 +25,10 @@
       {%- endif %}
       </div>
       <div class="footer-col">
-        <p>{{ site.description | escape }}</p>
+        <div class="lang-switcher">
+          {%- include lang-switcher.html -%}
+        </div>
+        <p>{{ site.data.l10n.description | escape }}</p>
       </div>
     </div>
 
