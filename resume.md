@@ -172,7 +172,7 @@ There, I was in charge of maintaining our SVN repositories and I created a websi
 
 ![IIMAS UNAM]({{ site.baseurl }}/static/images/places/iimas2.jpg "IIMAS UNAM")
 
-Right after finishing my masters, the [Department of Computer Science](https://www.iimas.unam.mx/ciencias-de-la-computacion/){:target="_blank" rel="noreferrer noopener"} of [IIMAS](https://www.iimas.unam.mx/){:target="_blank" rel="noreferrer noopener"} gave me a temporary position as a research assistant for [Dr Maria Elena Martinez Perez](http://www.pcic.unam.mx/~elena/){:target="_blank" rel="noreferrer noopener"} where I contributed to a research about segmenting blood vessels from retina images obtained with a fundus camera, which was a very fun and difficult project.
+Right after finishing my masters, the [Department of Computer Science](https://www.iimas.unam.mx/ciencias-de-la-computacion/){:target="_blank" rel="noreferrer noopener"} of [IIMAS](https://www.iimas.unam.mx/){:target="_blank" rel="noreferrer noopener"} gave me a temporary position as a research assistant for [Dr María Elena Martínez Pérez](http://www.pcic.unam.mx/~elena/){:target="_blank" rel="noreferrer noopener"} where I contributed to a research about segmenting blood vessels from retina images obtained with a fundus camera, which was a very fun and difficult project.
 
 
 ## Computer skills

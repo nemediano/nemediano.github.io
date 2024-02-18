@@ -36,9 +36,9 @@ For these points the supporting structure is progressively built while attemptin
 We have tested our algorithm on the MakerBot® Replicator™ 2 printer and we compared our solution to the embedded software solution in this printer and to Autodesk® Meshmixer™ software.
 Our solution reduced printing time by an average of 29.4% (ranging from 13.9% to 49.5%) and the amount of material by 40.5% (ranging from 24.5% to 68.1%).
 
-* [Permanent link](https://doi.org/10.1111/cgf.12437){:target="_blank" rel="noreferrer noopener"}
+* [Permanent link](https://doi.org/10.1111/cgf.12437){:target="_blank" rel="noreferrer noopener"} at the publisher's site.
 
-* [Article]({{ site.baseurl }}/static/pdf/articulos/CleverSupport.pdf){:target="_blank" rel="noreferrer noopener"}
+* Full [article]({{ site.baseurl }}/static/pdf/articulos/CleverSupport.pdf){:target="_blank" rel="noreferrer noopener"} in pdf.
 
 
 ```
@@ -71,9 +71,9 @@ We show that it is always possible to start and end a Fermat spiral fill at appr
 This special property allows the Fermat spiral fills to be joined systematically along a graph traversal of the decomposed sub-regions.
 The result is a globally continuous curve. We demonstrate that printing 2D layers following tool paths as connected Fermat spirals leads to efficient and quality fabrication, compared to conventional fill patterns.
 
-* [Permanent link](https://doi.org/10.1145/2897824.2925958){:target="_blank" rel="noreferrer noopener"}
+* [Permanent link](https://doi.org/10.1145/2897824.2925958){:target="_blank" rel="noreferrer noopener"} at the publisher's site.
 
-* [Article]({{ site.baseurl }}/static/pdf/articulos/FermatSpirals.pdf){:target="_blank" rel="noreferrer noopener"}
+* Full [article]({{ site.baseurl }}/static/pdf/articulos/FermatSpirals.pdf){:target="_blank" rel="noreferrer noopener"} in pdf.
 
 
 * [Haisen Zhao](https://haisenzhao.github.io/){:target="_blank" rel="noreferrer noopener"} who is the principal author, has a very comprehensive [page](https://haisenzhao.github.io/CFS/index.html){:target="_blank" rel="noreferrer noopener"} about this paper.
@@ -123,9 +123,9 @@ We have tested our system on three different printers and it shows a reduction o
 The optimization time was approximately 1 min.
 Once the segments are printed, they need to be assembled.
 
-* [Permanent link](https://doi.org/10.1111/cgf.12353){:target="_blank" rel="noreferrer noopener"}
+* [Permanent link](https://doi.org/10.1111/cgf.12353){:target="_blank" rel="noreferrer noopener"} at the publisher's site.
 
-* [Article]({{ site.baseurl }}/static/pdf/articulos/PackMerger.pdf){:target="_blank" rel="noreferrer noopener"}
+* Full [article]({{ site.baseurl }}/static/pdf/articulos/PackMerger.pdf){:target="_blank" rel="noreferrer noopener"} in pdf.
 
 * This paper also has a [video](https://www.youtube.com/watch?v=sBgSr7JItmo){:target="_blank" rel="noreferrer noopener"}.
 
@@ -159,9 +159,9 @@ This paper presents a novel method for speeding-up printing processes that emplo
 This method finds an orientation for the object that minimizes the number of disconnected components and the distance between the disconnected components that remain, thereby minimizing the time needed for the printer head to traverse empty areas. The method also considers the height of the printed object, its trapped volume, and the number of connected components in each layer.
 Our novel algorithm considers all four criteria, each weighted according to printer-specific and experimentally-obtained parameters. Preliminary trials demonstrate that this methodology can decrease printing times on fused deposition printers to 45% of that of current state of the art algorithms.
 
-* [Permanent link](https://doi.org/10.1016/j.addma.2018.06.007){:target="_blank" rel="noreferrer noopener"}
+* [Permanent link](https://doi.org/10.1016/j.addma.2018.06.007){:target="_blank" rel="noreferrer noopener"} at the publisher's site.
 
-* [Article]({{ site.baseurl }}/static/pdf/articulos/printingOrientation.pdf){:target="_blank" rel="noreferrer noopener"}
+* Full [article]({{ site.baseurl }}/static/pdf/articulos/printingOrientation.pdf){:target="_blank" rel="noreferrer noopener"} in pdf.
 
 
 ```
@@ -193,9 +193,9 @@ These structures are encoded into geometric graph grammar rewriting rules.
 We demonstrate usability of our approach on an example using urban networks.
 Graph learning is reasonably fast; in our implementation, learning of a road network with 72k vertices and 100k edges is performed in less than one minute.
 
-* [Permanent link](https://doi.org/10.1145/2948628.2948635){:target="_blank" rel="noreferrer noopener"}
+* [Permanent link](https://doi.org/10.1145/2948628.2948635){:target="_blank" rel="noreferrer noopener"} at the publisher's site.
 
-* [Article]({{ site.baseurl }}/static/pdf/articulos/GraphGrammars.pdf){:target="_blank" rel="noreferrer noopener"}
+* Full [article]({{ site.baseurl }}/static/pdf/articulos/GraphGrammars.pdf){:target="_blank" rel="noreferrer noopener"} in pdf.
 
 
 ```
@@ -229,9 +229,9 @@ He is known for developing a mathematical model with which he was able to create
 However, there is limited evidence and access to the code of the actual software.
 The authors' goal is to further understand Yturralde's contribution by developing a re-significance of his model, which they have accomplished through a modern interpretation of manuscripts.
 
-* [Permanent link](https://doi.org/10.1145/2810177.2810183){:target="_blank" rel="noreferrer noopener"}
+* [Permanent link](https://doi.org/10.1145/2810177.2810183){:target="_blank" rel="noreferrer noopener"} at the publisher's site.
 
-* [Article]({{ site.baseurl }}/static/pdf/articulos/ImpossibleFigures.pdf){:target="_blank" rel="noreferrer noopener"}
+* Full [article]({{ site.baseurl }}/static/pdf/articulos/ImpossibleFigures.pdf){:target="_blank" rel="noreferrer noopener"} in pdf.
 
 
 ```
@@ -266,9 +266,9 @@ The method also considers the height of the printed object, its trapped volume, 
 We provide an optimization strategy that considers all four criteria, each weighted according to printer-specific and experimentally-obtained parameters.
 Printing speeds in our trial are improved by up to 45% by adding the criterion of disconnected component distance to the optimization.
 
-* [Permanent link](https://docs.lib.purdue.edu/dissertations/AAI10615432/){:target="_blank" rel="noreferrer noopener"}
+* [Permanent link](https://docs.lib.purdue.edu/dissertations/AAI10615432/){:target="_blank" rel="noreferrer noopener"} at the publisher's site.
 
-* [Full text]({{ site.baseurl }}/static/pdf/tesis/thesisPHD.pdf){:target="_blank" rel="noreferrer noopener"}
+* [Full text]({{ site.baseurl }}/static/pdf/tesis/thesisPHD.pdf){:target="_blank" rel="noreferrer noopener"} in pdf.
 
 
 ```
@@ -317,7 +317,7 @@ First, we made experiments in datasets obtained by biomedical imagery machines. 
 At last,  we made experiments on a scalar field known as phantoms and we compared the normal obtained by our method against the analytical normals of the phantoms.
 In the last section of this work we report the conclusions and propose some future lines of research.
 
-* [Permanent link](https://repositorio.unam.mx/contenidos/292221){:target="_blank" rel="noreferrer noopener"}
+* [Permanent link](https://repositorio.unam.mx/contenidos/292221){:target="_blank" rel="noreferrer noopener"} at the publisher's site.
 
 * [Full text]({{ site.baseurl }}/static/pdf/tesis/tesisMaestria.pdf){:target="_blank" rel="noreferrer noopener"} in Spanish.
 
@@ -393,9 +393,9 @@ In this way, we accomplish a crystal-like shape that glows like a mineral geode.
 The sculpture’s metamorphosis is experienced visually by sound-driven generative geometries.
 Geode is a collaborative effort to fuse public sculpture, soundscape and visual projection into one immersive experience.
 
-* [Permanent link](https://doi.org/10.1145/2810177.2810183){:target="_blank" rel="noreferrer noopener"}
+* [Permanent link](https://doi.org/10.1145/2810177.2810183){:target="_blank" rel="noreferrer noopener"} at the publisher's site.
 
-* [Article]({{ site.baseurl }}/static/pdf/ArtGalleryCatalog.pdf){:target="_blank" rel="noreferrer noopener"}
+* Full [catalog]({{ site.baseurl }}/static/pdf/ArtGalleryCatalog.pdf){:target="_blank" rel="noreferrer noopener"} in pdf.
 
 
 ```
@@ -425,9 +425,9 @@ The spaces generated through these fifteen points detect the body of the partici
 When a presence is no longer sensed, the shapes are autonomously restored with a burst of energy to their original state, while a generative soundscape orchestrates the entire experience.
 
 
-* [Permanent link](https://www.scienceopen.com/hosted-document?doi=10.14236/ewic/eva2015.46){:target="_blank" rel="noreferrer noopener"}
+* [Permanent link](https://www.scienceopen.com/hosted-document?doi=10.14236/ewic/eva2015.46){:target="_blank" rel="noreferrer noopener"} at the publisher's site.
 
-* [Article]({{ site.baseurl }}/static/pdf/XVReactiveSpaces.pdf){:target="_blank" rel="noreferrer noopener"}
+* The catalog's [entry]({{ site.baseurl }}/static/pdf/XVReactiveSpaces.pdf){:target="_blank" rel="noreferrer noopener"} in pdf.
 
 
 ```

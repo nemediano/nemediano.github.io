@@ -22,7 +22,7 @@ last_modified_at: 2024-01-15
 
 Esta es la versión extensa de mi curriculum, dado que aquí no tengo restricciones de espacio o formato.
 Sin embargo, si lo que buscas es la versión breve y concisa de mi curriculum, puedes descargar la
- [versión en pdf]({{ site.baseurl }}/static/pdf/JorgeGarciaResume.pdf){:target="_blank" rel="noreferrer noopener"} o visitar mi perfil de [LinkedIN](https://www.linkedin.com/in/jorgegarciagalicia/){:target="_blank" rel="noreferrer noopener"}.
+ [versión en pdf]({{ site.baseurl }}/static/pdf/JorgeGarciaCurriculum.pdf){:target="_blank" rel="noreferrer noopener"} o visitar mi perfil de [LinkedIN](https://www.linkedin.com/in/jorgegarciagalicia/?locale=es_ES){:target="_blank" rel="noreferrer noopener"}.
 
 
 <h3>Contenido</h3>
@@ -43,7 +43,7 @@ El plan de estudios del doctorado, requiere tomar clases de Estadística y de Me
 Además, tomé clases de Graficación por Computadora, –dado que era mi área de investigación–, y tomé materias optativas de Matemáticas y de Ciencias de la Computación.
 
 Durante mi doctorado, mi asesor y mentor fue el [Dr. Bedrich Benes](https://cs.purdue.edu/homes/bbenes/){:target="_blank" rel="noreferrer noopener"}.
-En ese periodo fuí miembro del HPCG lab (que ahora forma parte del departamento de Ciencias de la Computación) donde llevé a cabo investigaciones en Graficación por Computadora y en Manufactura Aditiva (mejor conocida como 3D printing) que culminaron en varias [publicaciones]({{ site.baseurl }}/publications/).
+En ese periodo fuí miembro del HPCG lab (que ahora forma parte del departamento de Ciencias de la Computación) donde llevé a cabo investigaciones en Graficación por Computadora y en Manufactura Aditiva (mejor conocida como 3D printing) que culminaron en varias [publicaciones]({{ site.baseurl }}/publicaciones/).
 
 ### Maestría
 
@@ -56,7 +56,7 @@ Yo pasé la mayoría de mi tiempo en el [Instituto de Investigación en Matemát
 Después de terminar el tronco común, cada estudiante escoge un área de investigación para enfocarse.
 Yo me decidí por el área de [Señales, Imágenes y Ambientes Virtuales](http://www.mcc.unam.mx/SIAV.php){:target="_blank" rel="noreferrer noopener"}, donde tomé varias clases de Procesamiento de Imágenes Digitales y Graficación por Computadora.
 
-Mi asesor de tesis fue el [Dr. Edgar Garduno Angeles](https://turing.iimas.unam.mx/~egarduno/){:target="_blank" rel="noreferrer noopener"}, e hice una tesis que se encuentra en la intersección del Procesamiento de Imágenes Digitales, la Visualización Científica y las Gráficas por Computadora.
+Mi asesor de tesis fue el [Dr. Edgar Garduño Ángeles](https://turing.iimas.unam.mx/~egarduno/){:target="_blank" rel="noreferrer noopener"}, e hice una tesis que se encuentra en la intersección del Procesamiento de Imágenes Digitales, la Visualización Científica y las Gráficas por Computadora.
 
 ### Licenciatura
 
@@ -70,7 +70,7 @@ Yo estudié la pre-especialidad de "Simulación y Análisis de Decisiones", que 
 Hoy en día, casi se le podría llamar Ciencia de Datos (pero no me gusta ese nombre).
 
 Decidí titularme por medio de una tesis.
-My asesor de tesis fue la [Dr. Maria del Carmen Villar Patino](https://cadit.anahuac.mx/n/claustro/dra-maria-del-carmen-villar-patino){:target="_blank" rel="noreferrer noopener"} e hice una tesis acerca de una Simulación Basada en Física y de Graficación por Computadora.
+My asesor de tesis fue la [Dr. María del Carmen Villar Patiño](https://cadit.anahuac.mx/n/claustro/dra-maria-del-carmen-villar-patino){:target="_blank" rel="noreferrer noopener"} e hice una tesis acerca de una Simulación Basada en Física y de Graficación por Computadora.
 
 ## Experiencia en la industria
 
@@ -145,7 +145,7 @@ Como TA ayudé en la impartición de cursos de Graficación por Computadora y de
 Trabajé haciendo cuestionarios y calificando tareas para cursos de desarrollo web (tanto front-end como back-end) y en “Computer Graphics programming”, que era mi favorita, porque enseñamos OpenGL y GLSL.
 
 Finalmente, también formé parte del [Círculo de Artes Computacionales](https://boilerlink.purdue.edu/organization/cac){:target="_blank" rel="noreferrer noopener"}, donde tuve la oportunidad de colaborar con el [Dr Esteban García Bravo](https://polytechnic.purdue.edu/profile/garcia0){:target="_blank" rel="noreferrer noopener"} (a.k.a [snebtor](https://snebtor.org/){:target="_blank" rel="noreferrer noopener"}).
- Algunas de estas colaboraciones también culminaron en [publicaciones]({{ site.baseurl }}/publications/).
+ Algunas de estas colaboraciones también culminaron en [publicaciones]({{ site.baseurl }}/publicaciones/).
 
 ### Universidad Nacional Autónoma de México
 
@@ -172,14 +172,14 @@ El segundo: Geometría Moderna se trataba de hacer geometría usando sólo una r
 Geometría Moderna es un nombre curioso ya que es la forma en que se estudiaba la geometría en la antigua Grecia.
 
 Antes de eso, también trabajé como asistente de laboratorio como parte de uno de los Macroproyectos de la UNAM (que estaba ubicado también en la Facultad de Ciencias) por unos meses entre 2006 y 2007.
-Mientras estuve ahí, me hice cargo de mantener nuestros repositorios de SVN y creé un sitio web usando una suite LAMP.
+Mientras estuve ahí, me hice cargo de mantener nuestros repositorios de SVN y creé un sitio web usando una [suite LAMP](https://en.wikipedia.org/wiki/LAMP_(software_bundle)){:target="_blank" rel="noreferrer noopener"}.
 
 #### Instituto de Investigación en Matemáticas Aplicadas y Sistemas
 
 ![IIMAS UNAM]({{ site.baseurl }}/static/images/places/iimas2.jpg "IIMAS UNAM")
 
 Inmediatamente después de terminar mi maestría, el [Departamento de Ciencias de la Computación](https://www.iimas.unam.mx/ciencias-de-la-computacion/){:target="_blank" rel="noreferrer noopener"} del [IIMAS](https://www.iimas.unam.mx/){:target="_blank" rel="noreferrer noopener"} me otorgó un puesto temporal como asistente de investigación.
-Trabajé con la [Dr Maria Elena Martinez Perez](http://www.pcic.unam.mx/~elena/){:target="_blank" rel="noreferrer noopener"} donde contribuí a una investigación sobre segmentación de vasos sanguíneos a partir de imágenes de retina obtenidas con una _cámara fondus_ (cámara de fondo de ojo), lo cual fue un proyecto muy divertido y difícil.
+Trabajé con la [Dr María Elena Martínez Pérez](http://www.pcic.unam.mx/~elena/){:target="_blank" rel="noreferrer noopener"} donde contribuí a una investigación sobre segmentación de vasos sanguíneos a partir de imágenes de retina obtenidas con una _cámara fondus_ (cámara de fondo de ojo), lo cual fue un proyecto muy divertido y difícil.
 
 ## Habilidades de Computación
 
@@ -200,19 +200,19 @@ Sin embargo, conozco suficiente HLSL (con DX11 o DX12) para realizar la mayoría
 
 Dado que mi enfoque ha sido el de programador de gráficos, normalmente uso la biblioteca [GLTF](https://www.glfw.org/){:target="_blank" rel="noreferrer noopener"} para interactuar con el gestor de ventanas y diferentes bibliotecas (recientemente soy fan de [Dear imgui](https://github.com/ocornut/imgui){:target="_blank" rel="noreferrer noopener"}) para crear UI para aplicaciones de gráficos.
 
-También tengo experiencia en el uso de motores de videojuegos de alto nivel como Unity y Unreal, pero no (¡aún no!) soy un experto en ellos.
+También tengo experiencia en el uso de motores de videojuegos de alto nivel como Unity y Unreal, pero no soy un experto en ellos (todavia).
 
 Finalmente, tengo experiencia moderada como desarrollador web usando PHP y ASP.NET MVC, en el backend con algunos conocimientos de Javascript, HTML y CSS para el front end.
 
 ### Habilidades en Ingeniería de Software
 
 Para el control de versiones, tengo experiencia trabajando con svn pero ahora solo uso git (mi favorito) o P4.
-Normalmente desarrollo usando el enfoque de Android, que incluye usar [Gerrit](https://www.gerritcodereview.com/){:target="_blank" rel="noreferrer noopener"}.
+Normalmente desarrollo usando el enfoque de Android, que incluye usar [Gerrit](https://www.gerritcodereview.com/){:target="_blank" rel="noreferrer noopener"} para revisar y subir código.
 Sin embargo, me gusta usar Github para mis proyectos personales.
 
 Normalmente trabajo en equipos pequeños que realizan desarrollo basado en sprints, y que reportan su progreso utilizando herramientas SW y realizan reuniones periódicas.
 Estoy acostumbrado a escribir pruebas unitarias, realizar revisiones de código y presentar mi trabajo en reuniones.
 
 También estoy acostumbrado a trabajar desde la oficina o desde casa.
-Esto significa que puedo mantener una comunicación constante con mi equipo mediante chat y VC, si alguno de nosotros está remoto.
+Esto significa que si alguno de nosotros está remoto, puedo mantener una comunicación constante con mi equipo mediante chat y VC.
 Si estamos en la oficina me gusta platicar (incluso cuando soy un poco introvertido) e ir a comer con mis compañeros.
