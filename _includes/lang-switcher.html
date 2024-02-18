@@ -1,10 +1,9 @@
 {% for lang in site.languages %}
     {% assign lang_name = site.data[lang].l10n.lang_name %}
+
+    {% capture lang_href %}{{site.baseurl}}/{% if lang != site.default_lang %}{{ lang }}/{% endif %}{% if page.permalink_lang[lang] != '/' %}{{page.permalink_lang[lang]}}{% endif %}{% endcapture %}
+
     {% if lang != site.active_lang %}
-        {% if lang == site.default_lang %}
-<a href=" {{ page.url }}">{{ lang_name }}</a>
-        {% else %}
-<a href="/{{ lang }}{{ page.url }}">{{ lang_name }}</a>
-        {% endif %}
+        <a href=" {{ lang_href }}">{{ lang_name }}</a>
     {% endif %}
 {% endfor %}
