@@ -36,7 +36,7 @@ Sin embargo, si lo que buscas es la versión breve y concisa de mi curriculum, p
 
 ![Purdue University]({{ site.baseurl }}/static/images/places/purdue2.jpg "Purdue University")
 
-Estudié un [Doctorado en Tecnología](https://polytechnic.purdue.edu/degrees/phd-technology){:target="_blank" rel="noreferrer noopener"} en [Purdue University](https://www.purdue.edu/){:target="_blank" rel="noreferrer noopener"}, el programa se imparte en el [Purdue Polytechnic Institute](https://polytechnic.purdue.edu/){:target="_blank" rel="noreferrer noopener"} (antes era el College of Technology) que se encuentra en el campus principal en West Lafayette (Indiana, USA).
+Estudié un [Doctorado en Tecnología](https://polytechnic.purdue.edu/degrees/phd-technology){:target="_blank" rel="noreferrer noopener"} en [Purdue University](https://www.purdue.edu/){:target="_blank" rel="noreferrer noopener"}, el programa se imparte en el [Purdue Polytechnic Institute](https://polytechnic.purdue.edu/){:target="_blank" rel="noreferrer noopener"} (antes era el College of Technology) que se encuentra en el campus principal en West Lafayette (Indiana, EUA).
 
 Cada estudiante de doctorado pertenece a un departamento. Yo estuve en el departamento de [Computer Graphics Technology](https://polytechnic.purdue.edu/departments/computer-graphics-technology){:target="_blank" rel="noreferrer noopener"}.
 El plan de estudios del doctorado, requiere tomar clases de Estadística y de Metodología de la  Investigación.
@@ -70,7 +70,7 @@ Yo estudié la pre-especialidad de "Simulación y Análisis de Decisiones", que 
 Hoy en día, casi se le podría llamar Ciencia de Datos (pero no me gusta ese nombre).
 
 Decidí titularme por medio de una tesis.
-My asesor de tesis fue la [Dr. María del Carmen Villar Patiño](https://cadit.anahuac.mx/n/claustro/dra-maria-del-carmen-villar-patino){:target="_blank" rel="noreferrer noopener"} e hice una tesis acerca de una Simulación Basada en Física y de Graficación por Computadora.
+Mi asesor de tesis fue la [Dra. María del Carmen Villar Patiño](https://cadit.anahuac.mx/n/claustro/dra-maria-del-carmen-villar-patino){:target="_blank" rel="noreferrer noopener"} e hice una tesis acerca de una Simulación Basada en Física y de Graficación por Computadora.
 
 ## Experiencia en la industria
 
@@ -99,7 +99,7 @@ Luego me cambiaron al equipo del driver 3D de dispositivos móviles, donde hice 
 
 ![WTC Mexico]({{ site.baseurl }}/static/images/places/tsc.jpg "WTC Mexico")
 
-Al terminar mis clases de licenciatura en 2005, entré a trabajar a [Tecnologia en Sistemas de Computo](https://mx.linkedin.com/company/tecnologia-en-sistemas-de-computotsc){:target="_blank" rel="noreferrer noopener"}(TSC) que es una consultoría de Software en la CDMX.
+Al terminar mis clases de licenciatura en 2005, entré a trabajar a [Tecnologia en Sistemas de Computo](https://mx.linkedin.com/company/tecnologia-en-sistemas-de-computotsc){:target="_blank" rel="noreferrer noopener"} (TSC) que es una consultoría de Software en la CDMX.
 
 Empecé a trabajar en TSC _sin tener_ mi título de licenciatura (algo de lo que me arrepiento hasta el día de hoy).
 Pero viendo el lado bueno, esta fue mi primera experiencia profesional.
@@ -125,7 +125,7 @@ Implemente algunos algoritmos clásicos de gráficas (Ambient Occlusion, Shadow 
 ![Nvidia HQ]({{ site.baseurl }}/static/images/places/nvidia1.jpg "Nvidia HQ")
 
 Mi primera pasantía en Nvidia fue en 2014 en el [campus principal](https://nvidianews.nvidia.com/multimedia/santa-clara-headquarters){:target="_blank" rel="noreferrer noopener"}.
-Trabaje con el equipo del driver de DirectX, donde implemente un decodificador de video en el GPU usando lenguaje ensamblador.
+Trabaje con el equipo del driver de DirectX, donde implementé un decodificador de video en el GPU usando lenguaje ensamblador.
 Esta fue mi primera oportunidad profesional para trabajar como ingeniero de Software en Silicon Valley.
 
 Durante el verano de 2015, hice una _segunda_ pasantía en [Nvidia](https://www.nvidia.com/){:target="_blank" rel="noreferrer noopener"}, y de nuevo estuve en el equipo del driver, pero esta vez en el driver de OpenGL.
@@ -138,27 +138,27 @@ Estando ahí, trabajé en exponer algunas extensiones de OpenGL y en arreglar al
 
 ![Knoy Hall Purdue]({{ site.baseurl }}/static/images/places/purdue1.jpg "Knoy Hall Purdue")
 
-Mientras hacía mi doctorado, tuve que trabajar, primero como asistente de investigación (RA) y luego como asistente de enseñanza (TA), ambos en el Instituto Politécnico de Purdue. Como RA, trabajé haciendo investigación en el [laboratorio de HPCG](https://polytechnic.purdue.edu/facilities/high-performance-computer-graphics-lab){:target="_blank" rel="noreferrer noopener"}, o que culminó en [mis publicaciones]({{ site.baseurl }}/publications/).
+Mientras hacía mi doctorado, tuve que trabajar, primero como asistente de investigación (RA) y luego como ayudante de profesor (TA), ambos en el Instituto Politécnico de Purdue. Como RA, trabajé haciendo investigación en el [laboratorio de HPCG](https://polytechnic.purdue.edu/facilities/high-performance-computer-graphics-lab){:target="_blank" rel="noreferrer noopener"}, o que culminó en [mis publicaciones]({{ site.baseurl }}/publicaciones/).
 
-Como TA ayudé en la impartición de cursos de Graficación por Computadora y de Programación para
+Como TA, ayudé en la impartición de cursos de Graficación por Computadora y de Programación para
  [la carrera CGT](https://polytechnic.purdue.edu/departments/computer-graphics-technology){:target="_blank" rel="noreferrer noopener"}.
-Trabajé haciendo cuestionarios y calificando tareas para cursos de desarrollo web (tanto front-end como back-end) y en “Computer Graphics programming”, que era mi favorita, porque enseñamos OpenGL y GLSL.
+Trabajé haciendo cuestionarios y calificando tareas para cursos de desarrollo web (tanto front-end como back-end) y en “Computer Graphics programming”, que era mi favorita, porque enseñabamos OpenGL y GLSL.
 
-Finalmente, también formé parte del [Círculo de Artes Computacionales](https://boilerlink.purdue.edu/organization/cac){:target="_blank" rel="noreferrer noopener"}, donde tuve la oportunidad de colaborar con el [Dr Esteban García Bravo](https://polytechnic.purdue.edu/profile/garcia0){:target="_blank" rel="noreferrer noopener"} (a.k.a [snebtor](https://snebtor.org/){:target="_blank" rel="noreferrer noopener"}).
+Finalmente, también formé parte del [Círculo de Artes Computacionales](https://boilerlink.purdue.edu/organization/cac){:target="_blank" rel="noreferrer noopener"}, donde tuve la oportunidad de colaborar con el [Dr Esteban García Bravo](https://polytechnic.purdue.edu/profile/garcia0){:target="_blank" rel="noreferrer noopener"} (también conocido como [snebtor](https://snebtor.org/){:target="_blank" rel="noreferrer noopener"}).
  Algunas de estas colaboraciones también culminaron en [publicaciones]({{ site.baseurl }}/publicaciones/).
 
 ### Universidad Nacional Autónoma de México
 
-En la UNAM tuve la oportunidad de ser asistente de profesor en la Facultad de Ciencias, docente de la FES Acatlán y asistente de investigación tanto en el IIMAS como en la Facultad de Ciencias.
+En la UNAM, tuve la oportunidad de ser ayudante de profesor en la Facultad de Ciencias, docente de la FES Acatlán y asistente de investigación tanto en el IIMAS como en la Facultad de Ciencias.
 
 #### FES Acatlán
 
 ![FES Acatlan UNAM]({{ site.baseurl }}/static/images/places/acatlan1.jpg "FES Acatlan UNAM")
 
-Impartí dos cursos: Graficación por Computadora –que es mi favorito–, y [Teoría de Gráficas](https://mac.acatlan.unam.mx/media/temarios/1644/1310.pdf){:target="_blank" rel="noreferrer noopener"}.
-También diseñé [el temario](https://mac.acatlan.unam.mx/media/temarios/1644/1055.pdf){:target="_blank" rel="noreferrer noopener"} del curso de Graficación por Computadora.
+Impartí dos cursos: [Graficación por Computadora](https://mac.acatlan.unam.mx/media/temarios/1644/1055.pdf){:target="_blank" rel="noreferrer noopener"} –que es mi favorito–, y [Teoría de Gráficas](https://mac.acatlan.unam.mx/media/temarios/1644/1310.pdf){:target="_blank" rel="noreferrer noopener"}.
+También diseñé el temario del curso de Graficación por Computadora.
 
-En FESA intenté hacer todo lo posible para ayudar y participar en todas las actividades.
+Mientras estuve en la FESA, intenté hacer todo lo posible para ayudar y participe en todas las actividades que pude.
 Entre otras cosas: fui miembro del [consejo técnico](https://consejotecnico.acatlan.unam.mx/){:target="_blank" rel="noreferrer noopener"}, contribuí a diseñar el plan de estudios de M@ y asesoré a estudiantes de primer año como mentor.
 
 
@@ -166,7 +166,7 @@ Entre otras cosas: fui miembro del [consejo técnico](https://consejotecnico.aca
 
 ![Facultad de ciencias UNAM]({{ site.baseurl }}/static/images/places/ciencias1.jpg "Facultad de ciencias UNAM")
 
-Durante mi maestría fui ayudante de cátedra en la [Facultad de Ciencias](https://www.fciencias.unam.mx/){:target="_blank" rel="noreferrer noopener"}  en [dos cursos](https://archive.fciencias.unam.mx/directorio/63922){:target="_blank" rel="noreferrer noopener"}.
+Durante mi maestría fui ayudante de profesor en la [Facultad de Ciencias](https://www.fciencias.unam.mx/){:target="_blank" rel="noreferrer noopener"}  en [dos cursos](https://archive.fciencias.unam.mx/directorio/63922){:target="_blank" rel="noreferrer noopener"}.
 El primero: Programación Avanzada trataba sobre Programación Orientada a Objetos.
 El segundo: Geometría Moderna se trataba de hacer geometría usando sólo una regla y un compás.
 Geometría Moderna es un nombre curioso ya que es la forma en que se estudiaba la geometría en la antigua Grecia.
@@ -179,14 +179,14 @@ Mientras estuve ahí, me hice cargo de mantener nuestros repositorios de SVN y c
 ![IIMAS UNAM]({{ site.baseurl }}/static/images/places/iimas2.jpg "IIMAS UNAM")
 
 Inmediatamente después de terminar mi maestría, el [Departamento de Ciencias de la Computación](https://www.iimas.unam.mx/ciencias-de-la-computacion/){:target="_blank" rel="noreferrer noopener"} del [IIMAS](https://www.iimas.unam.mx/){:target="_blank" rel="noreferrer noopener"} me otorgó un puesto temporal como asistente de investigación.
-Trabajé con la [Dr María Elena Martínez Pérez](http://www.pcic.unam.mx/~elena/){:target="_blank" rel="noreferrer noopener"} donde contribuí a una investigación sobre segmentación de vasos sanguíneos a partir de imágenes de retina obtenidas con una _cámara fondus_ (cámara de fondo de ojo), lo cual fue un proyecto muy divertido y difícil.
+Trabajé con la [Dra. María Elena Martínez Pérez](http://www.pcic.unam.mx/~elena/){:target="_blank" rel="noreferrer noopener"} donde contribuí a una investigación sobre segmentación de vasos sanguíneos a partir de imágenes de retina obtenidas con una _cámara fondus_ (cámara de fondo de ojo), lo cual fue un proyecto muy divertido y difícil.
 
 ## Habilidades de Computación
 
 ### Lenguajes de programación
 
 Dado que la mayor parte de mi vida profesional he sido ingeniero de software, tengo amplia experiencia en programación.
-Hoy en día me siento más cómodo usando C++, incluidas la mayoría de las funciones de C++ 11 y algunas de C++ 20.
+Hoy en día me siento más cómodo usando C++, incluidas la mayoría de las funciones de C++11 y algunas de C++20.
 Dicho esto, soy un desarrollador competente en lenguajes similares como C#, Java o C (como en el estándar C19).
 
 También tengo experiencia en el uso de lenguajes de programación con frameworks grandes como Python, Matlab, Qt (con C++) y R.
@@ -203,6 +203,7 @@ Dado que mi enfoque ha sido el de programador de gráficos, normalmente uso la b
 También tengo experiencia en el uso de motores de videojuegos de alto nivel como Unity y Unreal, pero no soy un experto en ellos (todavia).
 
 Finalmente, tengo experiencia moderada como desarrollador web usando PHP y ASP.NET MVC, en el backend con algunos conocimientos de Javascript, HTML y CSS para el front end.
+Y ahora un poco de Jekill, como puede verse en éste sitio.
 
 ### Habilidades en Ingeniería de Software
 

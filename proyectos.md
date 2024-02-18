@@ -53,7 +53,7 @@ Usan los logos y colores de la UNAM, pero pueden ser adaptadas con cambios míni
 
 ## Platicas
 
-Estos son algunos de los eventos en los que me han invitado a dar una plática. Todas las pláticas Español.
+Estos son algunos de los eventos en los que me han invitado a dar una plática. Todas las pláticas estan en Español.
 
 ### Refexiones profesionales
 
