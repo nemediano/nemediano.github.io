@@ -36,7 +36,8 @@ Sin embargo, si lo que buscas es la versión breve y concisa de mi curriculum, p
 
 ![Purdue University]({{ site.baseurl }}/static/images/places/purdue2.jpg "Purdue University")
 
-Estudié un [Doctorado en Tecnología](https://polytechnic.purdue.edu/degrees/phd-technology){:target="_blank" rel="noreferrer noopener"} en [Purdue University](https://www.purdue.edu/){:target="_blank" rel="noreferrer noopener"}, el programa se imparte en el [Purdue Polytechnic Institute](https://polytechnic.purdue.edu/){:target="_blank" rel="noreferrer noopener"} (antes era el College of Technology) que se encuentra en el campus principal en West Lafayette (Indiana, EUA).
+Estudié un [Doctorado en Tecnología](https://polytechnic.purdue.edu/degrees/phd-technology){:target="_blank" rel="noreferrer noopener"} en [Purdue University](https://www.purdue.edu/){:target="_blank" rel="noreferrer noopener"}.
+El programa se imparte en el [Purdue Polytechnic Institute](https://polytechnic.purdue.edu/){:target="_blank" rel="noreferrer noopener"} (antes era el College of Technology) que se encuentra en el campus principal en West Lafayette (Indiana, EUA).
 
 Cada estudiante de doctorado pertenece a un departamento. Yo estuve en el departamento de [Computer Graphics Technology](https://polytechnic.purdue.edu/departments/computer-graphics-technology){:target="_blank" rel="noreferrer noopener"}.
 El plan de estudios del doctorado, requiere tomar clases de Estadística y de Metodología de la  Investigación.
@@ -56,7 +57,7 @@ Yo pasé la mayoría de mi tiempo en el [Instituto de Investigación en Matemát
 Después de terminar el tronco común, cada estudiante escoge un área de investigación para enfocarse.
 Yo me decidí por el área de [Señales, Imágenes y Ambientes Virtuales](http://www.mcc.unam.mx/SIAV.php){:target="_blank" rel="noreferrer noopener"}, donde tomé varias clases de Procesamiento de Imágenes Digitales y Graficación por Computadora.
 
-Mi asesor de tesis fue el [Dr. Edgar Garduño Ángeles](https://turing.iimas.unam.mx/~egarduno/){:target="_blank" rel="noreferrer noopener"}, e hice una tesis que se encuentra en la intersección del Procesamiento de Imágenes Digitales, la Visualización Científica y las Gráficas por Computadora.
+Mi asesor de tesis fue el [Dr. Edgar Garduño Ángeles](https://turing.iimas.unam.mx/~egarduno/){:target="_blank" rel="noreferrer noopener"}, e hice una [tesis]({{ site.baseurl }}/publicaciones/#visualizaci%C3%B3n-suavizada-de-superficies-obtenidas-por-rastreo-de-fronteras-aplicado-a-vol%C3%BAmenes-discretizados) que se encuentra en la intersección del Procesamiento de Imágenes Digitales, la Visualización Científica y las Gráficas por Computadora.
 
 ### Licenciatura
 
@@ -69,7 +70,7 @@ En ese entonces, después del tronco común (seis semestres) entrabas a una pre-
 Yo estudié la pre-especialidad de "Simulación y Análisis de Decisiones", que consistía en estudiar [Investigación de Operaciones](https://en.wikipedia.org/wiki/Operations_research){:target="_blank" rel="noreferrer noopener"}.
 Hoy en día, casi se le podría llamar Ciencia de Datos (pero no me gusta ese nombre).
 
-Decidí titularme por medio de una tesis.
+Decidí titularme por medio de una [tesis]({{ site.baseurl }}/publicaciones/#modelado-gr%C3%A1fico-de-un-cuerpo-neum%C3%A1tico-con-opengl-a-base-de-ecuaciones-diferenciales).
 Mi asesor de tesis fue la [Dra. María del Carmen Villar Patiño](https://cadit.anahuac.mx/n/claustro/dra-maria-del-carmen-villar-patino){:target="_blank" rel="noreferrer noopener"} e hice una tesis acerca de una Simulación Basada en Física y de Graficación por Computadora.
 
 ## Experiencia en la industria
@@ -83,7 +84,8 @@ Mi tarea principal era ayudar a los proveedores a traer su contenido (videojuego
 Dado que mi formación es en Gráficas por Computadora, proveía sports de DX11, DX12 y Vulkan.
  También contribuí en el backend y escribiendo ejemplos para [Big Wheels](https://github.com/google/bigwheels){:target="_blank" rel="noreferrer noopener"}, un framework gráfico que luego se volvió Open Source.
 
-Stadia fue cancelado en Enero del 2023, y después de pasar por varios proyectos, me cambié a un puesto de Ingeniero de Software y me volví parte de la organización de Platforms and Ecosystems; donde trabajo actualmente en darle forma a la [visión de Google en XR](https://arvr.google.com/){:target="_blank" rel="noreferrer noopener"}.
+Stadia fue cancelado en Enero del 2023, y después de pasar por varios proyectos, me cambié a un puesto de Ingeniero de Software y me volví parte de la organización de Platforms and Ecosystems.
+En P&E, donde trabajo actualmente; contribuyo en darle forma a la [visión de Google en XR](https://arvr.google.com/){:target="_blank" rel="noreferrer noopener"}.
 
 ### Nvidia
 
@@ -144,8 +146,8 @@ Como TA, ayudé en la impartición de cursos de Graficación por Computadora y d
  [la carrera CGT](https://polytechnic.purdue.edu/departments/computer-graphics-technology){:target="_blank" rel="noreferrer noopener"}.
 Trabajé haciendo cuestionarios y calificando tareas para cursos de desarrollo web (tanto front-end como back-end) y en “Computer Graphics programming”, que era mi favorita, porque enseñabamos OpenGL y GLSL.
 
-Finalmente, también formé parte del [Círculo de Artes Computacionales](https://boilerlink.purdue.edu/organization/cac){:target="_blank" rel="noreferrer noopener"}, donde tuve la oportunidad de colaborar con el [Dr Esteban García Bravo](https://polytechnic.purdue.edu/profile/garcia0){:target="_blank" rel="noreferrer noopener"} (también conocido como [snebtor](https://snebtor.org/){:target="_blank" rel="noreferrer noopener"}).
- Algunas de estas colaboraciones también culminaron en [publicaciones]({{ site.baseurl }}/publicaciones/).
+Finalmente, también formé parte del [Círculo de Artes Computacionales](https://boilerlink.purdue.edu/organization/cac){:target="_blank" rel="noreferrer noopener"}, donde tuve la oportunidad de colaborar con el [Dr. Esteban García Bravo](https://polytechnic.purdue.edu/profile/garcia0){:target="_blank" rel="noreferrer noopener"} (también conocido como [snebtor](https://snebtor.org/){:target="_blank" rel="noreferrer noopener"}).
+ Algunas de estas colaboraciones también culminaron en [publicaciones]({{ site.baseurl }}/publicaciones/#yturralde-generador-de-figuras-imposibles).
 
 ### Universidad Nacional Autónoma de México
 

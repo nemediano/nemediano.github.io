@@ -27,7 +27,7 @@ I currently work at [Google](https://about.google/){:target="_blank" rel="norefe
 I studied my doctorate at [Purdue University](https://www.purdue.edu/){:target="_blank" rel="noreferrer noopener"}, but I consider [UNAM](https://www.unam.mx/){:target="_blank" rel="noreferrer noopener"} my alma mater.
 
 My professional interests are divided into two: as a mathematician I like Geometry (analytic, modern, computational, algebraic), and as a computer scientist I love Computer Graphics.
-My [Erdos number]({{ site.baseurl }}/static/pdf/ErdosNumber.pdf){:target="_blank" rel="noreferrer noopener"} is four.
+My Erdos number [is four]({{ site.baseurl }}/static/pdf/ErdosNumber.pdf){:target="_blank" rel="noreferrer noopener"}.
 
 Even though my professional training is technical and scientific, I come from a family of artists which contributed to developing a great appreciation for the arts and humanities.
 
@@ -37,12 +37,12 @@ I was born and raised in Mexico city, but now I live with my wife and our two ca
 
 {% else %}
 
-Hola, soy Jorge Antonio García Galicia (a.k.a nemediano).
+Hola, soy Jorge Antonio García Galicia (también conocido como nemediano).
 Actualmente trabajo en [Google](https://about.google/){:target="_blank" rel="noreferrer noopener"} como Ingeniero de Software.
 Estudié mi doctorado en [Purdue University](https://www.purdue.edu/){:target="_blank" rel="noreferrer noopener"}, pero considero a la [UNAM](https://www.unam.mx/){:target="_blank" rel="noreferrer noopener"} mi alma mater.
 
 Mis intereses profesionales están divididos en dos: como matemático me gusta la geometría (analítica, moderna, computacional, algebraica), y como computólogo me encantan las Gráficas por Computadora.
-Mi [número de Erdos]({{ site.baseurl }}/static/pdf/ErdosNumber.pdf){:target="_blank" rel="noreferrer noopener"} es cuatro.
+Mi número de Erdos [es cuatro]({{ site.baseurl }}/static/pdf/ErdosNumber.pdf){:target="_blank" rel="noreferrer noopener"}.
 
 Aún cuando mi formación profesional es técnica y científica, provengo de una familia de artistas lo cual contribuyó a que desarrollara una gran apreciación por las artes y las humanidades.
 

@@ -32,11 +32,12 @@ This is a rather verbose and lengthy version of my resume since I don't have any
 
 ![Purdue University]({{ site.baseurl }}/static/images/places/purdue2.jpg "Purdue University")
 
-I studied a [PhD in Technology](https://polytechnic.purdue.edu/degrees/phd-technology){:target="_blank" rel="noreferrer noopener"} at [Purdue University](https://www.purdue.edu/){:target="_blank" rel="noreferrer noopener"}, that is imparted at the [Purdue Polytechnic Institute](https://polytechnic.purdue.edu/){:target="_blank" rel="noreferrer noopener"} (formerly known as the College of Technology) which is at the main campus in West Lafayette (Indiana, USA).
+I studied a [PhD in Technology](https://polytechnic.purdue.edu/degrees/phd-technology){:target="_blank" rel="noreferrer noopener"} at [Purdue University](https://www.purdue.edu/){:target="_blank" rel="noreferrer noopener"}.
+The program is imparted at the [Purdue Polytechnic Institute](https://polytechnic.purdue.edu/){:target="_blank" rel="noreferrer noopener"} (formerly known as the College of Technology) which is at the main campus in West Lafayette (Indiana, USA).
 
 Each PhD student belongs to a department.
 I was in the department of [Computer Graphics Technology](https://polytechnic.purdue.edu/departments/computer-graphics-technology){:target="_blank" rel="noreferrer noopener"}.
-The curriculum for the PhD requires taking courses in statistics, and methodology of research.
+The curriculum for the PhD requires taking courses in Statistics, and Methodology of Research.
 In addition, I took courses in Computer Graphics; since it was my area of research, and on Computer Science and Mathematics for my optional courses.
 
 During my PhD, my supervisor and mentor was [Dr. Bedrich Benes](https://cs.purdue.edu/homes/bbenes/){:target="_blank" rel="noreferrer noopener"}.
@@ -52,20 +53,20 @@ I spent most of my time at the [Institute of Research in Applied Mathematics and
 
 After finishing the core courses, each student chooses a research area to focus on. I decided to go to [Signals, Images and Virtual Environments](http://www.mcc.unam.mx/SIAV.php){:target="_blank" rel="noreferrer noopener"}, where I took several courses in Digital Image Processing and Computer Graphics.
 
-My thesis supervisor was [Dr. Edgar Garduño Ángeles](https://turing.iimas.unam.mx/~egarduno/){:target="_blank" rel="noreferrer noopener"}, and I did a thesis which lies in the intersection of Digital Image Processing, Scientific Visualization and Computer Graphics.
+My thesis supervisor was [Dr. Edgar Garduño Ángeles](https://turing.iimas.unam.mx/~egarduno/){:target="_blank" rel="noreferrer noopener"}, and I did a [thesis]({{ site.baseurl }}/publications/#visualization-of-smoothed-surfaces-obtained-by-applying-boundary-tracking-to-discretized-volumes) which lies in the intersection of Digital Image Processing, Scientific Visualization and Computer Graphics.
 
 ### Bachelor degree
 
 ![FES Acatlan UNAM]({{ site.baseurl }}/static/images/places/acatlan2.jpg "FES Acatlan UNAM")
 
 I did my bachelor's studies at [FES Acatlan](https://www.acatlan.unam.mx/){:target="_blank" rel="noreferrer noopener"}, which is one the satellite campi of UNAM.
-I study a rather unique bachelor's degree: [Applied Mathematics and Computer Science](https://mac.acatlan.unam.mx/){:target="_blank" rel="noreferrer noopener"} (or M@ as we like to call it).
+I studied a rather unique bachelor's degree: [Applied Mathematics and Computer Science](https://mac.acatlan.unam.mx/){:target="_blank" rel="noreferrer noopener"} (or M@ as we like to call it).
 
 At that time, after the core courses (six semesters) you went to a pre-speciality path (for the last three semesters).
 I took the "Simulation and Decision Analysis" path, which was about studying [Operations Research](https://en.wikipedia.org/wiki/Operations_research){:target="_blank" rel="noreferrer noopener"}.
 Nowadays you could almost call it Data Science (but I just don’t like that term).
 
-I decided to get my degree by doing a thesis. My thesis supervisor was [Dr. María del Carmen Villar Patiño](https://cadit.anahuac.mx/n/claustro/dra-maria-del-carmen-villar-patino){:target="_blank" rel="noreferrer noopener"} and I did a thesis about Physically Based Simulation and Computer Graphics.
+I decided to get my degree by doing a [thesis]({{ site.baseurl }}/publications/#graphic-modeling-of-a-pneumatic-body-with-opengl-using-differential-equations). My thesis supervisor was [Dr. María del Carmen Villar Patiño](https://cadit.anahuac.mx/n/claustro/dra-maria-del-carmen-villar-patino){:target="_blank" rel="noreferrer noopener"} and I did a thesis about Physically Based Simulation and Computer Graphics.
 
 ## Experience in the industry
 
@@ -73,14 +74,13 @@ I decided to get my degree by doing a thesis. My thesis supervisor was [Dr. Mar�
 
 ![Googleplex]({{ site.baseurl }}/static/images/places/google1.jpg "Googleplex")
 
-I joined [Google](https://about.google/){:target="_blank" rel="noreferrer noopener"} in March of 2021 as a Technical Solutions Engineer in [Stadia](https://stadia.google.com/gg/){:target="_blank" rel="noreferrer noopener"}.
-My main job was helping partners bring their content (video games) to the platform.
+I joined [Google](https://about.google/){:target="_blank" rel="noreferrer noopener"} on March of 2021 as a Technical Solutions Engineer for [Stadia](https://stadia.google.com/gg/){:target="_blank" rel="noreferrer noopener"}.
+My main job was helping partners to bring their content (video games) to the platform.
 My focus was computer graphics, so I provided support for DX11, DX12 and Vulkan.
 I also contributed with backend and samples to [Big Wheels](https://github.com/google/bigwheels){:target="_blank" rel="noreferrer noopener"}, a graphics framework that later became open source.
 
 Stadia was shut down in January of 2023, and after jumping on several projects I switched to a Software Engineer position and became part of the Platforms and Ecosystems organization.
-Where I work today.
-At P&E, I contribute to shape Google’s [vision on XR](https://arvr.google.com/){:target="_blank" rel="noreferrer noopener"}.
+At P&E, where I work today; I contribute to shape Google’s [vision on XR](https://arvr.google.com/){:target="_blank" rel="noreferrer noopener"}.
 
 ### Nvidia
 
@@ -135,13 +135,13 @@ Where I did work to expose some OpenGL extensions in the driver and to fix some 
 ![Knoy Hall Purdue]({{ site.baseurl }}/static/images/places/purdue1.jpg "Knoy Hall Purdue")
 
 While doing my PhD, I had to work, first as a research assistant (RA) and later as a teaching assistant (TA) both at Purdue Polytechnic Institute.
-As an RA I spend my time working on research at the [HPCG lab](https://polytechnic.purdue.edu/facilities/high-performance-computer-graphics-lab){:target="_blank" rel="noreferrer noopener"}, which resulted in [my publications]({{ site.baseurl }}/publications/).
+As an RA I spent my time working doing research at the [HPCG lab](https://polytechnic.purdue.edu/facilities/high-performance-computer-graphics-lab){:target="_blank" rel="noreferrer noopener"}, which resulted in [my publications]({{ site.baseurl }}/publications/).
 
 As a TA I assisted in teaching Graphics and programming courses for the [CGT major](https://polytechnic.purdue.edu/departments/computer-graphics-technology){:target="_blank" rel="noreferrer noopener"}.
 I worked in designing quizzes and grading for courses in web development (both front end and back end) and in Computer Graphics programming, which was always my favorite, because we teached OpenGL and GLSL.
 
-Finally, I was also part of the [Computational Arts Circle](https://boilerlink.purdue.edu/organization/cac){:target="_blank" rel="noreferrer noopener"}, where I had the chance of collaborating with [Dr Esteban García Bravo](https://polytechnic.purdue.edu/profile/garcia0){:target="_blank" rel="noreferrer noopener"} (a.k.a [snebtor](https://snebtor.org/){:target="_blank" rel="noreferrer noopener"}).
-Some of these collaborations also culminated in [publications]({{ site.baseurl }}/publications/).
+Finally, I was also part of the [Computational Arts Circle](https://boilerlink.purdue.edu/organization/cac){:target="_blank" rel="noreferrer noopener"}, where I had the chance of collaborating with [Dr. Esteban García Bravo](https://polytechnic.purdue.edu/profile/garcia0){:target="_blank" rel="noreferrer noopener"} (a.k.a [snebtor](https://snebtor.org/){:target="_blank" rel="noreferrer noopener"}).
+Some of these collaborations also culminated in [publications]({{ site.baseurl }}/publications/#yturralde-impossible-figure-generator).
 
 ### National Autonomous University of Mexico
 
@@ -172,7 +172,7 @@ There, I was in charge of maintaining our SVN repositories and I created a websi
 
 ![IIMAS UNAM]({{ site.baseurl }}/static/images/places/iimas2.jpg "IIMAS UNAM")
 
-Right after finishing my masters, the [Department of Computer Science](https://www.iimas.unam.mx/ciencias-de-la-computacion/){:target="_blank" rel="noreferrer noopener"} of [IIMAS](https://www.iimas.unam.mx/){:target="_blank" rel="noreferrer noopener"} gave me a temporary position as a research assistant for [Dr María Elena Martínez Pérez](http://www.pcic.unam.mx/~elena/){:target="_blank" rel="noreferrer noopener"} where I contributed to a research about segmenting blood vessels from retina images obtained with a fundus camera, which was a very fun and difficult project.
+Right after finishing my masters, the [Department of Computer Science](https://www.iimas.unam.mx/ciencias-de-la-computacion/){:target="_blank" rel="noreferrer noopener"} of [IIMAS](https://www.iimas.unam.mx/){:target="_blank" rel="noreferrer noopener"} gave me a temporary position as a research assistant for [Dr. María Elena Martínez Pérez](http://www.pcic.unam.mx/~elena/){:target="_blank" rel="noreferrer noopener"} where I contributed to a research about segmenting blood vessels from retina images obtained with a fundus camera, which was a very fun and difficult project.
 
 
 ## Computer skills

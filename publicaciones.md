@@ -261,6 +261,72 @@ El objetivo de los autores es comprender mejor la contribución de Yturralde des
 }
 
 ```
+
+## Catálogos de arte
+
+### Galería del programa de artes IEEE VIS 2016 y 2017
+
+![ Geode ]({{ site.baseurl }}/static/images/geode.jpg "Geode image")
+
+Geode es una escultura video-mapeada desarrollada a partir de un análisis de la geometría improvisada en un espacio tridimensional.
+El proyecto interroga el potencial estético de la geometría emotiva mediante la utilización de formas no ortogonales y modelos matemáticos basados en puntos y planos infinitos.
+Geode lleva el arte neoconcreto a una nueva dimensión al integrar la geometría digital en respuesta a la síntesis de audio.
+De esta forma conseguimos una forma cristalina que brilla como una geoda mineral.
+Las variaciones de superficie son el resultado de la síntesis de sonido en tiempo real.
+Visualizamos paisajes sonoros transformando señales analógicas en datos digitales en tiempo real.
+La metamorfosis de la escultura se experimenta visualmente a través de geometrías generativas impulsadas por el sonido.
+Geode es un esfuerzo colaborativo para fusionar escultura pública, paisaje sonoro y proyección visual en una experiencia inmersiva.
+
+* [Link permanente](https://doi.org/10.1145/2810177.2810183){:target="_blank" rel="noreferrer noopener"} en el sitio de publicación.
+
+* Descargar el [catálogo]({{ site.baseurl }}/static/pdf/ArtGalleryCatalog.pdf){:target="_blank" rel="noreferrer noopener"} completo.
+
+
+```
+@article{VIS-2016-2017Arts,
+    author  = {Groß, Benedikt and Reimann, Raphael and Schmitt, Philipp and Bravo, Esteban Garcia and Carlson, Maxwell and Zernack, Aaron and Garcia, Jorge and Han, Yoon Chung and Tiwari, Shankar and Nagel, Till and Pietsch, Christopher and Stock, Mark J. and Shi, Weili and Westbrook, Jessica Parris and Trowbridge, Adam and Richison, Mike and Goodwin, Mitch and Fay, Clement and Lay, Sebastian and Vermeulen, Jo and Perin, Charles and Donovan, Eric and Dachselt, Raimund and Carpendale, Sheelagh and Heinicker, Paul and Offenhuber, Dietmar and Clark, Duncan and Houston, Robin and Smith, Tristan and Jenik, Adriene and Ribeiro, Clarissa and Lorusso, Mick and Rocha, Herbert and So, Wonyoung and Martino, Mauro and Strobelt, Hendrik and Cornec, Owen and Huang, Scottie Chih-Chieh and Huang, Yu-Chun and Lee, Inhye and Kim, Hyomin and Amelot, Pierre and Hwong, John and McManus, Kate and McGee, Ryan and Neubauer, Mary Bates},
+    title   = "{IEEE VIS 2016 and 2017 Arts Program Gallery}",
+    journal = {Leonardo},
+    volume  = {53},
+    number  = {1},
+    pages   = {6-24},
+    year    = {2020},
+    month   = {02},
+    issn    = {0024-094X},
+    doi     = {10.1162/leon_a_01837},
+    url     = {https://doi.org/10.1162/leon\_a\_01837},
+    eprint  = {https://direct.mit.edu/leon/article-pdf/53/1/6/1579585/leon\_a\_01837.pdf},
+}
+```
+
+### XV: espacios reactivos
+
+
+![ XV: reactive spaces ]({{ site.baseurl }}/static/images/xv_points.jpg "XV: reactive spaces image")
+
+Quince puntos (XV) es una proyección interactiva en el piso en la que se anima a los espectadores a moverse por el espacio y participar en la manipulación de la obra de arte.
+Los espacios generados a través de estos quince puntos detectan el cuerpo del participante, doblando y distorsionando la arquitectura de la pieza.
+Cuando ya no se detecta una presencia, las formas se restauran  a su estado original de forma autónoma con un estallido de energía, mientras un paisaje sonoro generativo orquesta toda la experiencia.
+
+* [Link permanente](https://www.scienceopen.com/hosted-document?doi=10.14236/ewic/eva2015.46){:target="_blank" rel="noreferrer noopener"} en el sitio de publicación.
+
+* Descargar la [entrada]({{ site.baseurl }}/static/pdf/XVReactiveSpaces.pdf){:target="_blank" rel="noreferrer noopener"} del catálogo.
+
+
+```
+@inproceedings{inproceedings,
+    author    = {Garcia Bravo, Esteban and Garcia Galicia, Jorge and Zernack, Aaron},
+    year      = {2015},
+    month     = {07},
+    publisher = {Association for Computing Machinery},
+    booktitle = {Electronic Visualisation and the Arts 2015},
+    title     = {XV: Reactive Spaces},
+    doi       = {10.14236/ewic/eva2015.46}
+}
+
+```
+
+
 ## Tesis
 
 ### Optimización de la velocidad de impresión 3D minimizando los caminos vacíos
@@ -381,70 +447,6 @@ Y por último, se hace un análisis del desempeño del programa; donde se estima
     address = {Acatlán, Edo de Mex, México},
     note    = {Available at \url{https://repositorio.unam.mx/contenidos/343984}},
     school  = {Facultad de Estudios Superiores Acatlán, UNAM},
-    type    = {Bacheor thesis}
+    type    = {Bachelor thesis}
 }
-```
-
-## Catálogos de arte
-
-### Galería del programa de artes IEEE VIS 2016 y 2017
-
-![ Geode ]({{ site.baseurl }}/static/images/geode.jpg "Geode image")
-
-Geode es una escultura video-mapeada desarrollada a partir de un análisis de la geometría improvisada en un espacio tridimensional.
-El proyecto interroga el potencial estético de la geometría emotiva mediante la utilización de formas no ortogonales y modelos matemáticos basados en puntos y planos infinitos.
-Geode lleva el arte neoconcreto a una nueva dimensión al integrar la geometría digital en respuesta a la síntesis de audio.
-De esta forma conseguimos una forma cristalina que brilla como una geoda mineral.
-Las variaciones de superficie son el resultado de la síntesis de sonido en tiempo real.
-Visualizamos paisajes sonoros transformando señales analógicas en datos digitales en tiempo real.
-La metamorfosis de la escultura se experimenta visualmente a través de geometrías generativas impulsadas por el sonido.
-Geode es un esfuerzo colaborativo para fusionar escultura pública, paisaje sonoro y proyección visual en una experiencia inmersiva.
-
-* [Link permanente](https://doi.org/10.1145/2810177.2810183){:target="_blank" rel="noreferrer noopener"} en el sitio de publicación.
-
-* Descargar el [catálogo]({{ site.baseurl }}/static/pdf/ArtGalleryCatalog.pdf){:target="_blank" rel="noreferrer noopener"} completo.
-
-
-```
-@article{VIS-2016-2017Arts,
-    author  = {Groß, Benedikt and Reimann, Raphael and Schmitt, Philipp and Bravo, Esteban Garcia and Carlson, Maxwell and Zernack, Aaron and Garcia, Jorge and Han, Yoon Chung and Tiwari, Shankar and Nagel, Till and Pietsch, Christopher and Stock, Mark J. and Shi, Weili and Westbrook, Jessica Parris and Trowbridge, Adam and Richison, Mike and Goodwin, Mitch and Fay, Clement and Lay, Sebastian and Vermeulen, Jo and Perin, Charles and Donovan, Eric and Dachselt, Raimund and Carpendale, Sheelagh and Heinicker, Paul and Offenhuber, Dietmar and Clark, Duncan and Houston, Robin and Smith, Tristan and Jenik, Adriene and Ribeiro, Clarissa and Lorusso, Mick and Rocha, Herbert and So, Wonyoung and Martino, Mauro and Strobelt, Hendrik and Cornec, Owen and Huang, Scottie Chih-Chieh and Huang, Yu-Chun and Lee, Inhye and Kim, Hyomin and Amelot, Pierre and Hwong, John and McManus, Kate and McGee, Ryan and Neubauer, Mary Bates},
-    title   = "{IEEE VIS 2016 and 2017 Arts Program Gallery}",
-    journal = {Leonardo},
-    volume  = {53},
-    number  = {1},
-    pages   = {6-24},
-    year    = {2020},
-    month   = {02},
-    issn    = {0024-094X},
-    doi     = {10.1162/leon_a_01837},
-    url     = {https://doi.org/10.1162/leon\_a\_01837},
-    eprint  = {https://direct.mit.edu/leon/article-pdf/53/1/6/1579585/leon\_a\_01837.pdf},
-}
-```
-
-### XV: espacios reactivos
-
-
-![ XV: reactive spaces ]({{ site.baseurl }}/static/images/xv_points.jpg "XV: reactive spaces image")
-
-Quince puntos (XV) es una proyección interactiva en el piso en la que se anima a los espectadores a moverse por el espacio y participar en la manipulación de la obra de arte.
-Los espacios generados a través de estos quince puntos detectan el cuerpo del participante, doblando y distorsionando la arquitectura de la pieza.
-Cuando ya no se detecta una presencia, las formas se restauran  a su estado original de forma autónoma con un estallido de energía, mientras un paisaje sonoro generativo orquesta toda la experiencia.
-
-* [Link permanente](https://www.scienceopen.com/hosted-document?doi=10.14236/ewic/eva2015.46){:target="_blank" rel="noreferrer noopener"} en el sitio de publicación.
-
-* Descargar la [entrada]({{ site.baseurl }}/static/pdf/XVReactiveSpaces.pdf){:target="_blank" rel="noreferrer noopener"} del catálogo.
-
-
-```
-@inproceedings{inproceedings,
-    author    = {Garcia Bravo, Esteban and Garcia Galicia, Jorge and Zernack, Aaron},
-    year      = {2015},
-    month     = {07},
-    publisher = {Association for Computing Machinery},
-    booktitle = {Electronic Visualisation and the Arts 2015},
-    title     = {XV: Reactive Spaces},
-    doi       = {10.14236/ewic/eva2015.46}
-}
-
 ```
