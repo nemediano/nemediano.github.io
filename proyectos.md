@@ -38,17 +38,17 @@ Mientras impartía un curso de [Graficación por Computadora](https://www.acatla
 * Rutinas para escribir imágenes a un archivo y leer imágenes desde un archivo. Para cargar las texturas y salvar capturas de pantalla.
 * Leer, compilar y debuggear shaders desde un archivo.
 * Crear una interfaz de usuario sencilla que te permita cambiar parámetros de distintos tipos (escalares, vectores, colores, orientaciones).
-* Tener interacción básica con el programa. Es decir responder a eventos del mouse, del teclado.
+* Tener interacción básica con el programa. Es decir responder a eventos del mouse y del teclado.
 * Interactuar con el controlador de ventas de tu sistema operativo: pedir una superficie para render, crear un viewport, cambiar a modo de pantalla completa.
 
-Por poner solo unos ejemplos. Teniendo eso en mente decidí crear una [serie de plantillas](https://github.com/nemediano/OpenGLTemplates){:target="_blank" rel="noreferrer noopener"} para facilitar todo ese trabajo.
+Por citar solo unos ejemplos. Teniendo eso en mente, decidí crear una [serie de plantillas](https://github.com/nemediano/OpenGLTemplates){:target="_blank" rel="noreferrer noopener"} para facilitar todo ese trabajo.
 
 ### Plantillas en LaTeX para uso académico (preconfiguradas para la UNAM)
 
-Durante mi vida academica, use [LaTeX](https://www.latex-project.org/){:target="_blank" rel="noreferrer noopener"} para hacer casi todos mis documentos.
+Durante mi vida academica, usé [LaTeX](https://www.latex-project.org/){:target="_blank" rel="noreferrer noopener"} para hacer casi todos mis documentos.
 Dado que no soy un experto en LaTeX, decidí crear una [serie de plantillas](https://github.com/nemediano/latexPlantillaUnam){:target="_blank" rel="noreferrer noopener"}.
 Creo que contienen el 20% de LaTeX que se necesita el 80% del tiempo.
-Las plantillas están divididas en casos de uso, y ya están configuradas para usarse en es Español.
+Las plantillas están divididas en casos de uso, y ya están configuradas para usarse en Español.
 Usan los logos y colores de la UNAM, pero pueden ser adaptadas con cambios mínimos para usarse en cualquier institución educativa.
 
 ## Platicas
@@ -68,7 +68,7 @@ Cuando me invitaron a dar una de las pláticas, decidí hacer una presentación 
 {% include youtube.html id='kgyVrOzmpf0' %}
 
 Esta es una presentación del tipo “my journey” acerca de mi.
-Aquí detallo como el temprano interés por los videojuegos de mi juventud me llevó a un viaje a las matemáticas y las ciencias de la computación, que incluyó hacer un doctorado y trabajar en Google.
+Aquí detallo como el temprano interés por los videojuegos de mi juventud me llevó en un viaje a las matemáticas y las ciencias de la computación, que incluyó hacer un doctorado y trabajar en Google.
 La conferencia fue presentada en la [FES Acatlan](https://acatlan.unam.mx/){:target="_blank" rel="noreferrer noopener"}, como parte de los festejos por el [40 aniversario](https://mac.acatlan.unam.mx/micrositios/40anios/principal.html){:target="_blank" rel="noreferrer noopener"} de la licenciatura en [Matemáticas Aplicadas y Computación](https://mac.acatlan.unam.mx/){:target="_blank" rel="noreferrer noopener"}.
 El evento se llevó a cabo el 1 de Marzo del 2023.
 

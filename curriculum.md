@@ -44,7 +44,7 @@ El plan de estudios del doctorado, requiere tomar clases de Estadística y de Me
 Además, tomé clases de Graficación por Computadora, –dado que era mi área de investigación–, y tomé materias optativas de Matemáticas y de Ciencias de la Computación.
 
 Durante mi doctorado, mi asesor y mentor fue el [Dr. Bedrich Benes](https://cs.purdue.edu/homes/bbenes/){:target="_blank" rel="noreferrer noopener"}.
-En ese periodo fuí miembro del HPCG lab (que ahora forma parte del departamento de Ciencias de la Computación) donde llevé a cabo investigaciones en Graficación por Computadora y en Manufactura Aditiva (mejor conocida como 3D printing) que culminaron en varias [publicaciones]({{ site.baseurl }}/publicaciones/).
+En ese periodo fuí miembro del HPCG lab (que ahora forma parte del departamento de Ciencias de la Computación) donde hice investigación en Graficación por Computadora y en Manufactura Aditiva (mejor conocida como 3D printing) lo que culminó en varias [publicaciones]({{ site.baseurl }}/publicaciones/).
 
 ### Maestría
 
@@ -81,7 +81,7 @@ Mi asesor de tesis fue la [Dra. María del Carmen Villar Patiño](https://cadit.
 
 Empecé a trabajar en [Google](https://about.google/){:target="_blank" rel="noreferrer noopener"} en Marzo del 2021 como Ingeniero de Soluciones para [Stadia](https://stadia.google.com/gg/){:target="_blank" rel="noreferrer noopener"}.
 Mi tarea principal era ayudar a los proveedores a traer su contenido (videojuegos) a la plataforma.
-Dado que mi formación es en Gráficas por Computadora, proveía sports de DX11, DX12 y Vulkan.
+Dado que mi formación es en Gráficas por Computadora, proveía soporte de DX11, DX12 y Vulkan.
  También contribuí en el backend y escribiendo ejemplos para [Big Wheels](https://github.com/google/bigwheels){:target="_blank" rel="noreferrer noopener"}, un framework gráfico que luego se volvió Open Source.
 
 Stadia fue cancelado en Enero del 2023, y después de pasar por varios proyectos, me cambié a un puesto de Ingeniero de Software y me volví parte de la organización de Platforms and Ecosystems.
@@ -91,10 +91,10 @@ En P&E, donde trabajo actualmente; contribuyo en darle forma a la [visión de Go
 
 ![Nvidia Endeavor]({{ site.baseurl }}/static/images/places/nvidia2.jpg "Nvidia Endeavor")
 
-Después de graduarme del doctorado en Septiembre del 2017, me incorpore a [Nvidia](https://www.nvidia.com/){:target="_blank" rel="noreferrer noopener"} que me ayudó a mudarme a San Jose California (también conocido como Silicon Valley).
+Después de graduarme del doctorado en Septiembre del 2017, me incorporé a [Nvidia](https://www.nvidia.com/){:target="_blank" rel="noreferrer noopener"} que me ayudó a mudarme a San Jose California (también conocido como Silicon Valley).
 
 
-En Nvidia fui Ingeniero de Software en el equipo de navegadores web, donde trabajé haciendo   y diseñando algunos de los componentes web de [ISAAC SDK](https://developer.nvidia.com/isaac-ros){:target="_blank" rel="noreferrer noopener"}.
+En Nvidia, fui Ingeniero de Software en el equipo de navegadores web, donde trabajé haciendo   y diseñando algunos de los componentes web de [ISAAC SDK](https://developer.nvidia.com/isaac-ros){:target="_blank" rel="noreferrer noopener"}.
 Luego me cambiaron al equipo del driver 3D de dispositivos móviles, donde hice trabajo de bajo nivel de OpenGL, trabajé en Safety para Automotive y di mis primeros pasos en Vulkan.
 
 ### TSC
@@ -116,22 +116,21 @@ Mientras estaba estudiando el doctorado, aproveché cada oportunidad disponible 
 
 ![Adobe oficina de  SF]({{ site.baseurl }}/static/images/places/adobe.jpg "Adobe oficina de  SF")
 
-Durante el verano del 2016, hice una pasantía en [Adobe research](https://research.adobe.com/){:target="_blank" rel="noreferrer noopener"} con el laboratorio de Imágenes procedurales (que ahora es parte del grupo de investigación en Gráficas), sin embargo estuve en la [oficina de San Francisco.](https://learning.adobe.com/products-resources/contact-us/americas/san-francisco.html){:target="_blank" rel="noreferrer noopener"}.
+Durante el verano del 2016, hice una pasantía en [Adobe research](https://research.adobe.com/){:target="_blank" rel="noreferrer noopener"} con el laboratorio de Imágenes Procedurales (que ahora es parte del grupo de investigación en Gráficas), sin embargo estuve en la [oficina de San Francisco.](https://learning.adobe.com/products-resources/contact-us/americas/san-francisco.html){:target="_blank" rel="noreferrer noopener"}.
 
 Mi pasantía giró alrededor de un software para modelado que simulaba el proceso de hacer una escultura.
 Esta fue por mucho la pasantía más interesante que tuve.
-Implemente algunos algoritmos clásicos de gráficas (Ambient Occlusion, Shadow Mapping y PBR) usando un pipeline diferido por medio de C++ y OpenGL con GLSL.
+Implementé algunos algoritmos clásicos de gráficas (Ambient Occlusion, Shadow Mapping y PBR) usando un pipeline diferido por medio de C++ y OpenGL con GLSL.
 
 ### Nvidia
 
 ![Nvidia HQ]({{ site.baseurl }}/static/images/places/nvidia1.jpg "Nvidia HQ")
 
 Mi primera pasantía en Nvidia fue en 2014 en el [campus principal](https://nvidianews.nvidia.com/multimedia/santa-clara-headquarters){:target="_blank" rel="noreferrer noopener"}.
-Trabaje con el equipo del driver de DirectX, donde implementé un decodificador de video en el GPU usando lenguaje ensamblador.
+Trabajé con el equipo del driver de DirectX, donde implementé un decodificador de video en el GPU usando lenguaje ensamblador.
 Esta fue mi primera oportunidad profesional para trabajar como ingeniero de Software en Silicon Valley.
 
 Durante el verano de 2015, hice una _segunda_ pasantía en [Nvidia](https://www.nvidia.com/){:target="_blank" rel="noreferrer noopener"}, y de nuevo estuve en el equipo del driver, pero esta vez en el driver de OpenGL.
-
 Estando ahí, trabajé en exponer algunas extensiones de OpenGL y en arreglar algunos bugs en la extensión de debug de OpenGL.
 
 ## Experiencia Academica
@@ -140,7 +139,7 @@ Estando ahí, trabajé en exponer algunas extensiones de OpenGL y en arreglar al
 
 ![Knoy Hall Purdue]({{ site.baseurl }}/static/images/places/purdue1.jpg "Knoy Hall Purdue")
 
-Mientras hacía mi doctorado, tuve que trabajar, primero como asistente de investigación (RA) y luego como ayudante de profesor (TA), ambos en el Instituto Politécnico de Purdue. Como RA, trabajé haciendo investigación en el [laboratorio de HPCG](https://polytechnic.purdue.edu/facilities/high-performance-computer-graphics-lab){:target="_blank" rel="noreferrer noopener"}, o que culminó en [mis publicaciones]({{ site.baseurl }}/publicaciones/).
+Mientras hacía mi doctorado, tuve que trabajar, primero como asistente de investigación (RA) y luego como ayudante de profesor (TA), ambos en el Instituto Politécnico de Purdue. Como RA, trabajé haciendo investigación en el [laboratorio de HPCG](https://polytechnic.purdue.edu/facilities/high-performance-computer-graphics-lab){:target="_blank" rel="noreferrer noopener"}, lo que culminó en [mis publicaciones]({{ site.baseurl }}/publicaciones/).
 
 Como TA, ayudé en la impartición de cursos de Graficación por Computadora y de Programación para
  [la carrera CGT](https://polytechnic.purdue.edu/departments/computer-graphics-technology){:target="_blank" rel="noreferrer noopener"}.
@@ -160,7 +159,7 @@ En la UNAM, tuve la oportunidad de ser ayudante de profesor en la Facultad de Ci
 Impartí dos cursos: [Graficación por Computadora](https://mac.acatlan.unam.mx/media/temarios/1644/1055.pdf){:target="_blank" rel="noreferrer noopener"} –que es mi favorito–, y [Teoría de Gráficas](https://mac.acatlan.unam.mx/media/temarios/1644/1310.pdf){:target="_blank" rel="noreferrer noopener"}.
 También diseñé el temario del curso de Graficación por Computadora.
 
-Mientras estuve en la FESA, intenté hacer todo lo posible para ayudar y participe en todas las actividades que pude.
+Mientras estuve en la FESA, intenté hacer todo lo posible para ayudar y participé en todas las actividades que pude.
 Entre otras cosas: fui miembro del [consejo técnico](https://consejotecnico.acatlan.unam.mx/){:target="_blank" rel="noreferrer noopener"}, contribuí a diseñar el plan de estudios de M@ y asesoré a estudiantes de primer año como mentor.
 
 
@@ -218,4 +217,4 @@ Estoy acostumbrado a escribir pruebas unitarias, realizar revisiones de código 
 
 También estoy acostumbrado a trabajar desde la oficina o desde casa.
 Esto significa que si alguno de nosotros está remoto, puedo mantener una comunicación constante con mi equipo mediante chat y VC.
-Si estamos en la oficina me gusta platicar (incluso cuando soy un poco introvertido) e ir a comer con mis compañeros.
+Si estamos en la oficina, me gusta platicar (incluso cuando soy un poco introvertido) e ir a comer con mis compañeros.
