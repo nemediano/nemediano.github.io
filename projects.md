@@ -66,8 +66,10 @@ They invited me to give a talk, and I decided to make a presentation about my pr
 
 {% include youtube.html id='kgyVrOzmpf0' %}
 
-This is a “my journey” presentation, about me. I detail how the early interest in video games during my childhood took me into a journey into math and computer science, that included doing a PhD and working at Google.
-The talk was presented at [FES Acatlan](https://acatlan.unam.mx/){:target="_blank" rel="noreferrer noopener"}, as part of the [40th anniversary](https://mac.acatlan.unam.mx/micrositios/40anios/principal.html){:target="_blank" rel="noreferrer noopener"} of the bachelors program in [Applied Mathematics and Computer Science](https://mac.acatlan.unam.mx/){:target="_blank" rel="noreferrer noopener"}. It was presented on march 1st of 2023
+This is a “my journey” presentation about me.
+I detail how the early interest in video games during my childhood, took me into a journey to math and computer science, that included doing a PhD and working at Google.
+The talk was presented at [FES Acatlan](https://acatlan.unam.mx/){:target="_blank" rel="noreferrer noopener"}, as part of the [40th anniversary](https://mac.acatlan.unam.mx/micrositios/40anios/principal.html){:target="_blank" rel="noreferrer noopener"} of the bachelors program in [Applied Mathematics and Computer Science](https://mac.acatlan.unam.mx/){:target="_blank" rel="noreferrer noopener"}.
+It was presented on march 1st of 2023
 
 ### Interview about Robert E. Howard
 

@@ -43,7 +43,7 @@ Nuestra solución redujo el tiempo de impresión en un promedio de 29,4% (entre 
 
 * [Link permanente](https://doi.org/10.1111/cgf.12437){:target="_blank" rel="noreferrer noopener"} en el sitio de publicación.
 
-* Descargar el [artículo]({{ site.baseurl }}/static/pdf/articulos/CleverSupport.pdf){:target="_blank" rel="noreferrer noopener"}
+* Descargar el [artículo]({{ site.baseurl }}/static/pdf/articulos/CleverSupport.pdf){:target="_blank" rel="noreferrer noopener"} en pdf.
 
 
 ```
@@ -64,7 +64,7 @@ Nuestra solución redujo el tiempo de impresión en un promedio de 29,4% (entre 
 ```
 
 
-### Espirales de Fermat conexas para la manufactura por capas
+### Espirales de Fermat Conectadas para la manufactura por capas
 
 ![Fermat Spirals]({{ site.baseurl }}/static/images/articles/fermat_spirals.jpg "Fermat Spirals image")
 
@@ -79,7 +79,7 @@ Demostramos que imprimir capas 2D usando trayectorias de herramientas con Espira
 
 * [Link permanente](https://doi.org/10.1145/2897824.2925958){:target="_blank" rel="noreferrer noopener"} en el sitio de publicación.
 
-* Descargar el [artículo]({{ site.baseurl }}/static/pdf/articulos/FermatSpirals.pdf){:target="_blank" rel="noreferrer noopener"}
+* Descargar el [artículo]({{ site.baseurl }}/static/pdf/articulos/FermatSpirals.pdf){:target="_blank" rel="noreferrer noopener"} en pdf.
 
 
 * [Haisen Zhao](https://haisenzhao.github.io/){:target="_blank" rel="noreferrer noopener"} quien es el autor principal, tiene una [página](https://haisenzhao.github.io/CFS/index.html){:target="_blank" rel="noreferrer noopener"} muy completa acerca de este artículo.
@@ -131,7 +131,7 @@ Una vez impresos los segmentos, es necesario ensamblarlos.
 
 * [Link permanente](https://doi.org/10.1111/cgf.12353){:target="_blank" rel="noreferrer noopener"} en el sitio de publicación.
 
-* Descargar el [artículo]({{ site.baseurl }}/static/pdf/articulos/PackMerger.pdf){:target="_blank" rel="noreferrer noopener"}
+* Descargar el [artículo]({{ site.baseurl }}/static/pdf/articulos/PackMerger.pdf){:target="_blank" rel="noreferrer noopener"} en pdf.
 
 * Este artículo también tiene un [video](https://www.youtube.com/watch?v=sBgSr7JItmo){:target="_blank" rel="noreferrer noopener"}.
 
@@ -170,7 +170,7 @@ Las pruebas preliminares demuestran que esta metodología puede reducir los tiem
 
 * [Link permanente](https://doi.org/10.1016/j.addma.2018.06.007){:target="_blank" rel="noreferrer noopener"} en el sitio de publicación.
 
-* Descargar el [artículo]({{ site.baseurl }}/static/pdf/articulos/printingOrientation.pdf){:target="_blank" rel="noreferrer noopener"}
+* Descargar el [artículo]({{ site.baseurl }}/static/pdf/articulos/printingOrientation.pdf){:target="_blank" rel="noreferrer noopener"} en pdf.
 
 
 ```
@@ -194,17 +194,18 @@ Las pruebas preliminares demuestran que esta metodología puede reducir los tiem
 
 ![ Geometric Graph Grammars ]({{ site.baseurl }}/static/images/articles/graph_grammars.jpg "Geometric Graph Grammars image")
 
-Introducimos gramáticas de grafos geométricas, demostramos cómo estas gramáticas pueden generar estructuras geométricas e introducimos un algoritmo para su aprendizaje automático (modelado procedural inverso).
-Nuestro enfoque amplía el concepto de gramáticas de grafos para permitir codificar no solo datos topológicos, sino también geometría. El modelado directo genera grafos geométricos y considera varias estrategias para la conectividad de nodos.
+Introducimos gramáticas de grafos geométricos, demostramos cómo estas gramáticas pueden generar estructuras geométricas e introducimos un algoritmo para su aprendizaje automático (modelado procedural inverso).
+Nuestro enfoque amplía el concepto de gramáticas de grafos para permitir codificar no solo datos topológicos, sino también geometría.
+El modelado directo genera grafos geométricos y considera varias estrategias para la conectividad de nodos.
 El modelado procedural inverso realiza el aprendizaje de grafos geométricos, mediante el descubrimiento de estructuras repetidas y su conectividad.
-Estas estructuras están codificadas en reglas de reescritura de la gramática de grafo geométrica.
+Estas estructuras están codificadas en reglas de reescritura de la gramática de grafo geométrico.
 Demostramos la usabilidad de nuestro enfoque en un ejemplo que utiliza redes urbanas.
 El aprendizaje de los grafo es razonablemente rápido.
 En nuestra implementación, el aprendizaje de una red de carreteras con 72k vértices y 100k aristas se realiza en menos de un minuto.
 
 * [Link permanente](https://doi.org/10.1145/2948628.2948635){:target="_blank" rel="noreferrer noopener"} en el sitio de publicación.
 
-* Descargar el [artículo]({{ site.baseurl }}/static/pdf/articulos/GraphGrammars.pdf){:target="_blank" rel="noreferrer noopener"}
+* Descargar el [artículo]({{ site.baseurl }}/static/pdf/articulos/GraphGrammars.pdf){:target="_blank" rel="noreferrer noopener"} en pdf.
 
 
 ```
@@ -233,14 +234,14 @@ En nuestra implementación, el aprendizaje de una red de carreteras con 72k vér
 ![ Yturralde: impossible figure ]({{ site.baseurl }}/static/images/articles/impossible_figures.jpg " image")
 
 Esta investigación destaca la participación y las contribuciones más significativas de José María Yturralde al arte informático temprano de 1968 a 1973.
-Yturralde colaboró con artistas y científicos para ampliar y redefinir su comprensión de las formas, y exploró formas en que la computadora mainframe podría usarse como herramienta para complementar sus prácticas artísticas.
+Yturralde colaboró con artistas y científicos para ampliar y redefinir su comprensión de las formas, y exploró formas en que una computadora mainframe podría usarse como herramienta para complementar sus prácticas artísticas.
 Es conocido por desarrollar un modelo matemático con el que pudo crear un programa altamente sofisticado donde las geometrías de Penrose podían recombinarse algorítmicamente.
-Sin embargo, existe evidencia y acceso limitado al código del software real.
+Sin embargo, existe evidencia y acceso limitado al código fuente del software original.
 El objetivo de los autores es comprender mejor la contribución de Yturralde desarrollando una resignificación de su modelo, lo que han logrado a través de una interpretación moderna de los manuscritos.
 
 * [Link permanente](https://doi.org/10.1145/2810177.2810183){:target="_blank" rel="noreferrer noopener"} en el sitio de publicación.
 
-* Descargar el [artículo]({{ site.baseurl }}/static/pdf/articulos/ImpossibleFigures.pdf){:target="_blank" rel="noreferrer noopener"}
+* Descargar el [artículo]({{ site.baseurl }}/static/pdf/articulos/ImpossibleFigures.pdf){:target="_blank" rel="noreferrer noopener"} en pdf.
 
 
 ```
@@ -272,14 +273,14 @@ Geode es una escultura video-mapeada desarrollada a partir de un análisis de la
 El proyecto interroga el potencial estético de la geometría emotiva mediante la utilización de formas no ortogonales y modelos matemáticos basados en puntos y planos infinitos.
 Geode lleva el arte neoconcreto a una nueva dimensión al integrar la geometría digital en respuesta a la síntesis de audio.
 De esta forma conseguimos una forma cristalina que brilla como una geoda mineral.
-Las variaciones de superficie son el resultado de la síntesis de sonido en tiempo real.
+Las variaciones de la superficie son el resultado de la síntesis de sonido en tiempo real.
 Visualizamos paisajes sonoros transformando señales analógicas en datos digitales en tiempo real.
 La metamorfosis de la escultura se experimenta visualmente a través de geometrías generativas impulsadas por el sonido.
 Geode es un esfuerzo colaborativo para fusionar escultura pública, paisaje sonoro y proyección visual en una experiencia inmersiva.
 
 * [Link permanente](https://doi.org/10.1145/2810177.2810183){:target="_blank" rel="noreferrer noopener"} en el sitio de publicación.
 
-* Descargar el [catálogo]({{ site.baseurl }}/static/pdf/ArtGalleryCatalog.pdf){:target="_blank" rel="noreferrer noopener"} completo.
+* Descargar el [catálogo]({{ site.baseurl }}/static/pdf/ArtGalleryCatalog.pdf){:target="_blank" rel="noreferrer noopener"} completo en pdf.
 
 
 ```
@@ -310,7 +311,7 @@ Cuando ya no se detecta una presencia, las formas se restauran  a su estado orig
 
 * [Link permanente](https://www.scienceopen.com/hosted-document?doi=10.14236/ewic/eva2015.46){:target="_blank" rel="noreferrer noopener"} en el sitio de publicación.
 
-* Descargar la [entrada]({{ site.baseurl }}/static/pdf/XVReactiveSpaces.pdf){:target="_blank" rel="noreferrer noopener"} del catálogo.
+* Descargar la [entrada]({{ site.baseurl }}/static/pdf/XVReactiveSpaces.pdf){:target="_blank" rel="noreferrer noopener"} del catálogo  en pdf.
 
 
 ```
@@ -343,7 +344,7 @@ Las velocidades de impresión en nuestra prueba mejoran hasta en un 45% al agreg
 
 * [Link permanente](https://docs.lib.purdue.edu/dissertations/AAI10615432/){:target="_blank" rel="noreferrer noopener"} en la biblioteca de Purdue.
 
-* [Texto completo]({{ site.baseurl }}/static/pdf/tesis/thesisPHD.pdf){:target="_blank" rel="noreferrer noopener"}
+* [Texto completo]({{ site.baseurl }}/static/pdf/tesis/thesisPHD.pdf){:target="_blank" rel="noreferrer noopener"} en pdf.
 
 
 ```
@@ -393,7 +394,7 @@ En la última sección del trabajo se reportan las conclusiones y se proponen al
 
 * [Link permanente](https://repositorio.unam.mx/contenidos/292221){:target="_blank" rel="noreferrer noopener"} en el sitio de bibliotecas de la UNAM.
 
-* [Texto completo]({{ site.baseurl }}/static/pdf/tesis/tesisMaestria.pdf){:target="_blank" rel="noreferrer noopener"}.
+* [Texto completo]({{ site.baseurl }}/static/pdf/tesis/tesisMaestria.pdf){:target="_blank" rel="noreferrer noopener"} en pdf.
 
 
 ```
@@ -433,7 +434,7 @@ Y por último, se hace un análisis del desempeño del programa; donde se estima
 
 * [Link permanente](https://repositorio.unam.mx/contenidos/343984){:target="_blank" rel="noreferrer noopener"} en el sitio de bibliotecas de la UNAM.
 
-* [Texto completo]({{ site.baseurl }}/static/pdf/tesis/tesisLicenciatura.pdf){:target="_blank" rel="noreferrer noopener"} de la nueva versión.
+* [Texto completo]({{ site.baseurl }}/static/pdf/tesis/tesisLicenciatura.pdf){:target="_blank" rel="noreferrer noopener"}  en pdf, de la nueva versión.
 
 
 

@@ -79,8 +79,9 @@ My main job was helping partners to bring their content (video games) to the pla
 My focus was computer graphics, so I provided support for DX11, DX12 and Vulkan.
 I also contributed with backend and samples to [Big Wheels](https://github.com/google/bigwheels){:target="_blank" rel="noreferrer noopener"}, a graphics framework that later became open source.
 
-Stadia was shut down in January of 2023, and after jumping on several projects I switched to a Software Engineer position and became part of the Platforms and Ecosystems organization.
-At P&E, where I work today; I contribute to shape Google’s [vision on XR](https://arvr.google.com/){:target="_blank" rel="noreferrer noopener"}.
+Stadia was shut down in January of 2023.
+After jumping on several projects, I switched to a Software Engineer position and became part of the Platforms and Ecosystems organization.
+At P&E, --where I work today--, I contribute to shape Google’s [vision on XR](https://arvr.google.com/){:target="_blank" rel="noreferrer noopener"}.
 
 ### Nvidia
 
@@ -126,7 +127,7 @@ This was my first professional opportunity to work as a Software Engineer in Sil
 
 During the summer of 2015 I did a _second_ internship at [Nvidia](https://www.nvidia.com/){:target="_blank" rel="noreferrer noopener"}, and again in the graphics driver.
 However, this time I was at the OpenGL driver team.
-Where I did work to expose some OpenGL extensions in the driver and to fix some bugs in the OpenGL debug extension.
+I did work to expose some OpenGL extensions in the driver and to fix some bugs in OpenGL's debug extension.
 
 ## Experience in the academy
 
@@ -172,7 +173,8 @@ There, I was in charge of maintaining our SVN repositories and I created a websi
 
 ![IIMAS UNAM]({{ site.baseurl }}/static/images/places/iimas2.jpg "IIMAS UNAM")
 
-Right after finishing my masters, the [Department of Computer Science](https://www.iimas.unam.mx/ciencias-de-la-computacion/){:target="_blank" rel="noreferrer noopener"} of [IIMAS](https://www.iimas.unam.mx/){:target="_blank" rel="noreferrer noopener"} gave me a temporary position as a research assistant for [Dr. María Elena Martínez Pérez](http://www.pcic.unam.mx/~elena/){:target="_blank" rel="noreferrer noopener"} where I contributed to a research about segmenting blood vessels from retina images obtained with a fundus camera, which was a very fun and difficult project.
+Right after finishing my masters, the [Department of Computer Science](https://www.iimas.unam.mx/ciencias-de-la-computacion/){:target="_blank" rel="noreferrer noopener"} of [IIMAS](https://www.iimas.unam.mx/){:target="_blank" rel="noreferrer noopener"} gave me a temporary position as a research assistant for [Dr. María Elena Martínez Pérez](http://www.pcic.unam.mx/~elena/){:target="_blank" rel="noreferrer noopener"}.
+While I worked there, I contributed to a research about segmenting blood vessels from retina images obtained with a fundus camera, which was a very fun and difficult project.
 
 
 ## Computer skills
@@ -198,8 +200,10 @@ I usually use [GLTF](https://www.glfw.org/){:target="_blank" rel="noreferrer noo
 
 I also have experience using higher level game engines like Unity and Unreal, but I am not an expert on those (yet!).
 
-Finally, I have _moderate_ experience as a web developer using PHP and ASP.NET MVC, at the backend with some knowledge of Javascript, HTML and CSS for the front end.
-And some Jekill, as you can see in this website.
+Finally, I have _moderate_ experience as a web developer.
+I have used PHP and ASP.NET MVC, for the backend.
+I also have some knowledge of Javascript, HTML and CSS at the front end.
+Finally, I also know some Jekill, as you can see in this website.
 
 ### General software engineering skills
 

@@ -330,7 +330,7 @@ The method also considers the height of the printed object, its trapped volume, 
 We provide an optimization strategy that considers all four criteria, each weighted according to printer-specific and experimentally-obtained parameters.
 Printing speeds in our trial are improved by up to 45% by adding the criterion of disconnected component distance to the optimization.
 
-* [Permanent link](https://docs.lib.purdue.edu/dissertations/AAI10615432/){:target="_blank" rel="noreferrer noopener"} at the publisher's site.
+* [Permanent link](https://docs.lib.purdue.edu/dissertations/AAI10615432/){:target="_blank" rel="noreferrer noopener"} at Purdue's library site.
 
 * [Full text]({{ site.baseurl }}/static/pdf/tesis/thesisPHD.pdf){:target="_blank" rel="noreferrer noopener"} in pdf.
 
@@ -381,9 +381,9 @@ First, we made experiments in datasets obtained by biomedical imagery machines. 
 At last,  we made experiments on a scalar field known as phantoms and we compared the normal obtained by our method against the analytical normals of the phantoms.
 In the last section of this work we report the conclusions and propose some future lines of research.
 
-* [Permanent link](https://repositorio.unam.mx/contenidos/292221){:target="_blank" rel="noreferrer noopener"} at the publisher's site.
+* [Permanent link](https://repositorio.unam.mx/contenidos/292221){:target="_blank" rel="noreferrer noopener"} at UNAM's library site.
 
-* [Full text]({{ site.baseurl }}/static/pdf/tesis/tesisMaestria.pdf){:target="_blank" rel="noreferrer noopener"} in Spanish.
+* [Full text]({{ site.baseurl }}/static/pdf/tesis/tesisMaestria.pdf){:target="_blank" rel="noreferrer noopener"} in pdf in Spanish.
 
 * The title in Spanish is: "Visualización suavizada de superfícies obtenidas por rastreo de fronteras aplicado a volúmenes discretizados"
 
@@ -423,9 +423,9 @@ Finally, we made an analysis of the program’s performance; where we estimated 
 
 * The original thesis was presented in 2008. However, in 2019 I decided to do a new edition using only free software and modern OpenGL and rewriting some of the text, which resulted in a [full repository](https://github.com/nemediano/TesisLicenciatura){:target="_blank" rel="noreferrer noopener"} for this work.
 
-* [Permanent link](https://repositorio.unam.mx/contenidos/343984){:target="_blank" rel="noreferrer noopener"} to the original text in Spanish.
+* [Permanent link](https://repositorio.unam.mx/contenidos/343984){:target="_blank" rel="noreferrer noopener"} to the original text at UNAM's library.
 
-* [Full text]({{ site.baseurl }}/static/pdf/tesis/tesisLicenciatura.pdf){:target="_blank" rel="noreferrer noopener"} of the new version, also in Spanish.
+* [Full text]({{ site.baseurl }}/static/pdf/tesis/tesisLicenciatura.pdf){:target="_blank" rel="noreferrer noopener"} in pdf of the new version, also in Spanish.
 
 
 * The title in Spanish is: "Modelado Gráfico de un Cuerpo Neumático con OpenGL a Base de Ecuaciones Diferenciales"
