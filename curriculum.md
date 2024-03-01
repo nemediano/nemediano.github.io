@@ -116,7 +116,8 @@ Mientras estaba estudiando el doctorado, aproveché cada oportunidad disponible 
 
 ![Adobe oficina de  SF]({{ site.baseurl }}/static/images/places/adobe.jpg "Adobe oficina de  SF")
 
-Durante el verano del 2016, hice una pasantía en [Adobe research](https://research.adobe.com/){:target="_blank" rel="noreferrer noopener"} con el laboratorio de Imágenes Procedurales (que ahora es parte del grupo de investigación en Gráficas), sin embargo estuve en la [oficina de San Francisco.](https://learning.adobe.com/products-resources/contact-us/americas/san-francisco.html){:target="_blank" rel="noreferrer noopener"}.
+Durante el verano del 2016, hice una pasantía en [Adobe research](https://research.adobe.com/){:target="_blank" rel="noreferrer noopener"} con el laboratorio de Imágenes Procedurales (que ahora es parte del grupo de investigación en Gráficas).
+Sin embargo, estuve en la [oficina de San Francisco](https://learning.adobe.com/products-resources/contact-us/americas/san-francisco.html){:target="_blank" rel="noreferrer noopener"}.
 
 Mi pasantía giró alrededor de un software para modelado que simulaba el proceso de hacer una escultura.
 Esta fue por mucho la pasantía más interesante que tuve.
