@@ -10,3 +10,8 @@ lang_name: English
 subscribe: Subscribe
 
 sitemap: Site map
+
+localized_links:
+  projects: proyectos
+  publications: publicaciones
+  resume: curriculum
