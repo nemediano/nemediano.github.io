@@ -92,11 +92,11 @@ After graduating from my PhD in September of 2017, I joined [Nvidia](https://www
 At Nvidia, I was a Software Engineer on the web browsers team, where I did some work on AR, and designed some web components of [ISAAC SDK](https://developer.nvidia.com/isaac-ros){:target="_blank" rel="noreferrer noopener"}.
 Later, they switched me to the 3D graphics driver for the mobile team, where I did some low level work on OpenGL, worked on Safety for Automotive and made my first steps with Vulkan.
 
-### TSC
+### Computational Systems Technology
 
 ![WTC Mexico]({{ site.baseurl }}/static/images/places/tsc.jpg "WTC Mexico")
 
-After finishing my bachelor's courses in 2005, I joined [Tecnologia en Sistemas de Computo](https://mx.linkedin.com/company/tecnologia-en-sistemas-de-computotsc){:target="_blank" rel="noreferrer noopener"} which is a software consulting company in CDMX.
+After finishing my bachelor's courses in 2005, I joined [Tecnologia en Sistemas de Computo](https://mx.linkedin.com/company/tecnologia-en-sistemas-de-computotsc){:target="_blank" rel="noreferrer noopener"} (TSC) which is a software consulting company in CDMX.
 
 I started working at TSC _before_ getting my bachelors diploma (a decision I regret until today).
 On the bright side, this was my first professional experience.

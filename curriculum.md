@@ -97,7 +97,7 @@ Después de graduarme del doctorado en Septiembre del 2017, me incorporé a [Nvi
 En Nvidia, fui Ingeniero de Software en el equipo de navegadores web, donde trabajé haciendo   y diseñando algunos de los componentes web de [ISAAC SDK](https://developer.nvidia.com/isaac-ros){:target="_blank" rel="noreferrer noopener"}.
 Luego me cambiaron al equipo del driver 3D de dispositivos móviles, donde hice trabajo de bajo nivel de OpenGL, trabajé en Safety para Automotive y di mis primeros pasos en Vulkan.
 
-### TSC
+### Tecnologia en Sistemas de Computo
 
 ![WTC Mexico]({{ site.baseurl }}/static/images/places/tsc.jpg "WTC Mexico")
 
@@ -108,7 +108,7 @@ Pero viendo el lado bueno, esta fue mi primera experiencia profesional.
 Empecé como becario y luego me cambiaron al área de QA.
 Trabajé en la migración de un sistema que estaba en Interbase+PowerHouse para actualizarlo a Oracle+Java.
 
-## Pasantias (intenships)
+## Pasantias (internships)
 
 Mientras estaba estudiando el doctorado, aproveché cada oportunidad disponible para hacer pasantías durante los trimestres de verano.
 
@@ -213,7 +213,7 @@ Para el control de versiones, tengo experiencia trabajando con svn pero ahora so
 Normalmente desarrollo usando el enfoque de Android, que incluye usar [Gerrit](https://www.gerritcodereview.com/){:target="_blank" rel="noreferrer noopener"} para revisar y subir código.
 Sin embargo, me gusta usar Github para mis proyectos personales.
 
-Normalmente trabajo en equipos pequeños que realizan desarrollo basado en sprints, y que reportan su progreso utilizando herramientas SW y realizan reuniones periódicas.
+Normalmente trabajo en equipos pequeños que realizan desarrollo basado en sprints, y que reportan su progreso utilizando herramientas de SW y realizan reuniones periódicas.
 Estoy acostumbrado a escribir pruebas unitarias, realizar revisiones de código y presentar mi trabajo en reuniones.
 
 También estoy acostumbrado a trabajar desde la oficina o desde casa.
