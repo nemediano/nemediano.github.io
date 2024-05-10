@@ -45,6 +45,9 @@ Nuestra solución redujo el tiempo de impresión en un promedio de 29,4% (entre 
 
 * Descargar el [artículo]({{ site.baseurl }}/static/pdf/articulos/CleverSupport.pdf){:target="_blank" rel="noreferrer noopener"} en pdf.
 
+{::options parse_block_html="true" /}
+
+<details><summary markdown="span">Cita de Bibtex</summary>
 
 ```
 @article{Vanek2014a,
@@ -63,6 +66,9 @@ Nuestra solución redujo el tiempo de impresión en un promedio de 29,4% (entre 
 }
 ```
 
+</details>
+
+{::options parse_block_html="false" /}
 
 ### Espirales de Fermat Conectadas para la manufactura por capas
 
@@ -85,6 +91,10 @@ Demostramos que imprimir capas 2D usando trayectorias de herramientas con Espira
 * [Haisen Zhao](https://haisenzhao.github.io/){:target="_blank" rel="noreferrer noopener"} quien es el autor principal, tiene una [página](https://haisenzhao.github.io/CFS/index.html){:target="_blank" rel="noreferrer noopener"} muy completa acerca de este artículo.
 
 * Este artículo fue [presentado](https://www.youtube.com/watch?v=6rNcAVr-U4s){:target="_blank" rel="noreferrer noopener"} en el canal de youtube: [Two minute papers](https://www.youtube.com/@TwoMinutePapers){:target="_blank" rel="noreferrer noopener"}.
+
+{::options parse_block_html="true" /}
+
+<details><summary markdown="span">Cita de Bibtex</summary>
 
 ```
 @article{Zhao2016,
@@ -112,6 +122,10 @@ Demostramos que imprimir capas 2D usando trayectorias de herramientas con Espira
 
 ```
 
+</details>
+
+{::options parse_block_html="false" /}
+
 ### Packmerger: un optimizador del volumen para la impresión 3D
 
 ![ Packmerger ]({{ site.baseurl }}/static/images/articles/pack_merger.jpg "Packmerger image")
@@ -135,6 +149,10 @@ Una vez impresos los segmentos, es necesario ensamblarlos.
 
 * Este artículo también tiene un [video](https://www.youtube.com/watch?v=sBgSr7JItmo){:target="_blank" rel="noreferrer noopener"}.
 
+{::options parse_block_html="true" /}
+
+<details><summary markdown="span">Cita de Bibtex</summary>
+
 ```
 @article{Vanek2014b,
     author   = {Vanek, J. and Galicia, J. A. Garcia and Benes, B. and Měch, R.
@@ -155,6 +173,10 @@ Una vez impresos los segmentos, es necesario ensamblarlos.
 
 ```
 
+</details>
+
+{::options parse_block_html="false" /}
+
 ### Mejora de la orientación para impresoras de Modelado por Deposición Fundida mediante el análisis de componentes conectados
 
 
@@ -171,6 +193,10 @@ Las pruebas preliminares demuestran que esta metodología puede reducir los tiem
 * [Link permanente](https://doi.org/10.1016/j.addma.2018.06.007){:target="_blank" rel="noreferrer noopener"} en el sitio de publicación.
 
 * Descargar el [artículo]({{ site.baseurl }}/static/pdf/articulos/printingOrientation.pdf){:target="_blank" rel="noreferrer noopener"} en pdf.
+
+{::options parse_block_html="true" /}
+
+<details><summary markdown="span">Cita de Bibtex</summary>
 
 
 ```
@@ -190,6 +216,10 @@ Las pruebas preliminares demuestran que esta metodología puede reducir los tiem
 
 ```
 
+</details>
+
+{::options parse_block_html="false" /}
+
 ### Aprendiendo gramáticas de grafos geométricos
 
 ![ Geometric Graph Grammars ]({{ site.baseurl }}/static/images/articles/graph_grammars.jpg "Geometric Graph Grammars image")
@@ -207,6 +237,10 @@ En nuestra implementación, el aprendizaje de una red de carreteras con 72k vér
 
 * Descargar el [artículo]({{ site.baseurl }}/static/pdf/articulos/GraphGrammars.pdf){:target="_blank" rel="noreferrer noopener"} en pdf.
 
+
+{::options parse_block_html="true" /}
+
+<details><summary markdown="span">Cita de Bibtex</summary>
 
 ```
 @inproceedings{Fiser2016,
@@ -229,6 +263,10 @@ En nuestra implementación, el aprendizaje de una red de carreteras con 72k vér
 
 ```
 
+</details>
+
+{::options parse_block_html="false" /}
+
 ### Yturralde: generador de figuras imposibles
 
 ![ Yturralde: impossible figure ]({{ site.baseurl }}/static/images/articles/impossible_figures.jpg " image")
@@ -243,6 +281,10 @@ El objetivo de los autores es comprender mejor la contribución de Yturralde des
 
 * Descargar el [artículo]({{ site.baseurl }}/static/pdf/articulos/ImpossibleFigures.pdf){:target="_blank" rel="noreferrer noopener"} en pdf.
 
+
+{::options parse_block_html="true" /}
+
+<details><summary markdown="span">Cita de Bibtex</summary>
 
 ```
 @inproceedings{Bravo2015,
@@ -262,6 +304,10 @@ El objetivo de los autores es comprender mejor la contribución de Yturralde des
 }
 
 ```
+
+</details>
+
+{::options parse_block_html="false" /}
 
 ## Catálogos de arte
 
@@ -283,6 +329,10 @@ Geode es un esfuerzo colaborativo para fusionar escultura pública, paisaje sono
 * Descargar el [catálogo]({{ site.baseurl }}/static/pdf/ArtGalleryCatalog.pdf){:target="_blank" rel="noreferrer noopener"} completo en pdf.
 
 
+{::options parse_block_html="true" /}
+
+<details><summary markdown="span">Cita de Bibtex</summary>
+
 ```
 @article{VIS-2016-2017Arts,
     author  = {Groß, Benedikt and Reimann, Raphael and Schmitt, Philipp and Bravo, Esteban Garcia and Carlson, Maxwell and Zernack, Aaron and Garcia, Jorge and Han, Yoon Chung and Tiwari, Shankar and Nagel, Till and Pietsch, Christopher and Stock, Mark J. and Shi, Weili and Westbrook, Jessica Parris and Trowbridge, Adam and Richison, Mike and Goodwin, Mitch and Fay, Clement and Lay, Sebastian and Vermeulen, Jo and Perin, Charles and Donovan, Eric and Dachselt, Raimund and Carpendale, Sheelagh and Heinicker, Paul and Offenhuber, Dietmar and Clark, Duncan and Houston, Robin and Smith, Tristan and Jenik, Adriene and Ribeiro, Clarissa and Lorusso, Mick and Rocha, Herbert and So, Wonyoung and Martino, Mauro and Strobelt, Hendrik and Cornec, Owen and Huang, Scottie Chih-Chieh and Huang, Yu-Chun and Lee, Inhye and Kim, Hyomin and Amelot, Pierre and Hwong, John and McManus, Kate and McGee, Ryan and Neubauer, Mary Bates},
@@ -300,6 +350,10 @@ Geode es un esfuerzo colaborativo para fusionar escultura pública, paisaje sono
 }
 ```
 
+</details>
+
+{::options parse_block_html="false" /}
+
 ### XV: espacios reactivos
 
 
@@ -314,6 +368,10 @@ Cuando ya no se detecta una presencia, las formas se restauran  a su estado orig
 * Descargar la [entrada]({{ site.baseurl }}/static/pdf/XVReactiveSpaces.pdf){:target="_blank" rel="noreferrer noopener"} del catálogo  en pdf.
 
 
+{::options parse_block_html="true" /}
+
+<details><summary markdown="span">Cita de Bibtex</summary>
+
 ```
 @inproceedings{inproceedings,
     author    = {Garcia Bravo, Esteban and Garcia Galicia, Jorge and Zernack, Aaron},
@@ -327,6 +385,9 @@ Cuando ya no se detecta una presencia, las formas se restauran  a su estado orig
 
 ```
 
+</details>
+
+{::options parse_block_html="false" /}
 
 ## Tesis
 
@@ -347,6 +408,10 @@ Las velocidades de impresión en nuestra prueba mejoran hasta en un 45% al agreg
 * [Texto completo]({{ site.baseurl }}/static/pdf/tesis/thesisPHD.pdf){:target="_blank" rel="noreferrer noopener"} en pdf.
 
 
+{::options parse_block_html="true" /}
+
+<details><summary markdown="span">Cita de Bibtex</summary>
+
 ```
 @phdthesis{Garcia2017,
     title   = {3D Printing Speed Optimization by Minimizing Void Paths},
@@ -359,6 +424,10 @@ Las velocidades de impresión en nuestra prueba mejoran hasta en un 45% al agreg
     type    = {PhD thesis}
 }
 ```
+
+</details>
+
+{::options parse_block_html="false" /}
 
 ### Visualización suavizada de superficies obtenidas por rastreo de fronteras aplicado a volúmenes discretizados
 
@@ -397,6 +466,10 @@ En la última sección del trabajo se reportan las conclusiones y se proponen al
 * [Texto completo]({{ site.baseurl }}/static/pdf/tesis/tesisMaestria.pdf){:target="_blank" rel="noreferrer noopener"} en pdf.
 
 
+{::options parse_block_html="true" /}
+
+<details><summary markdown="span">Cita de Bibtex</summary>
+
 ```
 @phdthesis{Garcia2012,
     title   = {Visualización suavizada de superfícies obtenidas por rastreo
@@ -410,6 +483,10 @@ En la última sección del trabajo se reportan las conclusiones y se proponen al
     type    = {Master thesis}
 }
 ```
+
+</details>
+
+{::options parse_block_html="false" /}
 
 ### Modelado Gráfico de un Cuerpo Neumático con OpenGL a Base de Ecuaciones Diferenciales
 
@@ -438,6 +515,10 @@ Y por último, se hace un análisis del desempeño del programa; donde se estima
 
 
 
+{::options parse_block_html="true" /}
+
+<details><summary markdown="span">Cita de Bibtex</summary>
+
 ```
 @phdthesis{Garcia2008,
     title   = {Modelado Gráfico de un Cuerpo Neumático con OpenGL
@@ -451,3 +532,7 @@ Y por último, se hace un análisis del desempeño del programa; donde se estima
     type    = {Bachelor thesis}
 }
 ```
+
+</details>
+
+{::options parse_block_html="false" /}
