@@ -24,6 +24,8 @@ Esta es una lista no exhaustiva de mis proyectos personales, la mayoría se pued
 
 ### Mi homenaje personal a Robert E. Howard
 
+![Robert E. Howard]({{ site.baseurl }}/static/images/projects/RobertHoward.jpg "Robert E. Howard picture")
+
 Desde que era niño siempre fui fan de [Robert E. Howard](https://en.wikipedia.org/wiki/Robert_E._Howard){:target="_blank" rel="noreferrer noopener"}.
 En los últimos años, me percate de que hay muchas más fuentes de información en Inglés comparadas con las que existen en Español.
 Con eso en mente, decidí empezar un [canal de youtube](){:target="_blank" rel="noreferrer noopener"} acerca de él.
@@ -31,6 +33,8 @@ Luego me di cuenta de que necesitaba [un blog](https://nemediano.github.io/canal
 Como de costumbre lo puse todo en un [repositorio](https://github.com/nemediano/canalREH){:target="_blank" rel="noreferrer noopener"}.
 
 ### Plantillas para aprender OpenGL
+
+![OpenGL template]({{ site.baseurl }}/static/images/projects/menuTemplate.png "OpenGL template image")
 
 Mientras impartía un curso de [Graficación por Computadora](https://www.acatlan.unam.mx/files/PlanesDeEstudio/MAC/7/Graficacion_por_Computadora.pdf){:target="_blank" rel="noreferrer noopener"} en la [FESA](https://www.acatlan.unam.mx/){:target="_blank" rel="noreferrer noopener"} (y más tarde cuando fuí TA en Purdue), descubrí que a la mayoría de los estudiantes les costaba mucho trabajo hacer las tareas de programación. Me di cuenta de que en parte esto se debía a la gran cantidad de componentes que se necesitan en un programa de [OpenGL](https://www.opengl.org/){:target="_blank" rel="noreferrer noopener"} que son independientes de la tarea de graficación en cuestión. Por ejemplo:
 
@@ -44,6 +48,8 @@ Mientras impartía un curso de [Graficación por Computadora](https://www.acatla
 Por citar solo unos ejemplos. Teniendo eso en mente, decidí crear una [serie de plantillas](https://github.com/nemediano/OpenGLTemplates){:target="_blank" rel="noreferrer noopener"} para facilitar todo ese trabajo.
 
 ### Plantillas en LaTeX para uso académico (preconfiguradas para la UNAM)
+
+![LaTeX template]({{ site.baseurl }}/static/images/projects/templates.png "LaTeX template image")
 
 Durante mi vida academica, usé [LaTeX](https://www.latex-project.org/){:target="_blank" rel="noreferrer noopener"} para hacer casi todos mis documentos.
 Dado que no soy un experto en LaTeX, decidí crear una [serie de plantillas](https://github.com/nemediano/latexPlantillaUnam){:target="_blank" rel="noreferrer noopener"}.

@@ -43,7 +43,7 @@ Our solution reduced printing time by an average of 29.4% (ranging from 13.9% to
 
 {::options parse_block_html="true" /}
 
-<details><summary markdown="span">Bibtex's citation</summary>
+<details><summary markdown="span">Bibtex citation</summary>
 
 ```
 @article{Vanek2014a,
@@ -89,7 +89,7 @@ The result is a globally continuous curve. We demonstrate that printing 2D layer
 
 {::options parse_block_html="true" /}
 
-<details><summary markdown="span">Bibtex's citation</summary>
+<details><summary markdown="span">Bibtex citation</summary>
 
 ```
 @article{Zhao2016,
@@ -146,7 +146,7 @@ Once the segments are printed, they need to be assembled.
 
 {::options parse_block_html="true" /}
 
-<details><summary markdown="span">Bibtex's citation</summary>
+<details><summary markdown="span">Bibtex citation</summary>
 
 ```
 @article{Vanek2014b,
@@ -189,7 +189,7 @@ Our novel algorithm considers all four criteria, each weighted according to prin
 
 {::options parse_block_html="true" /}
 
-<details><summary markdown="span">Bibtex's citation</summary>
+<details><summary markdown="span">Bibtex citation</summary>
 
 ```
 @article{Garcia2018,
@@ -232,7 +232,7 @@ Graph learning is reasonably fast; in our implementation, learning of a road net
 
 {::options parse_block_html="true" /}
 
-<details><summary markdown="span">Bibtex's citation</summary>
+<details><summary markdown="span">Bibtex citation</summary>
 
 ```
 @inproceedings{Fiser2016,
@@ -277,7 +277,7 @@ The authors' goal is to further understand Yturralde's contribution by developin
 
 {::options parse_block_html="true" /}
 
-<details><summary markdown="span">Bibtex's citation</summary>
+<details><summary markdown="span">Bibtex citation</summary>
 
 ```
 @inproceedings{Bravo2015,
@@ -323,7 +323,7 @@ Geode is a collaborative effort to fuse public sculpture, soundscape and visual 
 
 {::options parse_block_html="true" /}
 
-<details><summary markdown="span">Bibtex's citation</summary>
+<details><summary markdown="span">Bibtex citation</summary>
 
 ```
 @article{VIS-2016-2017Arts,
@@ -364,7 +364,7 @@ When a presence is no longer sensed, the shapes are autonomously restored with a
 
 {::options parse_block_html="true" /}
 
-<details><summary markdown="span">Bibtex's citation</summary>
+<details><summary markdown="span">Bibtex citation</summary>
 
 ```
 @inproceedings{inproceedings,
@@ -405,7 +405,7 @@ Printing speeds in our trial are improved by up to 45% by adding the criterion o
 
 {::options parse_block_html="true" /}
 
-<details><summary markdown="span">Bibtex's citation</summary>
+<details><summary markdown="span">Bibtex citation</summary>
 
 ```
 @phdthesis{Garcia2017,
@@ -466,7 +466,7 @@ In the last section of this work we report the conclusions and propose some futu
 
 {::options parse_block_html="true" /}
 
-<details><summary markdown="span">Bibtex's citation</summary>
+<details><summary markdown="span">Bibtex citation</summary>
 
 ```
 @phdthesis{Garcia2012,
@@ -518,7 +518,7 @@ Finally, we made an analysis of the program’s performance; where we estimated 
 
 {::options parse_block_html="true" /}
 
-<details><summary markdown="span">Bibtex's citation</summary>
+<details><summary markdown="span">Bibtex citation</summary>
 
 ```
 @phdthesis{Garcia2008,

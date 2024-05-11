@@ -22,11 +22,15 @@ This is a non comprehensive list of my personal projects. Most of them are hoste
 
 ### My personal homage to Robert E. Howard
 
+![Robert E. Howard]({{ site.baseurl }}/static/images/projects/RobertHoward.jpg "Robert E. Howard picture")
+
 I have been a [Robert E. Howard](https://en.wikipedia.org/wiki/Robert_E._Howard){:target="_blank" rel="noreferrer noopener"} fan since I was a child. In the last few years, I found out that there are a lot of resources in English compared to the ones in Spanish.
 With that in mind, I decided to start a [youtube channel](){:target="_blank" rel="noreferrer noopener"} about him.
 Then, I realized that I needed [a blog](https://nemediano.github.io/canalREH/){:target="_blank" rel="noreferrer noopener"} as a companion (so I can share content and links) and use it as an excuse to learn [Jekyll](https://jekyllrb.com/){:target="_blank" rel="noreferrer noopener"}. As usual, I keep it all in a [repository](https://github.com/nemediano/canalREH){:target="_blank" rel="noreferrer noopener"}.
 
 ### Templates for learning OpenGL
+
+![OpenGL template]({{ site.baseurl }}/static/images/projects/menuTemplate.png "OpenGL template image")
 
 While teaching a [Computer Graphics course](https://www.acatlan.unam.mx/files/PlanesDeEstudio/MAC/7/Graficacion_por_Computadora.pdf){:target="_blank" rel="noreferrer noopener"} at [FESA](https://www.acatlan.unam.mx/){:target="_blank" rel="noreferrer noopener"} (and later at Purdue where I was a TA), I found out that most students struggle to follow the programming assignments.
 I realized that, in part, this is due to the large number of pieces that an [OpenGL](https://www.opengl.org/){:target="_blank" rel="noreferrer noopener"} program requires, but are independent from the main graphic task at hand.
@@ -43,6 +47,8 @@ Just to name a few.
 Having that in mind, I decided to create [a set of templates](https://github.com/nemediano/OpenGLTemplates){:target="_blank" rel="noreferrer noopener"} to alleviate this work.
 
 ### LaTeX templates for academic use (UNAM focused)
+
+![LaTeX template]({{ site.baseurl }}/static/images/projects/templates.png "LaTeX template image")
 
 During my life at the Academia, I used [LaTeX](https://www.latex-project.org/){:target="_blank" rel="noreferrer noopener"} to create several types of documents.
 Since I am no expert in LaTeX, I decided to create [a set of templates](https://github.com/nemediano/latexPlantillaUnam){:target="_blank" rel="noreferrer noopener"}.
