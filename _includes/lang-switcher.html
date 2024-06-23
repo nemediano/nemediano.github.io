@@ -3,9 +3,9 @@
         {% assign lang_name = site.data[lang].l10n.lang_name %}
 
         {% capture lang_href %}
-            {{site.baseurl}}/{% if lang != site.default_lang %}{{ lang }}/{% endif %}{% if page.permalink_lang[lang] %}{{site.data.l10n.localized_links[page.page_id]}}{% endif %}
+            {{site.baseurl}}/{% if lang != site.default_lang %}{{ lang }}/{% endif %}{% if site.data.l10n.localized_links[page.page_id] %}{{site.data.l10n.localized_links[page.page_id]}}{% endif %}
         {% endcapture %}
 
-        <a href=" {{ lang_href }}">{{ lang_name }}</a>
+        <a href="{{ lang_href | strip }} ">{{ lang_name }}</a>
     {% endif %}
 {% endfor %}
