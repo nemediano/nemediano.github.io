@@ -51,7 +51,7 @@ I studied a [Master's degree in Computer Science](http://www.mcc.unam.mx/){:targ
 The master program, has several locations.
 I spent most of my time at the [Institute of Research in Applied Mathematics and Systems](https://www.iimas.unam.mx/){:target="_blank" rel="noreferrer noopener"} (IIMAS), at the main campus of Ciudad Universitaria (CDMX, Mexico).
 
-After finishing the core courses, each student chooses a research area to focus on. I decided to go to [Signals, Images and Virtual Environments](http://www.mcc.unam.mx/SIAV.php){:target="_blank" rel="noreferrer noopener"}, where I took several courses in Digital Image Processing and Computer Graphics.
+After finishing the core courses, each student chooses a research area to focus on. I decided to go to [Signals, Images and Virtual Environments](https://www.youtube.com/@seminariosiav-posgradounam524){:target="_blank" rel="noreferrer noopener"}, where I took several courses in Digital Image Processing and Computer Graphics.
 
 My thesis supervisor was [Dr. Edgar Garduño Ángeles](https://turing.iimas.unam.mx/~egarduno/){:target="_blank" rel="noreferrer noopener"}, and I did a [thesis]({{ site.baseurl }}/publications/#visualization-of-smoothed-surfaces-obtained-by-applying-boundary-tracking-to-discretized-volumes) which lies in the intersection of Digital Image Processing, Scientific Visualization and Computer Graphics.
 
@@ -112,7 +112,7 @@ While I was enrolled on the PhD program, I took every opportunity to do internsh
 ![Adobe SF office]({{ site.baseurl }}/static/images/places/adobe.jpg "Adobe SF office")
 
 During the summer of 2016 I did an internship at [Adobe research](https://research.adobe.com/){:target="_blank" rel="noreferrer noopener"} with the Procedural Image lab (now part of the graphics research team).
-However, I sat at the [San Francisco office](https://learning.adobe.com/products-resources/contact-us/americas/san-francisco.html){:target="_blank" rel="noreferrer noopener"}.
+However, I sat at the [San Francisco office](https://learning.stage.adobe.com/products-resources/contact-us/americas/san-francisco.html){:target="_blank" rel="noreferrer noopener"}.
 
 My internship was around a software for modeling that simulated sculpting, where I was doing the rendering system.
 This was by far the most interesting internship I had. I implemented some classic graphics algorithms (Ambient Occlusion, Shadow Mapping and PBR) using a deferred shading pipeline using C++, OpenGL and GLSL.
@@ -136,7 +136,7 @@ I did work to expose some OpenGL extensions in the driver and to fix some bugs i
 ![Knoy Hall Purdue]({{ site.baseurl }}/static/images/places/purdue1.jpg "Knoy Hall Purdue")
 
 While doing my PhD, I had to work, first as a research assistant (RA) and later as a teaching assistant (TA) both at Purdue Polytechnic Institute.
-As an RA I spent my time working doing research at the [HPCG lab](https://polytechnic.purdue.edu/facilities/high-performance-computer-graphics-lab){:target="_blank" rel="noreferrer noopener"}, which resulted in [my publications]({{ site.baseurl }}/publications/).
+As an RA I spent my time working doing research at the [HPCG lab](https://cs.purdue.edu/homes/bbenes/students/){:target="_blank" rel="noreferrer noopener"}, which resulted in [my publications]({{ site.baseurl }}/publications/).
 
 As a TA I assisted in teaching Graphics and programming courses for the [CGT major](https://polytechnic.purdue.edu/departments/computer-graphics-technology){:target="_blank" rel="noreferrer noopener"}.
 I worked in designing quizzes and grading for courses in web development (both front end and back end) and in Computer Graphics programming, which was always my favorite, because we teached OpenGL and GLSL.
@@ -173,7 +173,7 @@ There, I was in charge of maintaining our SVN repositories and I created a websi
 
 ![IIMAS UNAM]({{ site.baseurl }}/static/images/places/iimas2.jpg "IIMAS UNAM")
 
-Right after finishing my masters, the [Department of Computer Science](https://www.iimas.unam.mx/ciencias-de-la-computacion/){:target="_blank" rel="noreferrer noopener"} of [IIMAS](https://www.iimas.unam.mx/){:target="_blank" rel="noreferrer noopener"} gave me a temporary position as a research assistant for [Dr. María Elena Martínez Pérez](http://www.pcic.unam.mx/~elena/){:target="_blank" rel="noreferrer noopener"}.
+Right after finishing my masters, the [Department of Computer Science](https://www.iimas.unam.mx/ciencias-de-la-computacion/){:target="_blank" rel="noreferrer noopener"} of [IIMAS](https://www.iimas.unam.mx/){:target="_blank" rel="noreferrer noopener"} gave me a temporary position as a research assistant for [Dr. María Elena Martínez Pérez](https://turing.iimas.unam.mx/department-members/elena/){:target="_blank" rel="noreferrer noopener"}.
 While I worked there, I contributed to a research about segmenting blood vessels from retina images obtained with a fundus camera, which was a very fun and difficult project.
 
 

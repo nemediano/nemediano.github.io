@@ -55,7 +55,7 @@ El programa de maestría tiene varias sedes.
 Yo pasé la mayoría de mi tiempo en el [Instituto de Investigación en Matemáticas Aplicadas y Sistemas](https://www.iimas.unam.mx/){:target="_blank" rel="noreferrer noopener"} (IIMAS), que se encuentra en el campus principal en Ciudad Universitaria (CDMX, México).
 
 Después de terminar el tronco común, cada estudiante escoge un área de investigación para enfocarse.
-Yo me decidí por el área de [Señales, Imágenes y Ambientes Virtuales](http://www.mcc.unam.mx/SIAV.php){:target="_blank" rel="noreferrer noopener"}, donde tomé varias clases de Procesamiento de Imágenes Digitales y Graficación por Computadora.
+Yo me decidí por el área de [Señales, Imágenes y Ambientes Virtuales](https://www.youtube.com/@seminariosiav-posgradounam524){:target="_blank" rel="noreferrer noopener"}, donde tomé varias clases de Procesamiento de Imágenes Digitales y Graficación por Computadora.
 
 Mi asesor de tesis fue el [Dr. Edgar Garduño Ángeles](https://turing.iimas.unam.mx/~egarduno/){:target="_blank" rel="noreferrer noopener"}, e hice una [tesis]({{ site.baseurl }}/publicaciones/#visualizaci%C3%B3n-suavizada-de-superficies-obtenidas-por-rastreo-de-fronteras-aplicado-a-vol%C3%BAmenes-discretizados) que se encuentra en la intersección del Procesamiento de Imágenes Digitales, la Visualización Científica y las Gráficas por Computadora.
 
@@ -117,7 +117,7 @@ Mientras estaba estudiando el doctorado, aproveché cada oportunidad disponible 
 ![Adobe oficina de  SF]({{ site.baseurl }}/static/images/places/adobe.jpg "Adobe oficina de  SF")
 
 Durante el verano del 2016, hice una pasantía en [Adobe research](https://research.adobe.com/){:target="_blank" rel="noreferrer noopener"} con el laboratorio de Imágenes Procedurales (que ahora es parte del grupo de investigación en Gráficas).
-Sin embargo, estuve en la [oficina de San Francisco](https://learning.adobe.com/products-resources/contact-us/americas/san-francisco.html){:target="_blank" rel="noreferrer noopener"}.
+Sin embargo, estuve en la [oficina de San Francisco](https://learning.stage.adobe.com/products-resources/contact-us/americas/san-francisco.html){:target="_blank" rel="noreferrer noopener"}.
 
 Mi pasantía giró alrededor de un software para modelado que simulaba el proceso de hacer una escultura.
 Esta fue por mucho la pasantía más interesante que tuve.
@@ -140,7 +140,7 @@ Estando ahí, trabajé en exponer algunas extensiones de OpenGL y en arreglar al
 
 ![Knoy Hall Purdue]({{ site.baseurl }}/static/images/places/purdue1.jpg "Knoy Hall Purdue")
 
-Mientras hacía mi doctorado, tuve que trabajar, primero como asistente de investigación (RA) y luego como ayudante de profesor (TA), ambos en el Instituto Politécnico de Purdue. Como RA, trabajé haciendo investigación en el [laboratorio de HPCG](https://polytechnic.purdue.edu/facilities/high-performance-computer-graphics-lab){:target="_blank" rel="noreferrer noopener"}, lo que culminó en [mis publicaciones]({{ site.baseurl }}/publicaciones/).
+Mientras hacía mi doctorado, tuve que trabajar, primero como asistente de investigación (RA) y luego como ayudante de profesor (TA), ambos en el Instituto Politécnico de Purdue. Como RA, trabajé haciendo investigación en el [laboratorio de HPCG](https://cs.purdue.edu/homes/bbenes/students/){:target="_blank" rel="noreferrer noopener"}, lo que culminó en [mis publicaciones]({{ site.baseurl }}/publicaciones/).
 
 Como TA, ayudé en la impartición de cursos de Graficación por Computadora y de Programación para
  [la carrera CGT](https://polytechnic.purdue.edu/departments/computer-graphics-technology){:target="_blank" rel="noreferrer noopener"}.
@@ -181,7 +181,7 @@ Mientras estuve ahí, me hice cargo de mantener nuestros repositorios de SVN y c
 ![IIMAS UNAM]({{ site.baseurl }}/static/images/places/iimas2.jpg "IIMAS UNAM")
 
 Inmediatamente después de terminar mi maestría, el [Departamento de Ciencias de la Computación](https://www.iimas.unam.mx/ciencias-de-la-computacion/){:target="_blank" rel="noreferrer noopener"} del [IIMAS](https://www.iimas.unam.mx/){:target="_blank" rel="noreferrer noopener"} me otorgó un puesto temporal como asistente de investigación.
-Trabajé con la [Dra. María Elena Martínez Pérez](http://www.pcic.unam.mx/~elena/){:target="_blank" rel="noreferrer noopener"} donde contribuí a una investigación sobre segmentación de vasos sanguíneos a partir de imágenes de retina obtenidas con una _cámara fondus_ (cámara de fondo de ojo), lo cual fue un proyecto muy divertido y difícil.
+Trabajé con la [Dra. María Elena Martínez Pérez](https://turing.iimas.unam.mx/department-members/elena/){:target="_blank" rel="noreferrer noopener"} donde contribuí a una investigación sobre segmentación de vasos sanguíneos a partir de imágenes de retina obtenidas con una _cámara fondus_ (cámara de fondo de ojo), lo cual fue un proyecto muy divertido y difícil.
 
 ## Habilidades de Computación
 
