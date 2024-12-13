@@ -84,8 +84,12 @@ Mi tarea principal era ayudar a los proveedores a traer su contenido (videojuego
 Dado que mi formación es en Gráficas por Computadora, proveía soporte de DX11, DX12 y Vulkan.
  También contribuí en el backend y escribiendo ejemplos para [Big Wheels](https://github.com/google/bigwheels){:target="_blank" rel="noreferrer noopener"}, un framework gráfico que luego se volvió Open Source.
 
-Stadia fue cancelado en Enero del 2023, y después de pasar por varios proyectos, me cambié a un puesto de Ingeniero de Software y me volví parte de la organización de Platforms and Ecosystems.
-En P&E, donde trabajo actualmente; contribuyo en darle forma a la [visión de Google en XR](https://arvr.google.com/){:target="_blank" rel="noreferrer noopener"}.
+Cuando Stadia fue cancelado, empecé a trabajar en [Android XR](https://www.android.com/xr/){:target="_blank" rel="noreferrer noopener"}, que es un sistema operativo enfocado a [VR](https://en.wikipedia.org/wiki/Virtual_reality){:target="_blank" rel="noreferrer noopener"}/[AR](https://en.wikipedia.org/wiki/Augmented_reality){:target="_blank" rel="noreferrer noopener"}/[MR](https://en.wikipedia.org/wiki/Mixed_reality){:target="_blank" rel="noreferrer noopener"}.
+Aquí, empecé ayudando a [uno de nuestros socios](https://owlchemylabs.com/){:target="_blank" rel="noreferrer noopener"} a traer su [contenido](https://vacationsimulatorgame.com/){:target="_blank" rel="noreferrer noopener"} a nuestra plataforma.
+Después, trabajé en 2D [app compatibility](https://developer.android.com/guide/app-compatibility){:target="_blank" rel="noreferrer noopener"}, que consiste en un capa de software que se encarga de que las aplicaciones tradicionales de Android funcionen bien en Android XR sin necesidad de que les hagan ningún cambio.
+También, por un breve periodo, trabajé ayudando en las extensiones de [Jetpack Compose](https://developer.android.com/compose){:target="_blank" rel="noreferrer noopener"} para VR.
+Finalmente, he estado trabajando en [benchmarks](https://github.com/google/bigwheels/tree/main/benchmarks/graphics_pipeline){:target="_blank" rel="noreferrer noopener"} para el consumo de batería del GPU en dispositivos con Android XR.
+
 
 ### Nvidia
 

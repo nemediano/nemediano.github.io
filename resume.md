@@ -79,9 +79,12 @@ My main job was helping partners to bring their content (video games) to the pla
 My focus was computer graphics, so I provided support for DX11, DX12 and Vulkan.
 I also contributed with backend and samples to [Big Wheels](https://github.com/google/bigwheels){:target="_blank" rel="noreferrer noopener"}, a graphics framework that later became open source.
 
-Stadia was shut down in January of 2023.
-After jumping on several projects, I switched to a Software Engineer position and became part of the Platforms and Ecosystems organization.
-At P&E, --where I work today--, I contribute to shape Google’s [vision on XR](https://arvr.google.com/){:target="_blank" rel="noreferrer noopener"}.
+After Stadia was shut down, I started working on [Android XR](https://www.android.com/xr/){:target="_blank" rel="noreferrer noopener"}, which is an operating system with [VR](https://en.wikipedia.org/wiki/Virtual_reality){:target="_blank" rel="noreferrer noopener"}/[AR](https://en.wikipedia.org/wiki/Augmented_reality){:target="_blank" rel="noreferrer noopener"}/[MR](https://en.wikipedia.org/wiki/Mixed_reality){:target="_blank" rel="noreferrer noopener"} in mind.
+Here I started helping [one of our partners](https://owlchemylabs.com/){:target="_blank" rel="noreferrer noopener"} to bring their [content](https://vacationsimulatorgame.com/){:target="_blank" rel="noreferrer noopener"} to the platform.
+Later, I worked on 2D [app compatibility](https://developer.android.com/guide/app-compatibility){:target="_blank" rel="noreferrer noopener"}, which is a layer that ensures that traditional Android applications work in Android XR without any change.
+Then, for a brief period of time I helped in the extension of [Jetpack Compose](https://developer.android.com/compose){:target="_blank" rel="noreferrer noopener"} for VR.
+Finally, I have been working on [benchmarks](https://github.com/google/bigwheels/tree/main/benchmarks/graphics_pipeline){:target="_blank" rel="noreferrer noopener"} for GPU power consumption on Android XR devices.
+
 
 ### Nvidia
 
