@@ -15,7 +15,7 @@ lang: en
 
 page_id: resume
 
-last_modified_at: 2024-02-16
+last_modified_at: 2024-12-14
 ---
 
 This is a rather verbose and lengthy version of my resume since I don't have any space or format constraints here. However, if you are looking for a quick and brief version, you can download the [pdf version]({{ site.baseurl }}/static/pdf/JorgeGarciaResume.pdf){:target="_blank" rel="noreferrer noopener"} or visit my [LinkedIN](https://www.linkedin.com/in/jorgegarciagalicia/){:target="_blank" rel="noreferrer noopener"} profile.

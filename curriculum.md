@@ -17,7 +17,7 @@ locale: es_MX
 
 page_id: resume
 
-last_modified_at: 2024-01-15
+last_modified_at: 2024-12-14
 ---
 
 Esta es la versión extensa de mi curriculum, dado que aquí no tengo restricciones de espacio o formato.
