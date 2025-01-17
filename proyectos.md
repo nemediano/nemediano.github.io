@@ -1,7 +1,7 @@
 ---
 layout: page
 
-title: Poyectos personales
+title: Proyectos personales
 
 permalink: /proyectos/
 
