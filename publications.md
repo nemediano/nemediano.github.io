@@ -316,7 +316,7 @@ In this way, we accomplish a crystal-like shape that glows like a mineral geode.
 The sculpture’s metamorphosis is experienced visually by sound-driven generative geometries.
 Geode is a collaborative effort to fuse public sculpture, soundscape and visual projection into one immersive experience.
 
-* [Permanent link](https://doi.org/10.1145/2810177.2810183){:target="_blank" rel="noreferrer noopener"} at the publisher's site.
+* [Permanent link](https://muse.jhu.edu/article/748788/){:target="_blank" rel="noreferrer noopener"} at the publisher's site.
 
 * Full [catalog]({{ site.baseurl }}/static/pdf/ArtGalleryCatalog.pdf){:target="_blank" rel="noreferrer noopener"} in pdf.
 

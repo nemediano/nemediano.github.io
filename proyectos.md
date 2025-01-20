@@ -75,7 +75,7 @@ Cuando me invitaron a dar una de las pláticas, decidí hacer una presentación 
 
 Esta es una presentación del tipo “my journey” acerca de mi.
 Aquí detallo como el temprano interés por los videojuegos de mi juventud me llevó en un viaje a las matemáticas y las ciencias de la computación, que incluyó hacer un doctorado y trabajar en Google.
-La conferencia fue presentada en la [FES Acatlan](https://acatlan.unam.mx/){:target="_blank" rel="noreferrer noopener"}, como parte de los festejos por el [40 aniversario](https://mac.acatlan.unam.mx/micrositios/40anios/principal.html){:target="_blank" rel="noreferrer noopener"} de la licenciatura en [Matemáticas Aplicadas y Computación](https://mac.acatlan.unam.mx/){:target="_blank" rel="noreferrer noopener"}.
+La conferencia fue presentada en la [FES Acatlan](https://acatlan.unam.mx/){:target="_blank" rel="noreferrer noopener"}, como parte de los festejos por el [40 aniversario](https://www.youtube.com/watch?v=x5F4KKqqo3o){:target="_blank" rel="noreferrer noopener"} de la licenciatura en [Matemáticas Aplicadas y Computación](https://mac.acatlan.unam.mx/){:target="_blank" rel="noreferrer noopener"}.
 El evento se llevó a cabo el 1 de Marzo del 2023.
 
 ### Entrevista acerca de Robert E. Howard

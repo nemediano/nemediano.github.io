@@ -87,7 +87,7 @@ Dado que mi formación es en Gráficas por Computadora, proveía soporte de DX11
 Cuando Stadia fue cancelado, empecé a trabajar en [Android XR](https://www.android.com/xr/){:target="_blank" rel="noreferrer noopener"}, que es un sistema operativo enfocado a [VR](https://en.wikipedia.org/wiki/Virtual_reality){:target="_blank" rel="noreferrer noopener"}/[AR](https://en.wikipedia.org/wiki/Augmented_reality){:target="_blank" rel="noreferrer noopener"}/[MR](https://en.wikipedia.org/wiki/Mixed_reality){:target="_blank" rel="noreferrer noopener"}.
 Aquí, empecé ayudando a [uno de nuestros socios](https://owlchemylabs.com/){:target="_blank" rel="noreferrer noopener"} a traer su [contenido](https://vacationsimulatorgame.com/){:target="_blank" rel="noreferrer noopener"} a nuestra plataforma.
 Después, trabajé en 2D [app compatibility](https://developer.android.com/guide/app-compatibility){:target="_blank" rel="noreferrer noopener"}, que consiste en un capa de software que se encarga de que las aplicaciones tradicionales de Android funcionen bien en Android XR sin necesidad de que les hagan ningún cambio.
-También, por un breve periodo, trabajé ayudando en las extensiones de [Jetpack Compose](https://developer.android.com/compose){:target="_blank" rel="noreferrer noopener"} para VR.
+También, por un breve periodo, trabajé ayudando en las extensiones de [Jetpack Compose](https://developer.android.com/develop/xr/jetpack-xr-sdk/develop-ui){:target="_blank" rel="noreferrer noopener"} para VR.
 Finalmente, he estado trabajando en [benchmarks](https://github.com/google/bigwheels/tree/main/benchmarks/graphics_pipeline){:target="_blank" rel="noreferrer noopener"} para el consumo de batería del GPU en dispositivos con Android XR.
 
 
@@ -99,7 +99,7 @@ Después de graduarme del doctorado en Septiembre del 2017, me incorporé a [Nvi
 
 
 En Nvidia, fui Ingeniero de Software en el equipo de navegadores web, donde trabajé haciendo   y diseñando algunos de los componentes web de [ISAAC SDK](https://developer.nvidia.com/isaac-ros){:target="_blank" rel="noreferrer noopener"}.
-Luego me cambiaron al equipo del driver 3D de dispositivos móviles, donde hice trabajo de bajo nivel de OpenGL, trabajé en Safety para Automotive y di mis primeros pasos en Vulkan.
+Luego me cambiaron al equipo del [driver](https://www.nvidia.com/en-us/drivers/){:target="_blank" rel="noreferrer noopener"} 3D de dispositivos móviles, donde hice trabajo de bajo nivel de OpenGL, trabajé en Safety para Automotive y di mis primeros pasos en [Vulkan](https://www.vulkan.org/){:target="_blank" rel="noreferrer noopener"}.
 
 ### Tecnologia en Sistemas de Computo
 
@@ -150,7 +150,7 @@ Como TA, ayudé en la impartición de cursos de Graficación por Computadora y d
  [la carrera CGT](https://polytechnic.purdue.edu/departments/computer-graphics-technology){:target="_blank" rel="noreferrer noopener"}.
 Trabajé haciendo cuestionarios y calificando tareas para cursos de desarrollo web (tanto front-end como back-end) y en “Computer Graphics programming”, que era mi favorita, porque enseñabamos OpenGL y GLSL.
 
-Finalmente, también formé parte del [Círculo de Artes Computacionales](https://boilerlink.purdue.edu/organization/cac){:target="_blank" rel="noreferrer noopener"}, donde tuve la oportunidad de colaborar con el [Dr. Esteban García Bravo](https://polytechnic.purdue.edu/profile/garcia0){:target="_blank" rel="noreferrer noopener"} (también conocido como [snebtor](https://snebtor.org/){:target="_blank" rel="noreferrer noopener"}).
+Finalmente, también formé parte del [Círculo de Artes Computacionales](https://boilerlink.purdue.edu/organization/cac){:target="_blank" rel="noreferrer noopener"}, donde tuve la oportunidad de colaborar con el [Dr. Esteban García Bravo](https://www.linkedin.com/in/garcia0/){:target="_blank" rel="noreferrer noopener"} (también conocido como [snebtor](https://snebtor.org/){:target="_blank" rel="noreferrer noopener"}).
  Algunas de estas colaboraciones también culminaron en [publicaciones]({{ site.baseurl }}/publicaciones/#yturralde-generador-de-figuras-imposibles).
 
 ### Universidad Nacional Autónoma de México
@@ -172,7 +172,7 @@ Entre otras cosas: fui miembro del [consejo técnico](https://consejotecnico.aca
 
 ![Facultad de ciencias UNAM]({{ site.baseurl }}/static/images/places/ciencias1.jpg "Facultad de ciencias UNAM")
 
-Durante mi maestría fui ayudante de profesor en la [Facultad de Ciencias](https://www.fciencias.unam.mx/){:target="_blank" rel="noreferrer noopener"}  en [dos cursos](https://archive.fciencias.unam.mx/directorio/63922){:target="_blank" rel="noreferrer noopener"}.
+Durante mi maestría fui ayudante de profesor en la [Facultad de Ciencias](https://www.fciencias.unam.mx/){:target="_blank" rel="noreferrer noopener"}  en [dos cursos](https://www.fciencias.unam.mx/directorio/63922){:target="_blank" rel="noreferrer noopener"}.
 El primero: Programación Avanzada trataba sobre Programación Orientada a Objetos.
 El segundo: Geometría Moderna se trataba de hacer geometría usando sólo una regla y un compás.
 Geometría Moderna es un nombre curioso ya que es la forma en que se estudiaba la geometría en la antigua Grecia.

@@ -82,7 +82,7 @@ I also contributed with backend and samples to [Big Wheels](https://github.com/g
 After Stadia was shut down, I started working on [Android XR](https://www.android.com/xr/){:target="_blank" rel="noreferrer noopener"}, which is an operating system with [VR](https://en.wikipedia.org/wiki/Virtual_reality){:target="_blank" rel="noreferrer noopener"}/[AR](https://en.wikipedia.org/wiki/Augmented_reality){:target="_blank" rel="noreferrer noopener"}/[MR](https://en.wikipedia.org/wiki/Mixed_reality){:target="_blank" rel="noreferrer noopener"} in mind.
 Here I started helping [one of our partners](https://owlchemylabs.com/){:target="_blank" rel="noreferrer noopener"} to bring their [content](https://vacationsimulatorgame.com/){:target="_blank" rel="noreferrer noopener"} to the platform.
 Later, I worked on 2D [app compatibility](https://developer.android.com/guide/app-compatibility){:target="_blank" rel="noreferrer noopener"}, which is a layer that ensures that traditional Android applications work in Android XR without any change.
-Then, for a brief period of time I helped in the extension of [Jetpack Compose](https://developer.android.com/compose){:target="_blank" rel="noreferrer noopener"} for VR.
+Then, for a brief period of time I helped in the extension of [Jetpack Compose](https://developer.android.com/develop/xr/jetpack-xr-sdk/develop-ui){:target="_blank" rel="noreferrer noopener"} for VR.
 Finally, I have been working on [benchmarks](https://github.com/google/bigwheels/tree/main/benchmarks/graphics_pipeline){:target="_blank" rel="noreferrer noopener"} for GPU power consumption on Android XR devices.
 
 
@@ -93,7 +93,7 @@ Finally, I have been working on [benchmarks](https://github.com/google/bigwheels
 After graduating from my PhD in September of 2017, I joined [Nvidia](https://www.nvidia.com/){:target="_blank" rel="noreferrer noopener"} and they helped me to relocate to San Jose California (a.k.a Silicon Valley).
 
 At Nvidia, I was a Software Engineer on the web browsers team, where I did some work on AR, and designed some web components of [ISAAC SDK](https://developer.nvidia.com/isaac-ros){:target="_blank" rel="noreferrer noopener"}.
-Later, they switched me to the 3D graphics driver for the mobile team, where I did some low level work on OpenGL, worked on Safety for Automotive and made my first steps with Vulkan.
+Later, they switched me to the 3D graphics [driver](https://www.nvidia.com/en-us/drivers/){:target="_blank" rel="noreferrer noopener"} for the mobile team, where I did some low level work on OpenGL, worked on Safety for Automotive and made my first steps with [Vulkan](https://www.vulkan.org/){:target="_blank" rel="noreferrer noopener"}.
 
 ### Computational Systems Technology
 
@@ -144,7 +144,7 @@ As an RA I spent my time working doing research at the [HPCG lab](https://cs.pur
 As a TA I assisted in teaching Graphics and programming courses for the [CGT major](https://polytechnic.purdue.edu/departments/computer-graphics-technology){:target="_blank" rel="noreferrer noopener"}.
 I worked in designing quizzes and grading for courses in web development (both front end and back end) and in Computer Graphics programming, which was always my favorite, because we teached OpenGL and GLSL.
 
-Finally, I was also part of the [Computational Arts Circle](https://boilerlink.purdue.edu/organization/cac){:target="_blank" rel="noreferrer noopener"}, where I had the chance of collaborating with [Dr. Esteban García Bravo](https://polytechnic.purdue.edu/profile/garcia0){:target="_blank" rel="noreferrer noopener"} (a.k.a [snebtor](https://snebtor.org/){:target="_blank" rel="noreferrer noopener"}).
+Finally, I was also part of the [Computational Arts Circle](https://boilerlink.purdue.edu/organization/cac){:target="_blank" rel="noreferrer noopener"}, where I had the chance of collaborating with [Dr. Esteban García Bravo](https://www.linkedin.com/in/garcia0/){:target="_blank" rel="noreferrer noopener"} (a.k.a [snebtor](https://snebtor.org/){:target="_blank" rel="noreferrer noopener"}).
 Some of these collaborations also culminated in [publications]({{ site.baseurl }}/publications/#yturralde-impossible-figure-generator).
 
 ### National Autonomous University of Mexico
@@ -164,7 +164,7 @@ Among others I was a [technical council](https://consejotecnico.acatlan.unam.mx/
 
 ![Facultad de ciencias UNAM]({{ site.baseurl }}/static/images/places/ciencias1.jpg "Facultad de ciencias UNAM")
 
-During my masters degree, I was a teaching assistant at the [School of Sciences](https://www.fciencias.unam.mx/){:target="_blank" rel="noreferrer noopener"}  in [two courses](https://archive.fciencias.unam.mx/directorio/63922){:target="_blank" rel="noreferrer noopener"}.
+During my masters degree, I was a teaching assistant at the [School of Sciences](https://www.fciencias.unam.mx/){:target="_blank" rel="noreferrer noopener"}  in [two courses](https://www.fciencias.unam.mx/directorio/63922){:target="_blank" rel="noreferrer noopener"}.
 The first: Advanced Programming was about Object Oriented Programming.
 The second: Modern Geometry was about doing geometry using only a ruler and a pair of compasses.
 Modern Geometry it's a curios name since it is the way geometry was studied in ancient Greece.

@@ -324,7 +324,7 @@ Visualizamos paisajes sonoros transformando señales analógicas en datos digita
 La metamorfosis de la escultura se experimenta visualmente a través de geometrías generativas impulsadas por el sonido.
 Geode es un esfuerzo colaborativo para fusionar escultura pública, paisaje sonoro y proyección visual en una experiencia inmersiva.
 
-* [Link permanente](https://doi.org/10.1145/2810177.2810183){:target="_blank" rel="noreferrer noopener"} en el sitio de publicación.
+* [Link permanente](https://muse.jhu.edu/article/748788/){:target="_blank" rel="noreferrer noopener"} en el sitio de publicación.
 
 * Descargar el [catálogo]({{ site.baseurl }}/static/pdf/ArtGalleryCatalog.pdf){:target="_blank" rel="noreferrer noopener"} completo en pdf.
 
