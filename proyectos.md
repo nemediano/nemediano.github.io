@@ -17,7 +17,7 @@ locale: es_MX
 
 page_id: projects
 
-last_modified_at: 2024-01-15
+last_modified_at: 2025-06-13
 ---
 
 Esta es una lista no exhaustiva de mis proyectos personales, la mayoría se pueden encontrar en [GitHub](https://github.com/nemediano){:target="_blank" rel="noreferrer noopener"}.
@@ -28,7 +28,7 @@ Esta es una lista no exhaustiva de mis proyectos personales, la mayoría se pued
 
 Desde que era niño siempre fui fan de [Robert E. Howard](https://en.wikipedia.org/wiki/Robert_E._Howard){:target="_blank" rel="noreferrer noopener"}.
 En los últimos años, me percate de que hay muchas más fuentes de información en Inglés comparadas con las que existen en Español.
-Con eso en mente, decidí empezar un [canal de youtube](){:target="_blank" rel="noreferrer noopener"} acerca de él.
+Con eso en mente, decidí empezar un [canal de youtube](https://www.youtube.com/@baulHoward){:target="_blank" rel="noreferrer noopener"} acerca de él.
 Luego me di cuenta de que necesitaba [un blog](https://nemediano.github.io/canalREH/){:target="_blank" rel="noreferrer noopener"} para acompañarlo (para poder compartir links y descargas) y lo usé como una excusa para aprender [Jekyll](https://jekyllrb.com/){:target="_blank" rel="noreferrer noopener"}.
 Como de costumbre lo puse todo en un [repositorio](https://github.com/nemediano/canalREH){:target="_blank" rel="noreferrer noopener"}.
 

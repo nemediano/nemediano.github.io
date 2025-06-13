@@ -15,7 +15,7 @@ lang: en
 
 page_id: projects
 
-last_modified_at: 2024-02-16
+last_modified_at: 2025-06-13
 ---
 
 This is a non comprehensive list of my personal projects. Most of them are hosted on [Github](https://github.com/nemediano){:target="_blank" rel="noreferrer noopener"}.
@@ -25,7 +25,7 @@ This is a non comprehensive list of my personal projects. Most of them are hoste
 ![Robert E. Howard]({{ site.baseurl }}/static/images/projects/RobertHoward.jpg "Robert E. Howard picture")
 
 I have been a [Robert E. Howard](https://en.wikipedia.org/wiki/Robert_E._Howard){:target="_blank" rel="noreferrer noopener"} fan since I was a child. In the last few years, I found out that there are a lot of resources in English compared to the ones in Spanish.
-With that in mind, I decided to start a [youtube channel](){:target="_blank" rel="noreferrer noopener"} about him.
+With that in mind, I decided to start a [youtube channel](https://www.youtube.com/@baulHoward){:target="_blank" rel="noreferrer noopener"} about him.
 Then, I realized that I needed [a blog](https://nemediano.github.io/canalREH/){:target="_blank" rel="noreferrer noopener"} as a companion (so I can share content and links) and use it as an excuse to learn [Jekyll](https://jekyllrb.com/){:target="_blank" rel="noreferrer noopener"}. As usual, I keep it all in a [repository](https://github.com/nemediano/canalREH){:target="_blank" rel="noreferrer noopener"}.
 
 ### Templates for learning OpenGL
