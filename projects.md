@@ -15,10 +15,26 @@ lang: en
 
 page_id: projects
 
-last_modified_at: 2025-06-13
+last_modified_at: 2025-10-26
 ---
 
 This is a non comprehensive list of my personal projects. Most of them are hosted on [Github](https://github.com/nemediano){:target="_blank" rel="noreferrer noopener"}.
+
+### Shadertoy Workshop
+
+![Shadertoy Workshop]({{ site.baseurl }}/static/images/projects/shadertoyWorkshop.png "Shadertoy Workshop picture")
+
+[Creative coding](https://en.wikipedia.org/wiki/Creative_coding){:target="_blank" rel="noreferrer noopener"} is a way of artistic expression through programming.
+[Shader Toy](https://www.shadertoy.com/){:target="_blank" rel="noreferrer noopener"} is a website, with social networking aspects, that allows users to create and share [fragment shaders](https://wikis.khronos.org/opengl/Fragment_Shader){:target="_blank" rel="noreferrer noopener"} by programming in [GLSL](https://en.wikipedia.org/wiki/OpenGL_Shading_Language){:target="_blank" rel="noreferrer noopener"}.
+In particular, it promotes the paradigm of drawing the world in two triangles, which commonly involves [raymarching](https://en.wikipedia.org/wiki/Ray_marching){:target="_blank" rel="noreferrer noopener"}.
+
+A while ago, I decided to create a [workshop](https://github.com/nemediano/tallerShadertoy){:target="_blank" rel="noreferrer noopener"} where the basic requirements for writing these "toy shaders" are explained.
+Ideally, the student should have taken a computer graphics course.
+However, you can take advantage of the workshop, with basic knowledge of geometry and programming.
+Any second-year student studying computer science (or related areas) can benefit.
+
+The workshop was given within the framework of the [1st. International Congress of Artificial Intelligence](https://iacongreso.unam.mx/){:target="_blank" rel="noreferrer noopener"} organized by [UNAM](https://www.unam.mx/) in April 2025.
+The host of the workshop was [FES Acatlán](https://www.acatlan.unam.mx/){:target="_blank" rel="noreferrer noopener"}.
 
 ### My personal homage to Robert E. Howard
 
