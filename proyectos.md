@@ -17,18 +17,18 @@ locale: es_MX
 
 page_id: projects
 
-last_modified_at: 2025-10-26
+last_modified_at: 2025-10-31
 ---
 
 Esta es una lista no exhaustiva de mis proyectos personales, la mayoría se pueden encontrar en [GitHub](https://github.com/nemediano){:target="_blank" rel="noreferrer noopener"}.
 
-### Talller de Shadertoy
+### Taller de Shadertoy
 
 ![Taller de shadertoy]({{ site.baseurl }}/static/images/projects/shadertoyWorkshop.png "Taller de shadertoy imagen")
 
 La [programación creativa](https://en.wikipedia.org/wiki/Creative_coding){:target="_blank" rel="noreferrer noopener"} es una manera de expresión artística por medio de la programación.
-[Shader Toy](https://www.shadertoy.com/){:target="_blank" rel="noreferrer noopener"} es un sitio web, con aspectos de red social que permite a los usuarios crear y compartir [fragment shaders](https://wikis.khronos.org/opengl/Fragment_Shader){:target="_blank" rel="noreferrer noopener"} programando en [GLSL](https://en.wikipedia.org/wiki/OpenGL_Shading_Language){:target="_blank" rel="noreferrer noopener"}.
-En particular, promueve el paradigma de dibujar el mundo en dos triángulos, lo que comúnmente implica hacer [raymarching](https://en.wikipedia.org/wiki/Ray_marching){:target="_blank" rel="noreferrer noopener"}.
+[Shader Toy](https://www.shadertoy.com/){:target="_blank" rel="noreferrer noopener"} es un sitio web; con aspectos de red social, que permite a los usuarios crear y compartir [fragment shaders](https://wikis.khronos.org/opengl/Fragment_Shader){:target="_blank" rel="noreferrer noopener"} programando en [GLSL](https://en.wikipedia.org/wiki/OpenGL_Shading_Language){:target="_blank" rel="noreferrer noopener"}.
+En particular, promueve el paradigma de "dibujar el mundo en dos triángulos", lo que comúnmente implica hacer [raymarching](https://en.wikipedia.org/wiki/Ray_marching){:target="_blank" rel="noreferrer noopener"}.
 
 Hace un tiempo, decidí crear un [taller](https://github.com/nemediano/tallerShadertoy){:target="_blank" rel="noreferrer noopener"} donde se explican los requerimientos básicos para escribir estos "shaders de juguete".
 Idealmente, el alumno debería haber tomado un curso de graficación por computadora.
@@ -36,6 +36,7 @@ Sin embargo, se puede aprovechar el taller, con conocimientos básicos de geomet
 Cualquier alumno de segundo año de una carrera de computación (o áreas afines) puede beneficiarse
 
 El taller se impartió en el marco del [1er. Congreso Internacional de Inteligencia Artificial](https://iacongreso.unam.mx/){:target="_blank" rel="noreferrer noopener"} organizado por la [UNAM](https://www.unam.mx/) en abril del 2025.
+Aun cuando el taller no tiene que ver con IA.
 La sede del taller fué la [FES Acatlán](https://www.acatlan.unam.mx/){:target="_blank" rel="noreferrer noopener"}.
 
 ### Mi homenaje personal a Robert E. Howard
