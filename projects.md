@@ -33,7 +33,7 @@ Ideally, the student should have taken a computer graphics course.
 However, you can take advantage of the workshop, with basic knowledge of geometry and programming.
 Any second-year student studying computer science (or related areas) can benefit.
 
-The workshop was given within the framework of the [1st. International Congress of Artificial Intelligence](https://iacongreso.unam.mx/){:target="_blank" rel="noreferrer noopener"} organized by [UNAM](https://www.unam.mx/) (therefore, most of the workshop contents are in Spanish) in April 2025.
+The workshop took place during the [1st. International Congress of Artificial Intelligence](https://iacongreso.unam.mx/){:target="_blank" rel="noreferrer noopener"} organized by [UNAM](https://www.unam.mx/) (therefore, most of the workshop contents are in Spanish) in April 2025.
 Even when the workshop has nothing to do with AI.
 The host of the workshop was [FES Acatlán](https://www.acatlan.unam.mx/){:target="_blank" rel="noreferrer noopener"}.
 
