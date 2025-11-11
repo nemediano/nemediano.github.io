@@ -103,5 +103,5 @@ minima:
   #  - { platform: stackoverflow,  user_url: "https://stackoverflow.com/users/1234567/jekyll" }
   #  - { platform: telegram,       user_url: "https://t.me/jekyll" }
   #  - { platform: twitter,        user_url: "https://twitter.com/nemediano" }
-    - { platform: x,              user_url: "https://x.com/nemediano" }
+  #  - { platform: x,              user_url: "https://x.com/nemediano" }
     - { platform: youtube,        user_url: "https://www.youtube.com/nemediano" }
