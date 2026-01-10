@@ -8,6 +8,9 @@ author:
 description: >
   I'm Jorge Antonio García Galicia, here you can find info about me, like projects, curriculum vitae and publications.
 
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://nemediano.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+
 # Build settings
 
 # If you clone the Minima repo and build locally, use this setting.
