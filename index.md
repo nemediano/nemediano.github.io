@@ -29,7 +29,7 @@ I studied my doctorate at [Purdue University](https://www.purdue.edu/){:target="
 My professional interests are divided into two: as a mathematician I like Geometry (analytic, modern, computational, algebraic), and as a computer scientist I love Computer Graphics.
 My Erdos number [is four]({{ site.baseurl }}/static/pdf/ErdosNumber.pdf){:target="_blank" rel="noreferrer noopener"}.
 
-Even though my professional training is technical and scientific, I come from a family of artists which contributed to developing a great appreciation for the arts and humanities.
+Even though my professional background is technical and scientific, I come from a family of artists, which led me to develop a deep appreciation for the arts and humanities.
 
 On a more personal note, I'm a real geek. I enjoy: reading comics (especially non-superhero ones), novels, mathematics, art, video games, television series, sports, music and cartoons.
 
@@ -44,7 +44,7 @@ Estudié mi doctorado en [Purdue University](https://www.purdue.edu/){:target="_
 Mis intereses profesionales están divididos en dos: como matemático me gusta la geometría (analítica, moderna, computacional, algebraica), y como computólogo me encantan las Gráficas por Computadora.
 Mi número de Erdos [es cuatro]({{ site.baseurl }}/static/pdf/ErdosNumber.pdf){:target="_blank" rel="noreferrer noopener"}.
 
-Aún cuando mi formación profesional es técnica y científica, provengo de una familia de artistas lo cual contribuyó a que desarrollara una gran apreciación por las artes y las humanidades.
+Aunque mi trayectoria profesional es técnica y científica, provengo de una familia de artistas, lo que me llevó a desarrollar un profundo aprecio por las artes y las humanidades.
 
 De manera más personal, soy un verdadero geek. Disfruto de: leer cómics (especialmente, los que _no son_ de superhéroes), las novelas, las matemáticas, el arte, los videojuegos, las series de televisión, los deportes, la música y las caricaturas.
 
